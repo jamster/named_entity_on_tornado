@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block header %}
+  <h1>Named Entity Extraction</h1>
+{% end %}
+
+{% block content %}
+{{ text }}
+<br />
+<ul>
+ {% for entity in entities %}
+     <li>{{ entity }}</li>
+ {% end %}
+</ul>
+{% end %}
+
+{% block footer %}
+
+{% end %}
