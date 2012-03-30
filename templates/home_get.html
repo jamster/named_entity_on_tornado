@@ -5,12 +5,14 @@
 {% end %}
 
 {% block content %}
-<div class="span12">
 	<form method="POST" action="/">
-		<textarea class="span4 offset4" name="rawtext" placeholder="Enter some text (a news article, for instance) below to extract named-entites from" id="rawtext" cols="32" rows="12"></textarea>
-		<input class="span4 offset4" type="submit" value="Extract Named-Entities" />
+		<div class="row">
+			<textarea class="span4 offset4" name="rawtext" placeholder="Enter some text (a news article, for instance) below to extract named-entites from" id="rawtext" cols="32" rows="12"></textarea>
+		</div>
+		<div class="row">
+			<input class="span4 offset4" type="submit" value="Extract Named-Entities" />
+		</div>
 	</form>
-</div>
 {% end %}
 
 {% block footer %}
