@@ -5,15 +5,17 @@
 {% end %}
 
 {% block content %}
-<h2>Your text:</h2>
-{{ text }}
-<br />
-<h2>Named-Entities:</h2>
-<ul>
- {% for entity in entities %}
-     <li>{{ entity }}</li>
- {% end %}
-</ul>
+<div style="display:block; margin:0 auto; text-align:center; list-style:none;">
+	<h2>Your text:</h2>
+	{{ text }}
+	<br />
+	<h2>Named-Entities:</h2>
+	<ul>
+	 {% for entity in entities %}
+	     <li>{{ entity }}</li>
+	 {% end %}
+	</ul>
+</div>
 {% end %}
 
 {% block footer %}
