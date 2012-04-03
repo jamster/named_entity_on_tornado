@@ -1,0 +1,5 @@
+Named-Entity Extraction using NLTK on Tornado/Nginx
+
+This application extracts people, organizations, locations, and facilities from the unstructured text that the user pastes into the textarea.
+
+This application is deployed on an EC2 micro-instance. It runs on Ubuntu 11.10. Nginx serves static content and is a reverse-proxy/load-manager for the Tornado instances.
