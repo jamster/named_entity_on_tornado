@@ -1,21 +1,21 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<!DOCTYPE html>
 <head>
   <title>gavinmhackeling.com</title>
   <link rel="stylesheet" href="/static/css/bootstrap.min.css">
   <link rel="stylesheet" href="/static/css/style.css">  
 </head>
 <body>
-
-<div id="header">
+<div class="container" style="text-align:center;">
+<div id="header" class="row" style="margin-bottom:40px;">
   {% block header %}{% end %}
 </div>
 
-<div id="content">
+<div id="content" class="row">
   {% block content %}{% end %}
 </div>
-<div id="footer">
+<div id="footer" class="row">
   {% block footer %}{% end %}
+</div>
 </div>
 </body>
 </html>

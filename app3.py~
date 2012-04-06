@@ -33,7 +33,7 @@ class MainHandler(tornado.web.RequestHandler):
             print "********************"
             for rel in nltk.sem.extract_rels('PERSON' , 'LOCATION', doc, corpus='ieer', pattern=IN):
                 filler_tokens = dict(nltk.pos_tag(nltk.word_tokenize(rel['filler'])))
-                tmp = rel['subjtext'] + " is in " + rel['objtext']
+                tmp = rel['subjtext'] + " in " + rel['objtext']
                 relations.append(tmp)
                     
         doc.text = tokenize(text)
