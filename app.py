@@ -2,6 +2,8 @@ import os.path, re,  csv
 import tornado.web, tornado.ioloop
 from tornado.options import define, options
 import nltk.probability,  nltk.classify,  nltk.tokenize,  nltk.chunk,  nltk.tree,  nltk.sem.relextract
+import pickle
+
 
 class doc():
     pass
@@ -12,35 +14,24 @@ class MainHandler(tornado.web.RequestHandler):
 
 class SentimentAnalysisHandler(tornado.web.RequestHandler):
     def post(self):
-        tweets = []
-        reader = csv.reader(open('full-corpus.csv'), delimiter=',')
+        # load classifier
+        f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
+        classifier = pickle.load(f)
+        f.close()
         
-        for row in reader:
-            tmp = nltk.word_tokenize(row[4])
-            if (row[1] == 'positive' or row[1] == 'negative'):
-                tweets.append([[word.lower() for word in tmp if len(word) >= 3],  row[1]])
+        # load features
+        word_features = []
+        csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
+        for row in csv_reader:
+            word_features.extend(row)
                 
-        def get_word_features(wordlist):
-            wordlist = nltk.FreqDist(wordlist)
-            word_features = wordlist.keys()
-            return word_features
-
-        def get_words_in_tweets(tweets):
-            all_words = []
-            for (words,  sentiment) in tweets:
-                all_words.extend(words)
-            return all_words
-
+        # extract features from input tweet
         def extract_features(document):
             document_words = set(document)
             features = {}
             for word in word_features:
                 features['contains(%s)' % word] = (word in document_words)
             return features
-
-        word_features = get_word_features(get_words_in_tweets(tweets))
-        training_set = nltk.classify.apply_features(extract_features, tweets)
-        classifier = nltk.NaiveBayesClassifier.train(training_set)
         
         # evaluate a tweet
         tweet = self.get_argument("tweet")
