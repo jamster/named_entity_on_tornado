@@ -15,15 +15,15 @@ class MainHandler(tornado.web.RequestHandler):
 class SingleTweetAnalysisHandler(tornado.web.RequestHandler):
     def post(self):
         # load classifier
-        f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
-        #f = open('twitter_classifier_1.pickle')
+        #f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
+        f = open('twitter_classifier_1.pickle')
         classifier = pickle.load(f)
         f.close()
         
         # load features
         word_features = []
-        csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
-        #csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
+        #csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
+        csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
         for row in csv_reader:
             word_features.extend(row)
                 
@@ -38,7 +38,7 @@ class SingleTweetAnalysisHandler(tornado.web.RequestHandler):
         # evaluate a tweet
         tweet = self.get_argument("pastetweet")
         tweet_sentiment = classifier.classify(extract_features(tweet.split()))
-        self.render("sentiment_post.html", tweet=tweet,  tweet_sentiment=tweet_sentiment)
+        self.render("sentiment_singletweet_post.html", tweet=tweet,  tweet_sentiment=tweet_sentiment)
         
     def get(self):
         self.render("sentiment_get.html")
@@ -85,7 +85,7 @@ consumer_secret='mWIam6qsGVoiFfh9MGTUboA8G1EyRk8IFUvmzSWMunk', access_token_key=
         self.render("gather_tweets_post.html", topic=self.get_argument("tweettopic"), tweets_and_sentiments=tweets_and_sentiments)
         
     def get(self):
-        self.render("sentiment_get.html")
+        self.redirect("/singletweetanalysis")
         
 
 class EntityRelationExtractorHandler(tornado.web.RequestHandler):
@@ -128,8 +128,8 @@ class EntityRelationExtractorHandler(tornado.web.RequestHandler):
 handlers = [
             (r"/", MainHandler), 
             (r"/extractor",  EntityRelationExtractorHandler), 
-            (r"/sentiment",  SingleTweetAnalysisHandler), 
-            (r"/gathersentiment",  TopicAnalysisHandler), ]
+            (r"/tweetanalysis",  SingleTweetAnalysisHandler), 
+            (r"/gathertweetsanalysis",  TopicAnalysisHandler), ]
             
 settings = dict(template_path=os.path.join(os.path.dirname(__file__), "templates"))
 application = tornado.web.Application(handlers, **settings)
