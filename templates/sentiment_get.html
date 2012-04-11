@@ -1,18 +1,42 @@
 {% extends "base.html" %}
 
 {% block header %}
-  <h1>Tweet Sentiment Analysis</h1>
+<h1>Tweet Sentiment Analysis</h1>
 {% end %}
 
 {% block content %}
+<div class="row">
+	<div class="span4">
 	<form method="POST" action="/sentiment">
 		<div>
-			<input type="text" class="span4 offset4" name="tweet" placeholder="Tweet to analyze" id="tweet" ></input>
+			<input type="text" class="span4" name="pastetweet" placeholder="Paste a Tweet to analyze" id="pastetweet" ></input>
 		</div>
 		<div>
-			<input class="span4 offset4" type="submit" value="Gather and Analyze Tweets" />
+			<input type="submit" class="span4" value="Analyze Tweet" />
 		</div>
 	</form>
+</div>
+<div class="span4">
+	<form method="POST" action="/gathersentiment">
+		<div>
+			<input type="text" class="span4" name="tweettopic" placeholder="Analyze Tweets About a Topic" id="tweettopic" ></input>
+		</div>
+		<div>
+			<input type="submit" class="span4" value="Gather and Analyze Tweets" />
+		</div>
+	</form>
+</div>
+<div class="span4">
+	<form method="POST" action="/gathertweets">
+		<div>
+			<input type="text" class="span4" name="tweettopic" placeholder="Some other thing" id="tweettopic" ></input>
+		</div>
+		<div>
+			<input type="submit" class="span4" value="Gather and Analyze Tweets" />
+		</div>
+	</form>
+</div>
+</div>
 {% end %}
 
 {% block footer %}

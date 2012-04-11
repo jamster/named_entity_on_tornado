@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Analysis of Tweets about {{ topic }}</h1>
+{% end %}
+
+{% block content %}
+<div class="row" style="text-align:left;">
+	<div class="row">
+		{% for (tweet, sentiment) in tweets_and_sentiments %}
+		<div class="span2 offset2">
+			{{ sentiment }}
+		</div>
+		<div class="span6">
+			{{ tweet }}
+		</div>
+		{% end %}
+		<!--<ul>
+			{% for (tweet, sentiment) in tweets_and_sentiments %}
+			<li>{{ sentiment }}, {{ tweet }}</li>
+			{% end %}
+		</ul>-->
+	</div>
+</div>
+{% end %}
+
+{% block footer %}
+
+{% end %}

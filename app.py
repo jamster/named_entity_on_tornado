@@ -12,16 +12,18 @@ class MainHandler(tornado.web.RequestHandler):
     def get(self):
         self.render("home_get.html")
 
-class SentimentAnalysisHandler(tornado.web.RequestHandler):
+class SingleTweetAnalysisHandler(tornado.web.RequestHandler):
     def post(self):
         # load classifier
         f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
+        #f = open('twitter_classifier_1.pickle')
         classifier = pickle.load(f)
         f.close()
         
         # load features
         word_features = []
         csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
+        #csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
         for row in csv_reader:
             word_features.extend(row)
                 
@@ -34,9 +36,53 @@ class SentimentAnalysisHandler(tornado.web.RequestHandler):
             return features
         
         # evaluate a tweet
-        tweet = self.get_argument("tweet")
+        tweet = self.get_argument("pastetweet")
         tweet_sentiment = classifier.classify(extract_features(tweet.split()))
         self.render("sentiment_post.html", tweet=tweet,  tweet_sentiment=tweet_sentiment)
+        
+    def get(self):
+        self.render("sentiment_get.html")
+        
+class TopicAnalysisHandler(tornado.web.RequestHandler):
+    def post(self):
+        import twitter
+        api = twitter.Api(consumer_key='nmnjwvk2sVD6xQBVaMKzg',
+consumer_secret='mWIam6qsGVoiFfh9MGTUboA8G1EyRk8IFUvmzSWMunk', access_token_key='14103281-uirUc767UEjO6pSToRqbvi6byNJKGppVqaf3BJv0k', access_token_secret='WwtwNwDyjnDeGlaPnokWxChR4rIocA5RQI5xIlAOM')
+
+        # load classifier
+        #f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
+        f = open('twitter_classifier_1.pickle')
+        classifier = pickle.load(f)
+        f.close()
+        
+        # load features
+        word_features = []
+        #csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
+        csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
+        for row in csv_reader:
+            word_features.extend(row)
+        
+        # gather tweets and extract status text
+        rawtweets = api.GetSearch(term=self.get_argument("tweettopic"))
+        tweets = []
+        for tweet in rawtweets:
+            tweets.append(tweet.text)
+        
+        # extract features from input tweet
+        def extract_features(document):
+            document_words = set(document)
+            features = {}
+            for word in word_features:
+                features['contains(%s)' % word] = (word in document_words)
+            return features
+        
+        # evaluate tweets
+        tweet_sentiments = []
+        for tweet in tweets:
+            tweet_sentiments.append(classifier.classify(extract_features(tweet.split())))
+        tweets_and_sentiments = zip(tweets,  tweet_sentiments)
+            
+        self.render("gather_tweets_post.html", topic=self.get_argument("tweettopic"), tweets_and_sentiments=tweets_and_sentiments)
         
     def get(self):
         self.render("sentiment_get.html")
@@ -82,7 +128,8 @@ class EntityRelationExtractorHandler(tornado.web.RequestHandler):
 handlers = [
             (r"/", MainHandler), 
             (r"/extractor",  EntityRelationExtractorHandler), 
-            (r"/sentiment",  SentimentAnalysisHandler), ]
+            (r"/sentiment",  SingleTweetAnalysisHandler), 
+            (r"/gathersentiment",  TopicAnalysisHandler), ]
             
 settings = dict(template_path=os.path.join(os.path.dirname(__file__), "templates"))
 application = tornado.web.Application(handlers, **settings)
