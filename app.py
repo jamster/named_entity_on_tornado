@@ -1,4 +1,4 @@
-import os.path, re
+import os.path, re,  csv
 import tornado.web, tornado.ioloop
 from tornado.options import define, options
 import nltk.probability,  nltk.classify,  nltk.tokenize,  nltk.chunk,  nltk.tree,  nltk.sem.relextract
@@ -12,28 +12,18 @@ class MainHandler(tornado.web.RequestHandler):
 
 class SentimentAnalysisHandler(tornado.web.RequestHandler):
     def post(self):
-        pos_tweets = [('I love this car', 'positive'),
-              ('This view is amazing', 'positive'),
-              ('I feel great this morning', 'positive'),
-              ('I am so excited about the concert', 'positive'),
-              ('He is my best friend', 'positive')]
-        neg_tweets = [('I do not like this car', 'negative'),
-                      ('This view is horrible', 'negative'),
-                      ('I feel tired this morning', 'negative'),
-                      ('I am not looking forward to the concert', 'negative'),
-                      ('He is my enemy', 'negative')]
-
         tweets = []
-        for (words,  sentiment) in pos_tweets + neg_tweets:
-            words_filtered = [e.lower() for e in words.split() if len(e) >= 3]
-            tweets.append((words_filtered,  sentiment))
-            
-        test_tweets = [
-            (['feel', 'happy', 'this', 'morning'], 'positive'),
-            (['larry', 'friend'], 'positive'),
-            (['not', 'like', 'that', 'man'], 'negative'),
-            (['house', 'not', 'great'], 'negative'),
-            (['your', 'song', 'annoying'], 'negative')]
+        reader = csv.reader(open('full-corpus.csv'), delimiter=',')
+        
+        for row in reader:
+            tmp = nltk.word_tokenize(row[4])
+            if (row[1] == 'positive' or row[1] == 'negative'):
+                tweets.append([[word.lower() for word in tmp if len(word) >= 3],  row[1]])
+                
+        def get_word_features(wordlist):
+            wordlist = nltk.FreqDist(wordlist)
+            word_features = wordlist.keys()
+            return word_features
 
         def get_words_in_tweets(tweets):
             all_words = []
@@ -41,23 +31,17 @@ class SentimentAnalysisHandler(tornado.web.RequestHandler):
                 all_words.extend(words)
             return all_words
 
-        def get_word_features(wordlist):
-            wordlist = nltk.FreqDist(wordlist)
-            word_features = wordlist.keys()
-            return word_features
-            
         def extract_features(document):
             document_words = set(document)
             features = {}
             for word in word_features:
                 features['contains(%s)' % word] = (word in document_words)
             return features
-                
-        word_features = get_word_features(get_words_in_tweets(tweets))
 
+        word_features = get_word_features(get_words_in_tweets(tweets))
         training_set = nltk.classify.apply_features(extract_features, tweets)
         classifier = nltk.NaiveBayesClassifier.train(training_set)
-
+        
         # evaluate a tweet
         tweet = self.get_argument("tweet")
         tweet_sentiment = classifier.classify(extract_features(tweet.split()))
