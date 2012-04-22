@@ -19,9 +19,64 @@ class MainHandler(tornado.web.RequestHandler):
         
 class QuestionAnswerHandler(tornado.web.RequestHandler):
     def post(self):
+        expanded_types = dict(
+            HUM='Human', 
+            LOC='Location', 
+            NUM='Number', 
+            ABBR='Abbreviation', 
+            DESC='Description', 
+            ENTY='Entity', 
+            desc='Description', 
+            gr='Organization or group of people', 
+            ind='Individual person', 
+            title='Title', 
+            city='City',
+            country='Country', 
+            state='Geo-political state', 
+            mount='Mountain range', 
+            other='Other', 
+            code='Code', 
+            count='Count or quantity', 
+            date='Date', 
+            money='Money', 
+            ord='Order or rank', 
+            perc='Percentage', 
+            period='Period or duration', 
+            speed='Speed', 
+            temp='Temperature', 
+            volsize='Volume or size', 
+            weight='Weight', 
+            abb='Abbreviation', 
+            exp='Expansion of an abbreviation', 
+            manner='Manner or way', 
+            reason='Reason or cause', 
+            animal='Animal', 
+            body='Body or organ', 
+            color='color', 
+            cremat='Creative or cultural material', 
+            currency='Currency', 
+            dismed='Disease or Medicine', 
+            event='Event', 
+            food='Food', 
+            instru='Instrument', 
+            lang='Language', 
+            letter='Alphabet letter', 
+            plant='Plant', 
+            product='Product', 
+            religion='Religion', 
+            sport='Sport', 
+            substance='Material or substance', 
+            symbol='Symbol', 
+            techmeth='Technological method', 
+            termeq='Equivalent term',
+            veh='Vehicle', 
+            word='Word', 
+        )
+        expanded_types['def'] = 'Definition'
+
         question = [self.get_argument("pastequestion")]
-        #os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
-        os.chdir('/home/ubuntu/www/static/pickles')
+        os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
+        #os.chdir('/home/ubuntu/www/static/pickles')
         categories = ['HUM', 'LOC', 'NUM', 'ENTY', 'DESC', 'ABBR']
         fine_categories = dict(HUM=['desc',  'gr',  'ind',  'title'], 
                                LOC=['city',  'country',  'mount',  'other',  'state'], 
@@ -51,8 +106,8 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
             categories = fine_categories[coarse_category]
             print categories
             
-            #os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
-            os.chdir('/home/ubuntu/www/static/pickles')
+            os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
+            #os.chdir('/home/ubuntu/www/static/pickles')
             # open fine data pickle
             print 'opening data pickle: ' + 'pickle_training_%s.pkl' % coarse_category
             data_pickle = open('pickle_training_%s.pkl' % coarse_category,  'rb')
@@ -73,8 +128,8 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
         
         self.render("question_analysis_post.html", 
                     question=question,  
-                    answer_type_coarse=coarse_category,  
-                    answer_type_fine=answer_type_fine, )
+                    answer_type_coarse=expanded_types[coarse_category],  
+                    answer_type_fine=expanded_types[answer_type_fine], )
                     
     def get(self):
         self.render("question_analysis_get.html")
