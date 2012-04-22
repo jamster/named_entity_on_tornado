@@ -51,7 +51,8 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
             categories = fine_categories[coarse_category]
             print categories
             
-            os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
+            #os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
+            os.chdir('/home/ubuntu/www/static/pickles')
             # open fine data pickle
             print 'opening data pickle: ' + 'pickle_training_%s.pkl' % coarse_category
             data_pickle = open('pickle_training_%s.pkl' % coarse_category,  'rb')
