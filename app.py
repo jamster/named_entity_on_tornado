@@ -75,8 +75,8 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
         expanded_types['def'] = 'Definition'
 
         question = [self.get_argument("pastequestion")]
-        os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
-        #os.chdir('/home/ubuntu/www/static/pickles')
+        #os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
+        os.chdir('/home/ubuntu/www/static/pickles')
         categories = ['HUM', 'LOC', 'NUM', 'ENTY', 'DESC', 'ABBR']
         fine_categories = dict(HUM=['desc',  'gr',  'ind',  'title'], 
                                LOC=['city',  'country',  'mount',  'other',  'state'], 
@@ -106,8 +106,8 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
             categories = fine_categories[coarse_category]
             print categories
             
-            os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
-            #os.chdir('/home/ubuntu/www/static/pickles')
+            #os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
+            os.chdir('/home/ubuntu/www/static/pickles')
             # open fine data pickle
             print 'opening data pickle: ' + 'pickle_training_%s.pkl' % coarse_category
             data_pickle = open('pickle_training_%s.pkl' % coarse_category,  'rb')
