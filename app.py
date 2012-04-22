@@ -127,7 +127,7 @@ class QuestionAnswerHandler(tornado.web.RequestHandler):
             answer_type_fine = train_data.target_names[fine_predicted[0]]
         
         self.render("question_analysis_post.html", 
-                    question=question,  
+                    question=question[0],  
                     answer_type_coarse=expanded_types[coarse_category],  
                     answer_type_fine=expanded_types[answer_type_fine], )
                     
