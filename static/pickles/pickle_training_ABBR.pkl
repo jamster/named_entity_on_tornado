@@ -1,0 +1,265 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.datasets.base
+Bunch
+p1
+c__builtin__
+dict
+p2
+(dp3
+S'DESCR'
+p4
+NsS'data'
+p5
+(lp6
+S'CPR is the abbreviation for what ?'
+p7
+aS'What is the abbreviation of General Motors ?'
+p8
+aS'What does RCA stand for ?'
+p9
+aS"What does INRI stand for when used on Jesus ' cross ?"
+p10
+aS'What is the abbreviation of the International Olympic Committee ?'
+p11
+aS'What is HDLC ?'
+p12
+aS'What is the abbreviation for Original Equipment Manufacturer ?'
+p13
+aS"What do the letters ZIP stand for in the phrase ` ` ZIP code ' ' ?"
+p14
+aS'What is the abbreviated term used for the National Bureau of Investigation ?'
+p15
+aS'What does G.M.T. stand for ?'
+p16
+aS'What is RAM in the computer ?'
+p17
+aS'What do the letters CE stand for on so many products , particularly electrical , purchased now ?'
+p18
+aS'In a computer , what does SCSI mean ?'
+p19
+aS'What does pH stand for ?'
+p20
+aS'What is SVHS ?'
+p21
+aS'What is LMDS ?'
+p22
+aS'What does SHIELD stand for ?'
+p23
+aS'What is p.m. an abbreviation for , as in 5 p.m. ?'
+p24
+aS'What does the abbreviation OAS stand for ?'
+p25
+aS'What does R.E.M. stand for , as in the rock group R.E.M. ?'
+p26
+aS'What is the correct way to abbreviate cc. at the bottom of a business letter ?'
+p27
+aS'What does S.O.S. stand for ?'
+p28
+aS'What does the abbreviation AIDS stand for ?'
+p29
+aS"What is a ` ` USB ' ' port on a computer ?"
+p30
+aS"What is the abbreviation of the company name ` General Motors ' ?"
+p31
+aS'What does BMW stand for ?'
+p32
+aS"What 's the abbreviation for limited partnership ?"
+p33
+aS'What is AFS ?'
+p34
+aS'What does IOC stand for ?'
+p35
+aS'CNN is the abbreviation for what ?'
+p36
+aS'What does JESSICA mean ?'
+p37
+aS'What is DTMF ?'
+p38
+aS'What does Ms. , Miss , and Mrs. stand for ?'
+p39
+aS'What is BPH ?'
+p40
+aS'What does the abbreviation IOC stand for ?'
+p41
+aS'What is the abbreviation for micro ?'
+p42
+aS'What does the channel ESPN stand for ?'
+p43
+aS'What does NAFTA stand for ?'
+p44
+aS'What do the letters D.C. stand for in Washington , D.C. ?'
+p45
+aS'What is the full name of the PLO ?'
+p46
+aS'What does CNN stand for ?'
+p47
+aS'What does the E stand for in the equation E = mc2 ?'
+p48
+aS"What is Mikhail Gorbachev 's middle initial ?"
+p49
+aS'What does NECROSIS mean ?'
+p50
+aS'What is the acronym for the National Bureau of Investigation ?'
+p51
+aS'What does the abbreviation cwt. ?'
+p52
+aS"What does ` PSI ' stand for ?"
+p53
+aS"What does the number ` ` 5 ' ' stand for on FUBU clothing ?"
+p54
+aS"What does ` ` B.Y.O.B. ' ' mean ?"
+p55
+aS'What is the abbreviation of the National Bureau of Investigation ?'
+p56
+aS'What does HIV stand for ?'
+p57
+aS'What is HTML ?'
+p58
+aS'What does SIDS stand for ?'
+p59
+aS'What does NN O ` ` mean when used as a prefix in Irish surnames ?'
+p60
+aS'What is DEET ?'
+p61
+aS'CNN is an acronym for what ?'
+p62
+aS'What does MSG stand for ?'
+p63
+aS'What does the word LASER mean ?'
+p64
+aS'What is the abbreviated expression for the National Bureau of Investigation ?'
+p65
+aS'What does the acronym CPR mean ?'
+p66
+aS"What does the ` ` c ' ' stand for in the equation E = mc2 ?"
+p67
+aS'What does NASDAQ stand for ?'
+p68
+aS'What is the full form of .com ?'
+p69
+aS'What is IOC an abbreviation of ?'
+p70
+aS'What does VCR stand for ?'
+p71
+aS'What does EKG stand for ?'
+p72
+aS'What does snafu stand for ?'
+p73
+aS'What is RCD ?'
+p74
+aS'When reading classified ads , what does EENTY : other stand for ?'
+p75
+aS"What does the T.S. stand for in T.S. Eliot 's name ?"
+p76
+aS'What is SAP ?'
+p77
+aS'What does CPR stand for ?'
+p78
+aS'What does A&W of root beer fame stand for ?'
+p79
+aS'What does LOL mean ?'
+p80
+aS"What 's the abbreviation for trinitrotoluene ?"
+p81
+aS'What does BTU mean ?'
+p82
+aS'What does IBM stand for ?'
+p83
+aS'What is the abbreviated form of the National Bureau of Investigation ?'
+p84
+aS'What does U.S.S.R. stand for ?'
+p85
+aS'What is DSL ?'
+p86
+aS'What does BUD stand for ?'
+p87
+aS'What does e.g. stand for ?'
+p88
+aS'What does IQ stand for ?'
+p89
+aS"What does the ` ` blue ribbon ' ' stand for ?"
+p90
+aS'What is the acronym for the rating system for air conditioner efficiency ?'
+p91
+aS'What does NASA stand for ?'
+p92
+asS'target'
+p93
+cnumpy.core.multiarray
+_reconstruct
+p94
+(cnumpy
+ndarray
+p95
+(I0
+tp96
+S'b'
+p97
+tp98
+Rp99
+(I1
+(I86
+tp100
+cnumpy
+dtype
+p101
+(S'i8'
+p102
+I0
+I1
+tp103
+Rp104
+(I3
+S'<'
+p105
+NNNI-1
+I-1
+I0
+tp106
+bI00
+S'\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00'
+p107
+tp108
+bsS'target_names'
+p109
+(lp110
+S'abb'
+p111
+aS'exp'
+p112
+asS'filenames'
+p113
+g94
+(g95
+(I0
+tp114
+g97
+tp115
+Rp116
+(I1
+(I86
+tp117
+g101
+(S'S17'
+p118
+I0
+I1
+tp119
+Rp120
+(I3
+S'|'
+p121
+NNNI17
+I1
+I0
+tp122
+bI00
+S'ABBR/exp/5067.txtABBR/abb/1742.txtABBR/exp/4599.txtABBR/exp/147.txt\x00ABBR/abb/4679.txtABBR/exp/3795.txtABBR/abb/3910.txtABBR/exp/1279.txtABBR/abb/2379.txtABBR/exp/443.txt\x00ABBR/exp/4171.txtABBR/exp/4262.txtABBR/exp/3661.txtABBR/exp/5012.txtABBR/exp/4251.txtABBR/exp/4347.txtABBR/exp/2500.txtABBR/exp/5260.txtABBR/exp/3738.txtABBR/exp/5004.txtABBR/abb/4309.txtABBR/exp/221.txt\x00ABBR/exp/30.txt\x00\x00ABBR/exp/2137.txtABBR/abb/381.txt\x00ABBR/exp/4335.txtABBR/abb/2533.txtABBR/exp/2955.txtABBR/exp/2252.txtABBR/exp/261.txt\x00ABBR/exp/3188.txtABBR/exp/3139.txtABBR/exp/1197.txtABBR/exp/308.txt\x00ABBR/exp/2592.txtABBR/abb/304.txt\x00ABBR/exp/3394.txtABBR/exp/828.txt\x00ABBR/exp/1349.txtABBR/exp/848.txt\x00ABBR/exp/1885.txtABBR/exp/3335.txtABBR/abb/4943.txtABBR/exp/1716.txtABBR/abb/2356.txtABBR/exp/1257.txtABBR/exp/294.txt\x00ABBR/abb/3550.txtABBR/exp/4455.txtABBR/abb/2649.txtABBR/exp/3787.txtABBR/exp/2692.txtABBR/exp/518.txt\x00ABBR/exp/980.txt\x00ABBR/exp/3097.txtABBR/exp/3410.txtABBR/exp/3298.txtABBR/exp/854.txt\x00ABBR/abb/668.txt\x00ABBR/exp/4558.txtABBR/exp/2085.txtABBR/exp/307.txt\x00ABBR/exp/4.txt\x00\x00\x00ABBR/exp/1987.txtABBR/exp/3341.txtABBR/exp/5091.txtABBR/exp/3959.txtABBR/exp/2432.txtABBR/exp/589.txt\x00ABBR/exp/4054.txtABBR/exp/4257.txtABBR/exp/5262.txtABBR/exp/2740.txtABBR/exp/2142.txtABBR/abb/1984.txtABBR/exp/3621.txtABBR/exp/1454.txtABBR/abb/2067.txtABBR/exp/1660.txtABBR/exp/5315.txtABBR/exp/5058.txtABBR/exp/1396.txtABBR/exp/4104.txtABBR/exp/4963.txtABBR/abb/5309.txtABBR/exp/3520.txt'
+p123
+tp124
+bstp125
+Rp126
+g126
+b.

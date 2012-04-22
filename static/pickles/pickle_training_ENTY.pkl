@@ -1,0 +1,2633 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.datasets.base
+Bunch
+p1
+c__builtin__
+dict
+p2
+(dp3
+S'DESCR'
+p4
+NsS'data'
+p5
+(lp6
+S'What did The Gas House Gang play ?'
+p7
+aS'What Muhammad Ali maneuver was George Foreman the first victim of ?'
+p8
+aS'What is a fear of strong light ?'
+p9
+aS'What product did Robert Conrad dare people to knock off his shoulder ?'
+p10
+aS"What was the name of Hitler 's unsuccessful attempt to overthrow the Bavarian government in Munich in 1923 ?"
+p11
+aS'What disease plagued Europe , Africa and Asia ?'
+p12
+aS'What religion has the most members ?'
+p13
+aS'What is the name given to a group of geese ?'
+p14
+aS"Which mosquito 's bite draws blood , DT NN CC DT NN ."
+p15
+aS'What color is an Arctic fox in winter ?'
+p16
+aS"What does Playboy title its ` ` continuing dialog on contemporary issues between Playboy and its readers ' ' ?"
+p17
+aS'What are the 7 Wonders of the World ?'
+p18
+aS'What was the name of the Crimean meeting of Roosevelt , Churchill , and Stalin ?'
+p19
+aS'What is the most common cancer ?'
+p20
+aS'What do you call a book of quotes ?'
+p21
+aS"What 's the international radio code word for the letter F ?"
+p22
+aS'What materials did the three little pigs use to build their houses ?'
+p23
+aS"Which hair care product told us ` ` hate that gray , wash it away ' ' ?"
+p24
+aS'What are super balls made of ?'
+p25
+aS'What is Chiricahua the name of ?'
+p26
+aS'What TV series changed the names to protect the innocent ?'
+p27
+aS'What product on the market is good for hiding facial scars ?'
+p28
+aS'Mississippi is nicknamed what ?'
+p29
+aS'What were hairy bank notes in the fur trade ?'
+p30
+aS'What does Knight Ridder publish ?'
+p31
+aS'What foods contain vitamin B12 ?'
+p32
+aS'What John Steinbeck novel portrays the Joad family , driven from the Oklahoma dustbowl ?'
+p33
+aS'Which is a real berry : blackberry , cranberry , raspberry , strawberry ?'
+p34
+aS"What was the name of Robert Fulton 's most famous steamboat ?"
+p35
+aS'What is the treatment for depression ?'
+p36
+aS"What part of their attire were ` ` pothooks ' ' to cowboys of the Old West ?"
+p37
+aS'What kind of file has the extension .dbf ?'
+p38
+aS"What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?"
+p39
+aS'What British TV series featured Emma Peel ?'
+p40
+aS"What kind of tree graces Lebanon 's flag ?"
+p41
+aS'What was originally defined as one 1-millionth of the distance from the equator to the Pole ?'
+p42
+aS'What is a fear of going to bed ?'
+p43
+aS'What video format was an alternative to VHS ?'
+p44
+aS"What 's the only work by Michelangelo that bears his signature ?"
+p45
+aS"What 's the second-most-used murder weapon in the U.S. ?"
+p46
+aS'What disease is transmitted by the Anopheles mosquito ?'
+p47
+aS'What is a research expedition in mountain climbing ?'
+p48
+aS'The operating system that runs on IBM-compatible machines is called what ?'
+p49
+aS'What was the longest war in U.S. history ?'
+p50
+aS'What is a fear of money ?'
+p51
+aS'What is a fear of rejection ?'
+p52
+aS"What cereal goes ` ` snap , crackle , pop ' ' ?"
+p53
+aS"What was Simple Simon fishing for in his mother 's pail ?"
+p54
+aS'What two vessels fought the first sea battle between iron-covered ships ?'
+p55
+aS"What are some translations of the phrase ` ` Thank-you ' ' ?"
+p56
+aS'What does a heliologist study ?'
+p57
+aS'What five cards make up a perfect Cribbage hand ?'
+p58
+aS"What is the Scotch ` ` for people who know the difference ' ' ?"
+p59
+aS'What animal has the biggest eyes ?'
+p60
+aS'What were the first frozen foods ?'
+p61
+aS'What is the longest-running television series ?'
+p62
+aS"What fast food is prepared with a ` ` secret blend of 11 herbs and spices ? ' '"
+p63
+aS'What is a fear of worms ?'
+p64
+aS'What sport does Chris Jogis play ?'
+p65
+aS"What kind of books does Fodor 's publish ?"
+p66
+aS'What are some good exercises for kids to do ?'
+p67
+aS'Name a flying mammal .'
+p68
+aS"What is Dudley Do-Right 's horse 's name ?"
+p69
+aS'What is the fear of cockroaches called ?'
+p70
+aS"What 's the largest U.S. agricultural crop by weight ?"
+p71
+aS'The Jewish alphabet is called what ?'
+p72
+aS"What product does ` ` Mrs. Olsen ' ' promote ?"
+p73
+aS'What sports magazine has the largest circulation ?'
+p74
+aS'What is the term for someone who hates mankind ?'
+p75
+aS"What was the name of Sergeant Preston of the Yukon 's lead dog ?"
+p76
+aS"Name Li 'l Abner 's favorite Indian drink ."
+p77
+aS'What war was fought by the Spanish as far as the Philippines ?'
+p78
+aS'What is a word whose letters can be rearranged to form a different word ?'
+p79
+aS"What ` ` magic ' ' does Mandrake employ ?"
+p80
+aS'What book does Holden Caulfield appear in ?'
+p81
+aS'Aspartame is known by what other name ?'
+p82
+aS'What Frederick Forsyth novel chronicles the toppling of an African government by mercenaries ?'
+p83
+aS"What net game sees its women 's world amateur champions receive the Uber Cup ?"
+p84
+aS'What are emblazoned on the Jolly Roger ?'
+p85
+aS'What is a fear of home surroundings ?'
+p86
+aS"What 's the highest possible bid in Contract Bridge ?"
+p87
+aS'What films featured the character Popeye Doyle ?'
+p88
+aS'What is the full classification of a lady bug ?'
+p89
+aS'What do opposite faces of a die always add up to ?'
+p90
+aS'What 1927 silent film received an international revival in 1981 ?'
+p91
+aS'What are the names of all the U.S. Navy aircraft carriers ?'
+p92
+aS'What creature is the absolute fastest in moving in the world , birds , mammals , etc. , ?'
+p93
+aS'What types of water pollution are there ?'
+p94
+aS'What is a technique popularly used to detect birth defects ?'
+p95
+aS"What rum is so ` ` mixable ' ' it is a one-brand bar ?"
+p96
+aS'What organ contains the islands of Langerhans ?'
+p97
+aS'What kind of creatures are the Canary Islands named for ?'
+p98
+aS'What is a fear of color ?'
+p99
+aS"What cooking oil has ` ` corn goodness ' ' ?"
+p100
+aS'Which is heavier - cream or milk ?'
+p101
+aS'What kind of animals are Dorsets , Lincolns , Oxfords and Southdowns ?'
+p102
+aS'What is the medical term for cancer of the blood ?'
+p103
+aS'What Don McLean song laments the day Buddy Holly died ?'
+p104
+aS"What is the world 's deadliest infectious disease ?"
+p105
+aS"What was John F. Kennedy 's 1960 campaign song ?"
+p106
+aS'What tools do you use to crewel ?'
+p107
+aS'What is the Islamic equivalent of the Red Cross ?'
+p108
+aS'What Broadway show introduced the song Some Enchanted Evening ?'
+p109
+aS"What 's known as The queen of Drinks ?"
+p110
+aS'What household products are there for adult acne ?'
+p111
+aS"What 's the colored part of the eye called ?"
+p112
+aS'What do chefs call The Master Spice ?'
+p113
+aS'What will a kid eat the middle of , and save the chocolate on the outside for last ?'
+p114
+aS"What beer 's name is translated as ` ` lion brew ' ' ?"
+p115
+aS'What eating utensils are used for handicapped kids ?'
+p116
+aS'What is Latin for incompetent ?'
+p117
+aS'What brand of white rum is still made in Cuba ?'
+p118
+aS'In order from the top , the four stripes on a can of Pepsi are what colors ?'
+p119
+aS"What star-faring race brought about the Inhumans on Marvel 's Earth ?"
+p120
+aS'What Ernest Hemingway novel had the working title Fiesta ?'
+p121
+aS'What were the five opening words on Ben Casey ?'
+p122
+aS'What can I use to remove the stubborn gummed labels from some diskettes ?'
+p123
+aS'What animal received royal assent as an emblem of Canada on March 24 , 1975 ?'
+p124
+aS"What animal 's tail is called a brush ?"
+p125
+aS"What film was based on the play Everybody Comes to Rick 's ?"
+p126
+aS'What are the two largest birds on earth ?'
+p127
+aS'What cocktail do you concoct with whisky and sweet vermouth ?'
+p128
+aS"What 's the most delicate-tasting member of the onion family ?"
+p129
+aS'What is a fear of glass ?'
+p130
+aS'What species is a colt ?'
+p131
+aS'What animal do buffalo wings come from ?'
+p132
+aS'What were the names of the three ships used by Columbus ?'
+p133
+aS"What was the favorite sport of Tom Wolfe 's The Pump House Gang ?"
+p134
+aS'What kind of sports did they play in the years 1642-1649 , the English Civil War time ?'
+p135
+aS"What do you call a ` ` twirl ' ' in ballet ?"
+p136
+aS"What Peter Blatty novel recounts the horrors of Regan MacNeil 's possession by the devil ?"
+p137
+aS'What were the achievements of Richard Nixon ?'
+p138
+aS'What layer of the atmosphere contains most of the ozone layer ?'
+p139
+aS'What computer operating system is on the most computers ?'
+p140
+aS'What articles of clothing are tokens in Monopoly ?'
+p141
+aS'What kind of puzzle first appeared in the U.S. in the New York World on December 21 , 1913 ?'
+p142
+aS'Garry Kasparov plays what game ?'
+p143
+aS"What is the world 's best selling cookie ?"
+p144
+aS"What was Mel Gibson 's first movie ?"
+p145
+aS'What are the titles of some R-Rated Sony Playstation games ?'
+p146
+aS'What holidays are celebrated in Ireland ?'
+p147
+aS'What book did Aaron Hass write ?'
+p148
+aS'What terror of the sea did Johnny Horton sing about ?'
+p149
+aS'What are some of the significant historical events of the 1990s ?'
+p150
+aS"What 's the most commonly-spoken language in Belgium ?"
+p151
+aS"What creature scares people in the film ` ` Jaws ' ' ?"
+p152
+aS"What breed of dog was the ` ` Little Rascals ' ' dog ?"
+p153
+aS'What is the movie Jonathan Livingstone Seagull ?'
+p154
+aS'What British TV series inspired All in the Family ?'
+p155
+aS'What food can I use to catch a possum ?'
+p156
+aS"What 's the green variety of beryl called ?"
+p157
+aS'What is a fear of shadows ?'
+p158
+aS"What George Harrison tune sounded too much like He 's So Fine by The Chiffons ?"
+p159
+aS'What type of hunting are retrievers used for ?'
+p160
+aS'What film did Louise Fletcher win the best actress Oscar for ?'
+p161
+aS'What is a language spoken by the Sioux ?'
+p162
+aS'What ice creams contain seaweed ?'
+p163
+aS'Which side should a bowler facing a 37803 split hit the 3-pin on-the left or the right ?'
+p164
+aS'What soft drink held a national flavor poll in 1967 ?'
+p165
+aS'Which of the five senses develops first ?'
+p166
+aS"What 12-hour cold medicine uses the formula ` ` 6 , 6 , 12 ' ' in its ads ?"
+p167
+aS'What new year is celebrated on February 16th ?'
+p168
+aS'What is a fear of drinking ?'
+p169
+aS'What soft drink first appeared in the Old Corner Drug Store in Waco , Texas , in 1885 ?'
+p170
+aS'In what ways did Ivan IV support Russian expansion ?'
+p171
+aS'What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?'
+p172
+aS"What is ` ` the taste that beats the others cold ' ' ?"
+p173
+aS"Name the four stories contained in Edith Wharton 's ` ` Old New York . ' '"
+p174
+aS'Name the Islamic counterpart to the Red Cross .'
+p175
+aS'What medium is Stuart Hamblen the first singing cowboy in ?'
+p176
+aS'What is a good book to read for people who hate to read ?'
+p177
+aS'What World War I battle saw 6 , 0 troops killed in one day ?'
+p178
+aS'Which comic strip was never turned into a Broadway musical ?'
+p179
+aS'What William Styron book is about a black preacher who leads a slave revolt ?'
+p180
+aS'Name four comic strips about pilots .'
+p181
+aS'What does an edentulous smile lack ?'
+p182
+aS'What is a fear of women ?'
+p183
+aS"What 's the term for a limestone deposit rising from the floor of a cave ?"
+p184
+aS'What is the term for the side of the mountain that faces the prevailing winds ?'
+p185
+aS'Name a movie that the actress , Sandra Bullock , had a role in .'
+p186
+aS'What does a topophobic actor suffer from ?'
+p187
+aS'What software offers inventors use of CAD-like design ?'
+p188
+aS'What 1964 film introduced the song My Kind of Town ?'
+p189
+aS'What harmful chemicals are in bug spray ?'
+p190
+aS'What animals did The Amazing Three masquerade as ?'
+p191
+aS'What color tennis balls are used at Wimbledon ?'
+p192
+aS'What European race sees the winner of its mountain stage awarded a jersey with large red polka dots ?'
+p193
+aS'What indoor sport saw the Phoenix Inferno become the Phoenix Pride on July 14 , 1983 , when the temperature hit 111 degrees ?'
+p194
+aS'What civil war was fought between 1936 and 1939 ?'
+p195
+aS'What is a fear of jealousy ?'
+p196
+aS"What newspaper returned a Pulitzer Prize for the fraudulent story Jimmy 's World ?"
+p197
+aS'What Tom Wolfe book is about the Mercury astronauts ?'
+p198
+aS'What is the lowest level of the American judiciary ?'
+p199
+aS"What 's the name of the Tokyo Stock Exchange ?"
+p200
+aS'What trophy is awarded to the winners of the Super Bowl ?'
+p201
+aS'What does a chiropodist treat ?'
+p202
+aS'What is the most efficient way to start a barbeque ?'
+p203
+aS'What are the diseases that can be cured by black cumin ?'
+p204
+aS'What was the top box office movie in April 1998 ?'
+p205
+aS"In what film did Steven Spielberg 's dog star as the main character 's dog ?"
+p206
+aS'What trade did the 15th and 16th century Portuguese hope to control between Asia and Europe ?'
+p207
+aS'What kind of weapons were used in Medieval warfare ?'
+p208
+aS'What color eyes are most sensitive to light ?'
+p209
+aS'What 2 statues did France give to other countries ?'
+p210
+aS'What type of exercise burns the most calories ?'
+p211
+aS'What sport features snatches and clean jerks ?'
+p212
+aS"Which magazine is ` ` fine entertainment for men ' ' ?"
+p213
+aS'What is the recipe or formula for Coca-Cola ?'
+p214
+aS"What is the greatest source of ` ` white ' ' magic in the Marvel Universe ?"
+p215
+aS'What color was the hundred billionth crayon made by Crayola ?'
+p216
+aS'What is your favorite color ?'
+p217
+aS'What do penguins eat ?'
+p218
+aS'What is a fear of childbirth ?'
+p219
+aS'What film dramatized the Scopes monkey trial ?'
+p220
+aS'What generation am I in ?'
+p221
+aS'What are the best ways to improve employee morale at low cost ?'
+p222
+aS'What are the 28 tenses in the English language ?'
+p223
+aS'What is the fastest-growing comic strip of all time ?'
+p224
+aS'What animal dined on bread and oysters with a carpenter ?'
+p225
+aS'What did the Chinese emperor present to the English soldier Gordon in recognition of his services in quelling rebellions ?'
+p226
+aS'What does a chef coddle eggs in ?'
+p227
+aS'What shape-shifting menace did Rom come to Earth to fight ?'
+p228
+aS"What infectious disease is the world 's deadliest ?"
+p229
+aS"What format was VHS 's main competition ?"
+p230
+aS'What species was Winnie the Pooh ?'
+p231
+aS'What magazine gives us the cream , not the skim ?'
+p232
+aS'What 1942 espionage movie reunited director John Huston with Maltese Falconers Humphrey Bogart , Mary Astor , and Sidney Greenstreet ?'
+p233
+aS"What book opens : ` ` At a certain village in La Mancha , which I shall not name.. . ' ' ?"
+p234
+aS'What color of dry wine should be served with veal roasts and chops ?'
+p235
+aS"What 's the term for a bet before cards are dealt ?"
+p236
+aS'What is a fear of hell ?'
+p237
+aS"What Michelangelo sculpture is in Saint Peter 's Cathedral , Basilica , ?"
+p238
+aS'What is Jell-O made from ?'
+p239
+aS"What color were Ernest Hemingway 's eyes ?"
+p240
+aS'What is the mascot for Notre Dame University ?'
+p241
+aS'What sports event is Meyer Wolfsheim supposed to have fixed in The Great Gatsby ?'
+p242
+aS"What does the Ouarterly Review of Doublespeak call an ` ` inoperative statement ' ' ?"
+p243
+aS'What was the name of the television show , starring Karl Madsen , that had San Francisco in the title ?'
+p244
+aS'What document did President Andrew Johnson want a copy of placed under his head upon his burial ?'
+p245
+aS'What film had Bette Davis creating a scandal by wearing a daring red gown to a society ball ?'
+p246
+aS"What 's the second-lightest element ?"
+p247
+aS'What happened on January 15 , 1969 ?'
+p248
+aS'What product is for kids , and not for silly rabbits ?'
+p249
+aS'What is the name of Jamiroquai new album ?'
+p250
+aS'What disease is the second-biggest killer of North Americans ?'
+p251
+aS'What is a fear of cold ?'
+p252
+aS'What did Jimmy Stewart invent ?'
+p253
+aS'What sport can a free-legged pacer compete in ?'
+p254
+aS'What did Shostakovich write for Rostropovich ?'
+p255
+aS'What were the trials called which followed World War II ?'
+p256
+aS'How do you say 2 in Latin ?'
+p257
+aS'Which operating system runs on IBM-compatible machines ?'
+p258
+aS'What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?'
+p259
+aS'What vowel do all Esperanto nouns end in ?'
+p260
+aS'What is the fastest computer ?'
+p261
+aS'The second most popular sport worldwide is what ?'
+p262
+aS'What is money made of ?'
+p263
+aS"What does the technique called ` ` cold fusion ' ' produce ?"
+p264
+aS'How do you say I love you in Spanish ?'
+p265
+aS'What non-alcoholic syrup is made from pomegranate juice ?'
+p266
+aS'What does God create in the first sentence of the Bible ?'
+p267
+aS'What is the name of the Michelangelo painting that shows two hands with fingers touching ?'
+p268
+aS'What is damage to business and government caused by bureaucracy ?'
+p269
+aS'What does the Peugeot company manufacture ?'
+p270
+aS'What age followed the Bronze Age ?'
+p271
+aS'Name a film in which Jude Law acted .'
+p272
+aS"What are some of Australia 's native flora ?"
+p273
+aS'What is the West Virginia state animal ?'
+p274
+aS"What letter does Gorbachev 's middle name start with ?"
+p275
+aS'What hymn did John Steinbeck get his title The Grapes of Wrath from ?'
+p276
+aS'What does caliente translate to in English ?'
+p277
+aS'What are some tips for building a fire in a fireplace ?'
+p278
+aS'What language is mostly spoken in Brazil ?'
+p279
+aS'What food did Marco Polo introduce into Italy from the court of Kubla Khan ?'
+p280
+aS'What are the Cleveland Indians also called ?'
+p281
+aS"What was Hitler 's favorite movie ?"
+p282
+aS'What movie has made the most money ?'
+p283
+aS"What is the name of the Family Circus 's dog ?"
+p284
+aS'What songs were popular in 1948 ?'
+p285
+aS'What dropped 1 , 313 feet in 1980 ?'
+p286
+aS'What fossilizes to form coprolite ?'
+p287
+aS'What is the main ingredient of yogurt ?'
+p288
+aS'What kind of wine is Spumante ?'
+p289
+aS'What feud ended with a marriage in Kentucky on March 21 , 1891 ?'
+p290
+aS'What is the legal blood alcohol limit for the state of California ?'
+p291
+aS"What soap was touted as being ` ` for people who like people ' ' ?"
+p292
+aS'What Leoncavallo opera features a prologue by a clown ?'
+p293
+aS'What stringed weapon fires a bolt ?'
+p294
+aS'Which drug is commonly used to treat AIDS ?'
+p295
+aS'What kind of fruit is a Yellow Transparent ?'
+p296
+aS'What type of animal is the easiest kept pet there is ?'
+p297
+aS'What are the three secondary colors ?'
+p298
+aS"What 's the second-most-used vowel in English ?"
+p299
+aS'In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?'
+p300
+aS"What 's the most popular form of gambling with women in Las Vegas ?"
+p301
+aS'What was cash-conscious Colonel Edwin L. Drake the first to drill ?'
+p302
+aS'What film was Jude Law in ?'
+p303
+aS'What blew up at Lakehurst , New Jersey , on May 6 , 1977 ?'
+p304
+aS'What future movie treat was introduced to American colonists in 1603 by Native Americans ?'
+p305
+aS"How do you say , ` ` I love you ' ' in other languages ?"
+p306
+aS'Name a golf course in Myrtle Beach .'
+p307
+aS'What color of Monopoly properties are landed on most often ?'
+p308
+aS"What CBS soap opera was interrupted by the bulletin of John F. Kennedy 's assassination ?"
+p309
+aS'What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?'
+p310
+aS'What is the predominant color of the Tab label ?'
+p311
+aS'What crop failure caused the Irish Famine ?'
+p312
+aS'What is a fear of weakness ?'
+p313
+aS'What must be exceeded to produce a sonic boom ?'
+p314
+aS'What color , s , appear on boxes of Kodak film ?'
+p315
+aS'What did the Congress of Vienna establish ?'
+p316
+aS"What was ` ` America 's recessed-filter cigarette ' ' ?"
+p317
+aS'In what book can I find the story of Aladdin ?'
+p318
+aS"What 's the tallest piece on a chessboard ?"
+p319
+aS'What are the top 5 fiction books of all time ?'
+p320
+aS'What Leon Uris novel dealt with the Russian capture of Berlin ?'
+p321
+aS"What 's the largest letter in Salvador Dali 's signature ?"
+p322
+aS'What type of currency is used in China ?'
+p323
+aS'What condiment do the Dutch dip their French fries in ?'
+p324
+aS'What common plant has a button , cap , cup , gills , and ring ?'
+p325
+aS'What are the various ways in which one can measure IT User Satisfaction Level ?'
+p326
+aS'What letter adorns the flag of Rwanda ?'
+p327
+aS"What was the education system in the 1960 's ?"
+p328
+aS'What hide-and-seek game is played around a tin can ?'
+p329
+aS'What astronomical phenomenon takes place in Jan. 1999 ?'
+p330
+aS'What is the second hardest substance ?'
+p331
+aS"What are the first six words of Dickens 's A Tale of Two Cities ?"
+p332
+aS'What does a phobophobe fear ?'
+p333
+aS'What is a golf ball made of ?'
+p334
+aS"What film marked Robert Redford 's directorial debut ?"
+p335
+aS'What card suit originally represented the peasant class ?'
+p336
+aS'What does a woman want ?'
+p337
+aS'Which two products use a tiger as their symbol ?'
+p338
+aS'What Kennedy was married to Ethel ?'
+p339
+aS'Which produces the longer sperm - an elephant or a mouse ?'
+p340
+aS'What is the fastest fish in the world ?'
+p341
+aS"What oldtime kids ' fare did TV Guide writer Jeff Greenfield call ` ` one of the most...subversive TV shows in American history ' ' ?"
+p342
+aS'What element , from the Periodic Table , is a gas or a solid , but never a liquid ?'
+p343
+aS"What color flies closest to the staff on Belgium 's flag ?"
+p344
+aS'What Stephen King novel is set in a graveyard for pets ?'
+p345
+aS'What is the Taj Majal made of ?'
+p346
+aS'What is the word for love of pain or abuse ?'
+p347
+aS'What are the five basic swimming strokes ?'
+p348
+aS'What English word comes from the Old French covrefeu , meaning cover fire ?'
+p349
+aS"What is California 's state bird ?"
+p350
+aS'What are the most common breeding birds in the U.S. ?'
+p351
+aS'Name a Gaelic language .'
+p352
+aS'What is the formula to calculate pi ?'
+p353
+aS'What sign is The Water Carrier the zodiacal symbol for ?'
+p354
+aS"What board game does a ` ` wood-pusher ' ' play poorly ?"
+p355
+aS'Name the 5 words that use all of the letters in the alphabet , except Q , with no repeats .'
+p356
+aS"Name the disposable razor that ` ` costs about 19 cents . ' '"
+p357
+aS'What song served as the closing theme of The Johnny Cash Show ?'
+p358
+aS'What non-mechanical sport achieves the highest speeds ?'
+p359
+aS'What was the first video ever made ?'
+p360
+aS'What does an irate car owner call iron oxide ?'
+p361
+aS'What is 55 times sweeter than cane sugar ?'
+p362
+aS'What is a female rabbit called ?'
+p363
+aS'Name a tiger that is extinct .'
+p364
+aS"What is Nebraska 's most valuable resource ?"
+p365
+aS'What foods contain the most protein ?'
+p366
+aS'What kind of guitar did Jimi Hendrix play ?'
+p367
+aS"What 's approaching when a cyclist shouts : ` ` Oil ' ' ?"
+p368
+aS'What does saliva consist of ?'
+p369
+aS"What is the correct way to use ` ` may ' ' vs. ` ` might ' ' ?"
+p370
+aS'What type of performer is Ileana Cotrubas ?'
+p371
+aS"What tale has the moral : ` ` He who wants everything gets nothing ' ' ?"
+p372
+aS'Which sex is twice as likely to contract leprosy ?'
+p373
+aS'Which is the largest clock , diameter wise , in Europe ?'
+p374
+aS'What kind of patent did Ermal Fraze get in 1963 ?'
+p375
+aS'What was the name of the American ship sunk by a mine in Havana harbor , causing the Spanish-American war ?'
+p376
+aS'What spider makes a superb pet , even said to recognize its master ?'
+p377
+aS'What animal causes the biggest threat to humans ?'
+p378
+aS'What money was used here ?'
+p379
+aS"What is the folklore story regarding birds ' nests and birds in Christmas trees ?"
+p380
+aS'What animals can live the longest without food ?'
+p381
+aS"What 's the most powerful card in Euchre ?"
+p382
+aS'What should the oven be set at for baking Peachy Oat Muffins ?'
+p383
+aS'What Homerian epic chronicles events toward the end of the Trojan Wars ?'
+p384
+aS'What kind of meat is Fray Bentos synonymous with ?'
+p385
+aS'What would you add to the clay mixture to produce bone china ?'
+p386
+aS'What do you call a Poker hand with five cards of the same suit ?'
+p387
+aS'What did Louis Cartier invent for aviator Santos Dumont in 1940 ?'
+p388
+aS"What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?"
+p389
+aS'What English word has the most letters ?'
+p390
+aS'What meat complemented sweet potatoes and peas in the first TV dinner ?'
+p391
+aS'What food of the three bears did Goldilocks eat ?'
+p392
+aS'What is the longest chemical name , consisting of 35 letters ?'
+p393
+aS'What do you call a date that contains sequencing numbers , like 9-8-98 ?'
+p394
+aS"What therapy attempts to elicit the ` ` primal scream ' ' ?"
+p395
+aS'What delicacy is known indelicately as pickled roe ?'
+p396
+aS'What are other ways of getting stretch marks besides pregnancy , weight loss , and weight lifting ?'
+p397
+aS'What 1953 film won Frank Sinatra a best supporting actor Oscar ?'
+p398
+aS'What is a fear of reptiles ?'
+p399
+aS'What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger ?'
+p400
+aS'What comic strip sometimes features a mailman named Beasley ?'
+p401
+aS'What is a fear of sleep ?'
+p402
+aS"What four-legged creature did a Cornell University study say would make man 's best companion in space ?"
+p403
+aS"What was the monster in Spielberg 's film ` ` Jaws ' ' ?"
+p404
+aS'What tragedy befell the city of Dogtown in 1899 ?'
+p405
+aS'What was the sequel to The Pink Panther ?'
+p406
+aS'What basketball maneuver did Bert Loomis invent ?'
+p407
+aS'What is the term for a group of geese ?'
+p408
+aS"What product ` ` doubles your pleasure , doubles your fun ' ' ?"
+p409
+aS'What is the main language of Sao Paulo , Brazil ?'
+p410
+aS"What was the name of the computer in ` 2001 : A Space Odyssey ' ?"
+p411
+aS'What is the music used in the new VW Beetle commercial where the car spins and changes colors ?'
+p412
+aS'What is a fear of everything ?'
+p413
+aS"What was the name of Roy Rogers 's dog ?"
+p414
+aS'What ocean liner burned and sank in Hong Kong harbor ?'
+p415
+aS'What kind of poisoning is known as plumbism ?'
+p416
+aS'What is the name of the vaccine for chicken pox ?'
+p417
+aS"What 's the highest-ranking suit in bridge ?"
+p418
+aS'What significant battle was fought in Belgium in 1815 ?'
+p419
+aS'In what war was the first submarine used ?'
+p420
+aS'What ability has the silkworm moth lost through domestication ?'
+p421
+aS'What field sport did dentist William Beers promote and write a standard book of rules for ?'
+p422
+aS'What Shakespearean play featured Shylock ?'
+p423
+aS'What is the correct way to mount a roll of toilet paper ?'
+p424
+aS'What sign is the best love match for a horoscope sign ?'
+p425
+aS'What TV show did John Sebastian sing the theme for ?'
+p426
+aS'What is the best-selling book of all time ?'
+p427
+aS'What kind of dog is Scooby Doo ?'
+p428
+aS'What is the Jewish bible called ?'
+p429
+aS'What auto race was Wilbur Reed the first to win three times ?'
+p430
+aS'What common livestock have the greatest variety of breeds ?'
+p431
+aS'What movie did Steven Spielberg direct in 1975 ?'
+p432
+aS'What was the first domesticated bird ?'
+p433
+aS'Italy is the largest producer of what ?'
+p434
+aS'What kind of fish is a coney ?'
+p435
+aS'What soft drink not only has its own video game , but was featured in its own Marvel comic book ?'
+p436
+aS'What TV series featured Neal , a martini-drinking St. Bernard ?'
+p437
+aS'What two body parts grow all your life ?'
+p438
+aS"What soft drink tells us to ` ` Go Hawaiian ' ' ?"
+p439
+aS'What was the alternate to VHS ?'
+p440
+aS'What drink is the best thirst-quencher ?'
+p441
+aS'What predators exist on Antarctica ?'
+p442
+aS'What is a fear of touching ?'
+p443
+aS'Which two products use a tiger as their symbol ?'
+p444
+aS"What 's bottled in jeroboams ?"
+p445
+aS'What line of candy products included Super Skrunch and Peanut Butter Oompas ?'
+p446
+aS'Which infectious disease kills the most people worldwide ?'
+p447
+aS'What word occurs 46 , 227 times in the Bible ?'
+p448
+aS'What was the name of the U.S. Navy gunboat in the film The Sand Pebbles ?'
+p449
+aS'What plants are found in an estuary ?'
+p450
+aS"What 's the most extensively grown and eaten food ?"
+p451
+aS'Which type of soda has the greatest amount of caffeine ?'
+p452
+aS'What molecules include fluorine , sodium and magnesium ?'
+p453
+aS'What drink is made up of rum , coconut milk and pineapple ?'
+p454
+aS"What children 's tale contains the line : ` ` Come , Cinderslut , and hold this skein of wool for me ' ' ?"
+p455
+aS'To get the most caffeine , what soda should I drink ?'
+p456
+aS'In what Olympic Games did Nadia Comaneci become popular ?'
+p457
+aS'What D.H. Lawrence novel was originally titled Tenderness ?'
+p458
+aS'What letter appears on the cold-water tap in Spain ?'
+p459
+aS'What plant has the largest seed ?'
+p460
+aS'What powdered soft drink mix went into space ?'
+p461
+aS'What device provided a new way to listen to music in 1963 ?'
+p462
+aS'What are the four natural aids used in riding a horse ?'
+p463
+aS'What did a 16th-century Aztec athlete get for putting a rubber ball through a ring ?'
+p464
+aS'What are the top vegetable crops in the world ?'
+p465
+aS"What 's the dumbest domesticated animal ?"
+p466
+aS'What is a fear of trees ?'
+p467
+aS'Name a technique widely used to detect birth defects ?'
+p468
+aS"What two animals are specifically mentioned as being in Noah 's Ark ?"
+p469
+aS'What is the most expensive car in the world ?'
+p470
+aS'What is the collective noun for geese ?'
+p471
+aS"What 's the biggest-selling U.S. magazine aimed at a black audience ?"
+p472
+aS'What are the most common elements in seawater ?'
+p473
+aS'What is the best-selling television soundtrack of all time ?'
+p474
+aS"What did San Francisco 's Milt Harper grow that measured 24 inches from tip to tip in 1974 ?"
+p475
+aS"What war saw battles at Parrot 's Beak and Black Virgin ?"
+p476
+aS'What Vladimir Nabokov novel features Professor Humbert in love with a 12-year-old girl ?'
+p477
+aS'What is a ball that hits the foul pole called ?'
+p478
+aS"What beer advertised that it had ` ` three rings ' ' ?"
+p479
+aS'What kind of hat does Bat Masterson wear ?'
+p480
+aS'What is the chemical composition of a Barbie ?'
+p481
+aS'What developed a crack in 1835 while tolling the death of U.S. Chief Justice John Marshall ?'
+p482
+aS'What do ladybugs eat ?'
+p483
+aS"What 's the international radio code word for the letter B ?"
+p484
+aS'What novel did Ian Fleming introduce James Bond in ?'
+p485
+aS'What were first used by John L. Sullivan and James J. Corbett in 1892 ?'
+p486
+aS"What was Franklin Roosevelt 's program for economic recovery called during the Great Depression ?"
+p487
+aS"What mammal of North America is the world 's longest-lived for its size ?"
+p488
+aS'What Boris Pasternak book sold 5 , 0 copies to become the fiction best-seller of 1958 ?'
+p489
+aS'Name a medicine commonly used to combat AIDS ?'
+p490
+aS'What newspaper serves Salt Lake City ?'
+p491
+aS'What did Vasco da Gama discover ?'
+p492
+aS'What is the best way to travel in Japan ?'
+p493
+aS'What do the Japanese call Japan ?'
+p494
+aS'What was the first Sam Spade novel ?'
+p495
+aS'Aspartame is also known as what ?'
+p496
+aS'What are new computer games for Windows 95 or 98 ?'
+p497
+aS'What is the largest sculpture in the world ?'
+p498
+aS"Which breakfast cereal brought you ` ` the best each morning ' ' ?"
+p499
+aS"What cigarette is ` ` a whole new world ' ' ?"
+p500
+aS'What is the brand name of daminozide ?'
+p501
+aS'What TV series features the adventures of a married couple named Jonathan and Jennifer ?'
+p502
+aS'What is the one thing you need before you can purchase life insurance ?'
+p503
+aS'What drink is formed of tequila , orange juice and galliano ?'
+p504
+aS'What are some science fair projects for 8th graders ?'
+p505
+aS'What novel inspired the movie BladeRunner ?'
+p506
+aS'What color Poker chip is usually assigned the lowest value ?'
+p507
+aS'What was the sister ship of the Olympic ?'
+p508
+aS"What 's the best way to lose the flab under your chin and around your face ?"
+p509
+aS'What kind of rocket launched the Surveyor spacecraft ?'
+p510
+aS'What kind of animal is Babar ?'
+p511
+aS"What is Nero Wolfe 's favorite drink during office hours ?"
+p512
+aS"What is Grenada 's main commodity export ?"
+p513
+aS'What has to be produced in a writ of habeas corpus ?'
+p514
+aS"What animal occurs in Spielberg 's ` ` Jaws ' ' ?"
+p515
+aS'What did the ancients call the four great elements ?'
+p516
+aS'What do humans catch zoonose diseases from ?'
+p517
+aS'What is a fear of being alone ?'
+p518
+aS"What 's the most popular four-player game of all time ?"
+p519
+aS'What color were their horses ?'
+p520
+aS'What was the non-fiction best-seller of 1952 , 1953 and 1954 ?'
+p521
+aS'What song put James Taylor in the limelight ?'
+p522
+aS'What does a pedometer measure ?'
+p523
+aS'What was the tragedy that struck the city of Dogtown in 1899 ?'
+p524
+aS'What 1950 film won seven Oscars , including best picture ?'
+p525
+aS'What animal has killed the most people ?'
+p526
+aS'What events happened January 26 , 1978 ?'
+p527
+aS"What 's the world 's most common compound ?"
+p528
+aS'What did Jack exchange with the butcher for a handful of beans ?'
+p529
+aS'What was introduced commercially by Bayer A.G. of Leverkusen , in 1899 ?'
+p530
+aS"To what does Microsoft 's Windows 3 owe its success ?"
+p531
+aS'What after-dinner treat was invented in 1916 at the George Jung noodle factory in Los Angeles ?'
+p532
+aS'What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ?'
+p533
+aS"What movie tour of the Roman empire features the admonition : ` ` Row well and live ' ' ?"
+p534
+aS'What vehicles are raced in the Tour de France ?'
+p535
+aS'What is the name of the medical condition in which a baby is born without a brain ?'
+p536
+aS'What Russian novel embracing more the 5 characters is set in the Napoleonic Wars ?'
+p537
+aS"What car was driven in the 199 release of ` ` Smokey and the Bandit ' ' ?"
+p538
+aS'What did Tristan come back as ?'
+p539
+aS"What was Edward Albee 's first full-length play ?"
+p540
+aS'What kind of education do I need to become a flight attendant ?'
+p541
+aS"What Grand Slam golf tournament wasn 't held between 1940 and 1945 ?"
+p542
+aS"What Broadway musical featured the song , ` ` If I were a rich man ? ' '"
+p543
+aS'What is glass made of ?'
+p544
+aS'What type is a snail ?'
+p545
+aS"What was the name of Betty Boop 's dog ?"
+p546
+aS"What are ` ` darning needles ' ' and ` ` horse stingers ' ' better known as ?"
+p547
+aS'What Triple Crown-winning horse took the 1973 Belmont Stakes by 31 lengths ?'
+p548
+aS'What were millions of kids wearing on their heads in 1955 ?'
+p549
+aS'What is a fear of lice ?'
+p550
+aS'What is a fear of machinery ?'
+p551
+aS'What Nantucket shipwreck killed more divers exploring it than the 52 people it sank with ?'
+p552
+aS'What does an ashen-faced eidologist search out the existence of ?'
+p553
+aS'What credit card features a centurion on its face ?'
+p554
+aS"In Hemingway 's ` ` Old Man and the Sea , ' ' what kind of fish does the old man catch ?"
+p555
+aS"What was the name of the horse that fell on Queen Elizabeth , Prince Albert 's wife ?"
+p556
+aS'What joins white wine to put the spritz in a Spritzer ?'
+p557
+aS"In Beetle Bailey , can you name Sarge 's dog ?"
+p558
+aS'What is a fear of speaking ?'
+p559
+aS'Which airplane did Fawaz Younis hijack ?'
+p560
+aS'What is a fear of food ?'
+p561
+aS'What is the most heavily caffeinated soft drink ?'
+p562
+aS'What international amateur sports spectacle was first telecast in 1956 ?'
+p563
+aS'What is a fear of motion ?'
+p564
+aS'What measures did Clinton take to avoid the draft ?'
+p565
+aS'What keeps clouds in the air ?'
+p566
+aS"What 's a Craps player called ?"
+p567
+aS'What was the name of the orca that died of a fungal infection ?'
+p568
+aS'What kind of nuts are used in marzipan ?'
+p569
+aS'What is one of the languages of the Sioux ?'
+p570
+aS'What rabbit got its name because its ears resembled those of a jackass ?'
+p571
+aS'What late-night TV show features Larry , Bud , Melman and Toast on a Stick ?'
+p572
+aS'What determines the value of the pearl ?'
+p573
+aS'Which comic book was not spawned directly from the pulp magazines ?'
+p574
+aS'What is the name of a Salt Lake City newspaper ?'
+p575
+aS'What colors make up a rainbow ?'
+p576
+aS'What is the nickname of the Cleveland Indians ?'
+p577
+aS'Name the only extant trilogy of classical Greek plays .'
+p578
+aS'Which ear can most people hear better with ?'
+p579
+aS"What 's the shape of a camel 's spine ?"
+p580
+aS'What are the most albums sold by one artist or band ?'
+p581
+aS'On which flight did Fawaz Younis commit air piracy and hostage taking ?'
+p582
+aS'Name four famous cartoon cats .'
+p583
+aS'What is a fear of night or darkness ?'
+p584
+aS"What 's the name of Jacques Cousteau 's research ship ?"
+p585
+aS'What is the fear of frogs ?'
+p586
+aS'What did British companies stick 175 , 0 tons of tea into in 1982 ?'
+p587
+aS'What chess outcome results when a player has no legal move ?'
+p588
+aS"What beer tells us , ` ` Grab all the gusto you can get . ' ' ?"
+p589
+aS"What is the name of the disease that actress Hunter Tylo 's baby girl has ?"
+p590
+aS"What 's a male witch called ?"
+p591
+aS"What color is the lipstick on Boy George 's wax lips at London 's Madame Tussaud 's ?"
+p592
+aS'What is the name of the American literary era that includes 1896 ?'
+p593
+aS'What is a synonym for aspartame ?'
+p594
+aS"What 's the Southern dish made of pigs ' small intestines ?"
+p595
+aS'What literary classic centers on the search for a treasure in gold worth 7 , 0 pounds ?'
+p596
+aS'What nuclear-powered Russian submarine sank in the Norwegian Sea on April 7 , 1989 ?'
+p597
+aS"In Kafka 's Metamorphosis , the hero awakes one morning to find himself turned into what ?"
+p598
+aS"Name the soft drink that is ` ` number one in the sun . ' '"
+p599
+aS'What is the most famous German word in the English language ?'
+p600
+aS'What is the largest snake in the world ?'
+p601
+aS'What did Esquire name Ash Hole of the Year for 1980 ?'
+p602
+aS'What shampoo prevents eczema , seborrhea , and psoriasis ?'
+p603
+aS'What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?'
+p604
+aS"What daily newspaper will ` ` help you see clearer across the USA ' ' ?"
+p605
+aS'What are close encounters of the first and second kind ?'
+p606
+aS'What plant is rum made from ?'
+p607
+aS'What 1956 Grace Metalious novel was on the best-seller list for two years ?'
+p608
+aS'In what religion was Isis the nature goddess ?'
+p609
+aS"In which sport is there a ` ` scrum ' ' ?"
+p610
+aS'What scale measures earthquakes ?'
+p611
+aS'What instrument does Benny Carter play ?'
+p612
+aS'What are two plants that clothes are made from ?'
+p613
+aS'What are the historical trials following World War II called ?'
+p614
+aS'What did Dan Aykroyd and John Belushi quit Saturday Night Live to become ?'
+p615
+aS'What are the seven wonders of the world ?'
+p616
+aS'What is widely used to detect prenatal birth defects ?'
+p617
+aS'What do you call a section of your finger from one joint to another ?'
+p618
+aS'What is a fear of children ?'
+p619
+aS'What historical event happened in Dogtown in 1899 ?'
+p620
+aS'What book is subtitled The Preservation of Favoured Races in the Struggle for Life ?'
+p621
+aS'Name a Salt Lake City newspaper .'
+p622
+aS'What is the best way to remove wallpaper ?'
+p623
+aS'What was a California prayer book to an Old West gambler ?'
+p624
+aS'What is the only animal that can turn its stomach inside out ?'
+p625
+aS'What color is most often used to symbolize truth ?'
+p626
+aS'What line divided the North and South in the U.S. Civil War ?'
+p627
+aS'What were Baffin , Frobisher and Franklin looking for ?'
+p628
+aS"What product 's ads claim that it ` ` eliminates odors , kills household germs , mold , and mildew ' ' ?"
+p629
+aS"What 's the most popular contact lens color ?"
+p630
+aS'What type of bridge is the Golden Gate Bridge ?'
+p631
+aS'What is a fear of insanity ?'
+p632
+aS'What is the name of the art of growing miniature trees ?'
+p633
+aS'The trials resulting from World War II are known as what ?'
+p634
+aS'What kind of sports team is the Buffalo Sabres ?'
+p635
+aS'What phenomenon would you expect to read about in the monthly publication The Bigfoot News ?'
+p636
+aS'What meter was invented by C.C. Magee in 1935 ?'
+p637
+aS'What 1965 film had Jack Lemmon portraying a cartoonist ?'
+p638
+aS'What is another term for the painful wrist syndrome ?'
+p639
+aS"What is Smokey The Bear 's middle name ?"
+p640
+aS'What was the name of that popular song the Creeps sang ?'
+p641
+aS"What is the name of the ` female ' counterpart to El Nino , which results in cooling temperatures and very dry weather ?"
+p642
+aS'What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?'
+p643
+aS'What did Warlock wear on his forehead in Marvel comics ?'
+p644
+aS'What impenetrable system of French fortifications was built along the German frontier before World War II ?'
+p645
+aS'What 1976 Deep Throat clone provides the leading lady with a second larynx ?'
+p646
+aS"What Dickens novel has David carrying the message ` ` Barkis is willin ' ' to Peggy ?"
+p647
+aS'What drug is often used to treat AIDS patients ?'
+p648
+aS'What is the softest part of the body ?'
+p649
+aS'Which gender has bigger thighs ?'
+p650
+aS'What war added jeep and quisling to the English language ?'
+p651
+aS'What was the killer whale who died at Sea World of a fungal infection named ?'
+p652
+aS'What ill-fated craft was captained by Ernst Lehmann ?'
+p653
+aS'What are the first ten amendements passed ?'
+p654
+aS'What constitutes an adult ?'
+p655
+aS'What is a fear of cholera ?'
+p656
+aS"What is the name of Kevin Costner 's movie about Sioux Indians ?"
+p657
+aS'What relative of the racoon is sometimes known as the cat-bear ?'
+p658
+aS"What color is ` ` ash ' ' ?"
+p659
+aS'What film featured a snarly character named Kid Shelleen ?'
+p660
+aS"What award is the ` ` Oscar ' ' of advertising ?"
+p661
+aS"What was Jimmy Durante 's theme song ?"
+p662
+aS'Which airplane was Fawaz Younis convicted of hijacking ?'
+p663
+aS'What does the Statue of Liberty wear on her feet ?'
+p664
+aS'What are the rites accompanying the circumcision of a newly born-child in Judaism called ?'
+p665
+aS'What does a deltiologist collect ?'
+p666
+aS'What is the name of the game that Garry Kasparov plays ?'
+p667
+aS'What was the name of the famous battle between Texas and Mexico ?'
+p668
+aS'Aspartame is also called what ?'
+p669
+aS'What is the name of a book written by Aaron Hass ?'
+p670
+aS'What chemical in red wine is good for the heart and what exactly does it do to your body ?'
+p671
+aS'What two colors are you blind to if you suffer from protanopia ?'
+p672
+aS'What is the name of the dog on the Cracker Jack box ?'
+p673
+aS'What holidays or observances are celebrated in Italy ?'
+p674
+aS'What album put The Beatles on the cover of Time in 1967 ?'
+p675
+aS'What four elements make up 90 percent of the human body ?'
+p676
+aS'What are the wolverine habits ?'
+p677
+aS'What 1915 film was the first to gross $ 5 million ?'
+p678
+aS"What 's the Hungarian word for pepper ?"
+p679
+aS"What 's the official language of Algeria ?"
+p680
+aS'What novel has Big Brother watching ?'
+p681
+aS'What war did Florence Nightingale tend the troops in ?'
+p682
+aS'What sport do the Cleaveland Cavaliers play ?'
+p683
+aS'What does El Nino mean in spanish ?'
+p684
+aS'What famous events have happened on March 27 ?'
+p685
+aS'Which mammal lives , breeds , eats , and sleeps underground ?'
+p686
+aS'What alloy do copper and tin form ?'
+p687
+aS"Which mayonnaise refers to itself as ` ` real ' ' mayonnaise ?"
+p688
+aS'What are the languages spoken by the natives in Afghanistan ?'
+p689
+aS"What Aesop 's fable has the moral : ` ` The race is not always to the swift. Slow and steady is bound to win ' ' ?"
+p690
+aS"What Irwin Allen bomb has Richard Widmark saying he 'll be ` ` the first officer in history to get his butt kicked by a mess of bugs ! ' ' ?"
+p691
+aS"What 's the only color Johnny Cash wears on stage ?"
+p692
+aS'What three colors are on the French flag ?'
+p693
+aS'What kind of education would you need to become an athletic trainer for the NFL ?'
+p694
+aS"What is the English translation for the word ` ` caliente ' ' ?"
+p695
+aS'What is the belt of low pressure around the equator called ?'
+p696
+aS'What is a film starring Jude Law ?'
+p697
+aS'Which cats pursued Tweety Pie in his first cartoon appearance ?'
+p698
+aS'Which killer whale died at Sea World of a fungal infection ?'
+p699
+aS'What product did William Horlick discover and produce ?'
+p700
+aS'Madonna advertises for what soft drink ?'
+p701
+aS'What is the connection between New Krypton and Daxam ?'
+p702
+aS'What is the chemical symbol for nitrogen ?'
+p703
+aS"What was the name of Aristotle Onassis 's yacht ?"
+p704
+aS'What was the name of the Protestant revolt against the supremacy of the Pope ?'
+p705
+aS'What is a fear of fish ?'
+p706
+aS'What dog was dubbed The Mortgage Lifter ?'
+p707
+aS'What does the policeman become in the Canadian edition of Monopoly ?'
+p708
+aS'What does Visine get out ?'
+p709
+aS'What is the brand name of the chemical daminozide ?'
+p710
+aS"What was the distinguishing mark on the ` ` Little Rascals ' ' dog ?"
+p711
+aS'What are the shortest and the longest songs ever produced ?'
+p712
+aS"What first-aid product ` ` Helps the hurt stop hurting ' ' ?"
+p713
+aS'What are some ways to help someone with Chicken Pox ?'
+p714
+aS'What is a fear of slime ?'
+p715
+aS'What is a common anti-AIDS drug ?'
+p716
+aS'What Lewis Carroll book introduced Humpty Dumpty to the world ?'
+p717
+aS'What killed Bob Marley ?'
+p718
+aS'Which Beatles disc cover honors the Rolling Stones ?'
+p719
+aS'What is a fear of black people ?'
+p720
+aS"What 's the most common non-contagious disease in the world ?"
+p721
+aS'What does a farrier put shoes on ?'
+p722
+aS'What Marx Brothers movie centers on a stolen painting ?'
+p723
+aS'What kind of animal was Winnie the Pooh ?'
+p724
+aS'What is the longest word in the English language ?'
+p725
+aS'What is the organizational structure of the New Delhi Indira Gandhi airport ?'
+p726
+aS"What is November 's birthstone ?"
+p727
+aS"What beer is ` rockin ' America ? ' '"
+p728
+aS'What racehorse won an Associated Press poll as the greatest horse of the 20th century ?'
+p729
+aS"What is the name of the kids ' show from Canadian Public TV with the singing pineapple ?"
+p730
+aS"How do you say ` ` eat the day ' ' in Latin ?"
+p731
+aS'What film opens with an assassin tumbling from the Seattle Space Needle ?'
+p732
+aS'Name a product that controls the ripening of apples .'
+p733
+aS"What is Ray Bradbury 's illustrated man illustrated with ?"
+p734
+aS"What was Connecticut 's first constitution called ?"
+p735
+aS"What four tournaments make up tennis ' Grand Slam ?"
+p736
+aS'What flower did Vincent Van Gogh paint ?'
+p737
+aS'What toy can you make sleep ?'
+p738
+aS'What are the components of polyester ?'
+p739
+aS"Name the men 's cologne that is associated with the sea ."
+p740
+aS'What chocolate bar created by Frank Mars and his wife is often called a Milky Way with peanuts ?'
+p741
+aS'What baseball outcome required nine balls in 1879 , eight balls in 1880 and seven balls in 1881 ?'
+p742
+aS'Name one of the Seven Wonders of the Ancient World .'
+p743
+aS'What sport features slotbacks , tailbacks , and touchbacks ?'
+p744
+aS'What is the name of the rare neurological disease with symptoms such as : involuntary movements , tics , swearing , and incoherent vocalizations , grunts , shouts , etc. ?'
+p745
+aS'What is a fear of fur ?'
+p746
+aS'What letter is to the right of K on a typewriter keyboard ?'
+p747
+aS'What card game derived its name from biritch , or Russian Whist ?'
+p748
+aS'What four forms does gold occur in ?'
+p749
+aS'What chemicals are used in lethal injection ?'
+p750
+aS'What money was used by them ?'
+p751
+aS'What is a fear of punishment ?'
+p752
+aS'What kind of mammal is a colt ?'
+p753
+aS'What is Shirley MacLaine known as ?'
+p754
+aS'What is the most advanced handheld calculator in the world ?'
+p755
+aS"What was the name of the U.S. 's first manned space program ?"
+p756
+aS'What did the forward-thinking Simon Brothers Bakery of Chicago insert into bagels to boost business ?'
+p757
+aS'What do river otters eat ?'
+p758
+aS'What dangles over the tongue from the palate ?'
+p759
+aS'What disease did August von Wassermann develop a specific test for in 196 ?'
+p760
+aS"What is the only vegetable that starts with ` ` z ' ' ?"
+p761
+aS'What did the pyramid-builders of Egypt mainly eat ?'
+p762
+aS'What five-time winner of the Kentucky Derby lost his first 25 races ?'
+p763
+aS'What is state tree of Nebraska ?'
+p764
+aS"What other name were the ` ` Little Rascals ' ' known as ?"
+p765
+aS"What 's destroyed in Genesis 19 : 24 ?"
+p766
+aS'What is celebrated during the week of February 21-27 ?'
+p767
+aS'What was the name of the ball game played by the mayans ?'
+p768
+aS"What famed tennis tournament 's men 's singles title was Fred Perry the last Englishman to win ?"
+p769
+aS'What bowl game began as an East-West contest between Michigan and Stanford in 192 ?'
+p770
+aS'What Hollywood dog died in the arms of Jean Harlow in 1932 ?'
+p771
+aS'What are all the different kinds of contraceptives ?'
+p772
+aS'What is widely used to detect birth defects ?'
+p773
+aS'What do you get by mixing gin and vermouth ?'
+p774
+aS'What animal has the best hearing ?'
+p775
+aS'What color are tennis balls ?'
+p776
+aS'What is a fear of crystals or glass ?'
+p777
+aS'What two vegetables are combined in succotash ?'
+p778
+aS'Name a novel written by John Steinbeck .'
+p779
+aS"What 's the term for any four-sided figure ?"
+p780
+aS'What is the fear of the computer called ?'
+p781
+aS'What penalty space lies between Baltic Avenue and Reading Railroad on a Monopoly board ?'
+p782
+aS"What ` ` melts in your mouth , not in your hands ' ' ."
+p783
+aS'What is another name for nearsightedness ?'
+p784
+aS'What are the first and last letters of the Greek alphabet ?'
+p785
+aS'What did 8 , CD NNS VBP TO VB NNP POS NN .'
+p786
+aS'What are common methods used to regulate monopolies ?'
+p787
+aS'Name the vessel used by the Atari Force in the DC comics .'
+p788
+aS'What three colors of ink are used to print a U.S. dollar bill ?'
+p789
+aS'What new games are available for Nintendo 64 ?'
+p790
+aS'In what movie is the number nine found in the title ?'
+p791
+aS'What brand of jeans did Calvin Klein admit in a 1984 interview he felt more comfortable wearing ?'
+p792
+aS"What Shakespeare play opens with the line : ` ` Now is the winter of our discontent.. . ' ' ?"
+p793
+aS"What are the three animals in Sheila Burnford 's The Incredible Journey ?"
+p794
+aS"What was Dwight Eisenhower 's favorite card game ?"
+p795
+aS'What Nevil Shute novel is about the doomed survivors of a nuclear war ?'
+p796
+aS'What is the fastest commercial automobile that can be bought in the US ?'
+p797
+aS'What cocktail inspired John Doxat to write the book Stirred-Not Shaken ?'
+p798
+aS'What are three ways in which wind is created on the earth ?'
+p799
+aS'What is the longest English word ?'
+p800
+aS'What are fingernails made of ?'
+p801
+aS"What Stephen Sondheim ballad ends : ` ` Well , maybe next year.. . ' ' ?"
+p802
+aS'Jude Law acted in which film ?'
+p803
+aS'What animals do you find in the stock market ?'
+p804
+aS'What do goldfish lose if kept in dimly-lit or running water ?'
+p805
+aS'What was the worst hurricane ?'
+p806
+aS'What did the crocodile swallow in Peter Pan ?'
+p807
+aS'What animal was the heat-seeking missile called the Sidewinder named for ?'
+p808
+aS'Name a movie about the Sioux Indians starring Kevin Costner .'
+p809
+aS'What was the first TV set to include a remote control ?'
+p810
+aS'What are the four elements ?'
+p811
+aS'What is a term for behavior , appearance , or expression that violates the accepted standards of sexual morality ?'
+p812
+aS"What is ` ` the great American family cereal ' ' ?"
+p813
+aS'What is the zodiac sign for August 14 ?'
+p814
+aS'What is the name of the song that Dracula plays on the organ ?'
+p815
+aS'What is a fear of stings ?'
+p816
+aS'What weapon is the mythological character Apollo most proficient with ?'
+p817
+aS'What Sinatra hit did he dooby dooby do in ?'
+p818
+aS'Which Kevin Costner movie involves the Sioux Indians ?'
+p819
+aS'What blood sport features a movement called a veronica ?'
+p820
+aS'What sport do you shag flies in ?'
+p821
+aS"What animal has been called The Poor Man 's Cow ?"
+p822
+aS"How do you say ` ` Grandma ' ' in Irish ?"
+p823
+aS"What kind of species is the monster in the film ` ` Jaws ' ' ?"
+p824
+aS"What football bowl game 's first queen was Hallie Woods ?"
+p825
+aS'What TV game show once saw a contestant admit to picking his toes in the shower ?'
+p826
+aS'What does a dipsomaniac crave ?'
+p827
+aS'Who was the first animal into space ?'
+p828
+aS'What is a fear of sourness ?'
+p829
+aS'What is the shape of a football as stated in the NFL rulebook ?'
+p830
+aS'What color is Chablis ?'
+p831
+aS'What class of animals makes up more than two-thirds of known species ?'
+p832
+aS'What does Final Four refer to in the sports world ?'
+p833
+aS'What does a resurrectionist steal ?'
+p834
+aS'What are all the different types of pizza ?'
+p835
+aS'What is a fear of points ?'
+p836
+aS'What overalls are named for Dungri , a suburb of Bombay ?'
+p837
+aS"What Broadway musical was inspired by Cervantes 's Don Quixote ?"
+p838
+aS'Jude Law was in what movie ?'
+p839
+aS"What film ends with the line : ` ` This is Mrs. Norman Maine ' ' ?"
+p840
+aS"What war saw battles at Parrot 's Beak and Black Virgin ?"
+p841
+aS"What was the name of Captain Bligh 's ship ?"
+p842
+aS'What is the recipe for Eggs Benedict ?'
+p843
+aS'What is the weakest bone in the body ?'
+p844
+aS'What do manatees eat ?'
+p845
+aS'What is the name of the Islamic counterpart to the Red Cross ?'
+p846
+aS"What ` ` little red car ' ' is mentioned in pop singer Prince 's hit song ?"
+p847
+aS'What does a collier mine ?'
+p848
+aS'What concerts are held in New York this week ?'
+p849
+aS'What do flatfish eat ?'
+p850
+aS'What are the 7 principles of learning from the Institute for Research on Learning , IRL ?'
+p851
+aS'What was another name for East Germany ?'
+p852
+aS'What is the best selling computer model ever ?'
+p853
+aS'The corpus callosum is in what part of the body ?'
+p854
+aS'What are the developmental stages of a swimmer ?'
+p855
+aS"What was John Steinbeck 's travelling companion Charley ?"
+p856
+aS'What are the names of the different toes ?'
+p857
+aS'What is a fear of parasites ?'
+p858
+aS'Which side of the face do most artists tend to show more of in self-portraits ?'
+p859
+aS'What are the chemicals used in glowsticks ?'
+p860
+aS"What is the name of David Letterman 's dog ?"
+p861
+aS'What is the most radioactive food ?'
+p862
+aS'What can one see in Reims ?'
+p863
+aS'What turns blue litmus paper red ?'
+p864
+aS'What carries sperm up into the pelvic region ?'
+p865
+aS'What is one of the languages spoken by the Sioux called ?'
+p866
+aS'What game does Garry Kasparov play ?'
+p867
+aS'What kind of sport is often associated with hooligans ?'
+p868
+aS"What is Mississippi 's state animal ?"
+p869
+aS'What type of food makes you fat ?'
+p870
+aS'What were popular songs and types of songs in the 1920s ?'
+p871
+aS'Name the story by Chris Van Allsburg in the which a boy tries to become a great sailor ?'
+p872
+aS'What is the name of a language spoken by the Sioux ?'
+p873
+aS'What line of luggage is named after a famous American flier ?'
+p874
+aS'What was lost and regained by poet John Milton ?'
+p875
+aS'What operating system do IBM-compatible machines use ?'
+p876
+aS'What kinds of animals are in Cambodia ?'
+p877
+aS'Names of books by James A. Michener set in the following locations ?'
+p878
+aS'What were the ceremony traditions like during the Elizabethian times ?'
+p879
+aS"What poem contains the line , ` ` grow old with me the best is yet to be ' ' ."
+p880
+aS'What do you call a group of geese ?'
+p881
+aS"What bird can swim but can 't fly ?"
+p882
+aS'What was the first Lifesaver flavor ?'
+p883
+aS'Which of many numbered vats of Scotch was judged best by a panel of experts in 1863 ?'
+p884
+aS'Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ?'
+p885
+aS'What did Thomas Paine write ?'
+p886
+aS'What is the lens behind the iris in the eye called ?'
+p887
+aS'What are the 10 plagues of Egypt ?'
+p888
+aS'What kind of crystals exist ?'
+p889
+aS'What did Englishman John Hawkins begin selling to New World colonists in 1562 ?'
+p890
+aS'What format was the major competition of VHS ?'
+p891
+aS'What is the brand name of a chemical used to control ripening ?'
+p892
+aS'What is after death ?'
+p893
+aS"What was Mae West 's last film ?"
+p894
+aS'What 1895 H.G. Wells novel was written under the title The Chronic Argonauts ?'
+p895
+aS'What two major world religions began in India ?'
+p896
+aS"What TV quiz show left the air in 1975 to the tune of Vera Lynn 's We 'll Meet Again ?"
+p897
+aS"What color is the cross on Switzerland 's flag ?"
+p898
+aS'Where does your hair grow the fastest ?'
+p899
+aS"What 's the common name for acetylsalicylic acid ?"
+p900
+aS'Which thrilled taste buds first - Snickers or 3 Musketeers ?'
+p901
+aS'What does a philatelist collect ?'
+p902
+aS'What are the two languages of Malta ?'
+p903
+aS"What 's the name of the tiger that advertises for Frosted Flakes cereal ?"
+p904
+aS'What kind of car did Janis Joplin ask the Lord to buy her ?'
+p905
+aS'What did Walter Huston remove to perform in the movie The Treasure of the Sierra Madre ?'
+p906
+aS"What is Bella Abzug 's sartorial trademark ?"
+p907
+aS'Which sex is denied voting rights in Kuwait ?'
+p908
+aS"What magazine paid $ 5 , 000 for an eight-millimeter film of John F. Kennedy 's assassination ?"
+p909
+aS'What is the name of the second space shuttle ?'
+p910
+aS'What color bottles do good Rhine wines come in ?'
+p911
+aS'What is a fear of bees ?'
+p912
+aS'What card game has variations called Canfield , Klondike and Spider ?'
+p913
+aS'Which language has the most words ?'
+p914
+aS'What is a fear of being dirty ?'
+p915
+aS'What are the different approaches of systems analysis ?'
+p916
+aS"What card game can feature dealer 's choice ?"
+p917
+aS'What is the first book of the Old Testament ?'
+p918
+aS'Name the two mystical ravens Odin has at his command .'
+p919
+aS"What 's the No. 1 killer in industrialized countries ?"
+p920
+aS'What animals acted as lapwarmers for American colonists in church ?'
+p921
+aS'What is the high pitched sound that you hear in your ear every now and then , but then it goes away , after a while ?'
+p922
+aS'What is the most widely cultivated plant ?'
+p923
+aS'What are the ages in comic book lingo ?'
+p924
+aS'What class is categorized as the bourgeoisie ?'
+p925
+aS'What do I call the sons and daughters of my first cousins ?'
+p926
+aS'What does Salk vaccine prevent ?'
+p927
+aS'What garment was named for Bradley , Voorhees and Day ?'
+p928
+aS'What is it that walks on four legs , then on two legs , then on three ?'
+p929
+aS'What flag flies over Wake Island ?'
+p930
+aS"What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ?"
+p931
+aS"What 's the highest hand in straight poker ?"
+p932
+aS'What is the name of the Jewish alphabet ?'
+p933
+aS'What sport was the first televised in the U.S. ?'
+p934
+aS'What film canine is buried in Pere-Lachaise cemetery in Paris ?'
+p935
+aS'In what medium is Stuart Hamblen considered to be the first singing cowboy ?'
+p936
+aS"What 's the name of the Tampa newspaper ?"
+p937
+aS'What does it take to become a lawyer ?'
+p938
+aS'What is the plural of gulf ?'
+p939
+aS"What is the celtic symbol for ` ` life ' ' ?"
+p940
+aS'What substance did Joseph Priestley name for its ability to erase pencil marks ?'
+p941
+aS'What did Martin Luther post on the church door at Wittenberg ?'
+p942
+aS'What is the most commonly used 1 letter word in the English language ?'
+p943
+aS"What are some important events of the 1830 's ?"
+p944
+aS"What color are a cherry tree 's flowers ?"
+p945
+aS'Which soft drink does Madonna advertise for ?'
+p946
+aS'What is the only modern language that capitalizes its singular first-person pronoun ?'
+p947
+aS'What gender is not allowed to vote in Kuwait ?'
+p948
+aS"What is Dr. Seuss ' most popular book ?"
+p949
+aS'What was the first ready-to-eat breakfast cereal ?'
+p950
+aS'What are dinosaur droppings called ?'
+p951
+aS"What meter did Shakespeare use in writing : ` ` To be , or not to be , that is the question.. . ' ' ?"
+p952
+aS'What playing card symbolizes death ?'
+p953
+aS'What is the former name of Zimbabwe ?'
+p954
+aS'What was the food of the Greek gods called ?'
+p955
+aS"What 's the term for a young fox ?"
+p956
+aS'What was the name of the 1899 policy forced on China by which all nations had equal trading rights ?'
+p957
+aS'What was George Washington afraid of ?'
+p958
+aS"What was the name of the ` ` Little Rascals ' ' dog ?"
+p959
+aS'What is the only gland in humans that can regenerate itself ?'
+p960
+aS'What film or films has Jude Law appeared in ?'
+p961
+aS'What TV series saw many of its aquatic scenes shot at Silver Springs , Florida ?'
+p962
+aS'What fuel do airplanes use ?'
+p963
+aS"Name the product that is ` ` at your grocer 's , at your fingertips . ' '"
+p964
+aS"What 's another word that means ` ` knows all ' ' ?"
+p965
+aS'What Hermann Hesse book gave its name to a rock group ?'
+p966
+aS'Which leg does a cat move with its left front leg when walking - its left rear or right rear leg ?'
+p967
+aS'Name the ship Beany and Cecil sailed .'
+p968
+aS"What 's the literary term for a play on words ?"
+p969
+aS'What snack food has ridges ?'
+p970
+aS"What is Beethoven 's 9th symphony called ?"
+p971
+aS'What program do I need to run a .tbk file ?'
+p972
+aS'What war did the Potsdam Conference follow ?'
+p973
+aS"What 's the U.S. Navy hymn ?"
+p974
+aS"What 's the slowest Olympic swimming stroke ?"
+p975
+aS"What was Paul Bunyan 's ox 's name ?"
+p976
+aS"What is the biggest ` ` thing ' ' humans have made ?"
+p977
+aS'What do you call the feeling of having experienced something before ?'
+p978
+aS'What are the stars made of ?'
+p979
+aS'What Jewish holiday saw the start of the 1973 Mideast War ?'
+p980
+aS'What J.R.R. Tolkien book features Bilbo Baggins as the central character ?'
+p981
+aS'What animal migrates the farthest ?'
+p982
+aS'What is the most common kind of skin cancer in the U.S. ?'
+p983
+aS'What hair color can I use to just cover a little gray ?'
+p984
+aS'What do sailors use to measure time ?'
+p985
+aS'In which Kevin Costner movie did Sioux Indians play a role ?'
+p986
+aS"What 's an infant seal called ?"
+p987
+aS'Name the French historical period during the reign of Napoleon III .'
+p988
+aS"What 's the official animal of Canada ?"
+p989
+aS'What book is the follow-up to Future Shock ?'
+p990
+aS'What does a tarantula eat ?'
+p991
+aS'What series of trials followed World War II ?'
+p992
+aS'Name a Sioux language .'
+p993
+aS'What was paper made of in the late 16th century ?'
+p994
+aS'What is kept in Fort Knox that is so valuable ?'
+p995
+aS'What was the Bridge of San Luis Rey made of ?'
+p996
+aS'What is a fear of food ?'
+p997
+aS'What kind of a sports team is the Wisconsin Badgers ?'
+p998
+aS'How do you say 2 in Latin ?'
+p999
+aS"What 1981 Candice Bergen-Jacqueline Bisset movie was a remake of 1943 's Old Acquaintance ?"
+p1000
+aS'What is the best way to overcome a fear ?'
+p1001
+aS"Name of King Arthur 's sword ?"
+p1002
+aS'What is the longest English word that can be formed using just the first row of letters on a typewriter ?'
+p1003
+aS'What TV show premiered on January 15 , 1981 ?'
+p1004
+aS'What are birds descendents of ?'
+p1005
+aS'What Robert Louis Stevenson novel was inspired by Deacon William Brodie , a cabinetmaker by day and burglar by night ?'
+p1006
+aS'What is the dialogue circle in cartoons called ?'
+p1007
+aS'What is a fear of ruin ?'
+p1008
+aS'What was the name of the flight that Fawaz Younis hijacked ?'
+p1009
+aS'What Judith Rossner novel was made into a film starring Diane Keaton ?'
+p1010
+aS'Which is the most-used computer program ?'
+p1011
+aS'What do peacocks mate with ?'
+p1012
+aS'What is the alphabet for Latin ?'
+p1013
+aS'What are pushed and coupled in hump yards ?'
+p1014
+aS"What six words follow the line : ` ` From a jack to a king.. . ' ' ?"
+p1015
+aS'What 1966 boob tube bomb took astronauts back to prehistoric times ?'
+p1016
+aS'What is a fear of thunder ?'
+p1017
+aS'What is the rarest coin ?'
+p1018
+aS'What is the quickest and easiest way to get nail polish out of clothes ?'
+p1019
+aS'What is another word for diet ?'
+p1020
+aS'What did Mr. Magoo flog on TV for General Electric ?'
+p1021
+aS'What are the snakes of New England ?'
+p1022
+aS'Which condiment was once sold as a patent medicine ?'
+p1023
+aS'What Italian liner was hijacked in 1985 ?'
+p1024
+aS"What was the sequel to The Moon 's Balloon ?"
+p1025
+aS"What 's the common name for a Japanese dwarf tree ?"
+p1026
+aS'What is the term that describes a word where only one usage has been recorded in all literature ?'
+p1027
+aS'What kind of flowers does detective Nero Wolfe raise ?'
+p1028
+aS'What is the mission of Nike ?'
+p1029
+aS'What are different products of petroleum ?'
+p1030
+aS"What words in the English have two u 's back to back ?"
+p1031
+aS'What is the name for clouds that produce rain ?'
+p1032
+aS'What does it take to be a hero ?'
+p1033
+aS'What colors is magenta made of ?'
+p1034
+aS'What type of betting is used in horse racing ?'
+p1035
+aS"What piece of jewelry is pictured on Monopoly 's Luxury Tax space ?"
+p1036
+aS"What 's the symbol for the zodiacal sign Gemini ?"
+p1037
+aS'What does a chairbound basophobic fear ?'
+p1038
+aS'What kind of suit did true hepcats wear in 1942 ?'
+p1039
+aS'What is the most popular sports car color ?'
+p1040
+aS'What tennis term is said to come from the French word for egg ?'
+p1041
+aS'What war did Johnny Reb and Billy Yank fight ?'
+p1042
+aS'What are the ingredients of Coca-Cola ?'
+p1043
+aS'What horse did Zorro ride ?'
+p1044
+aS'What drink contains as many types of rum as possible ?'
+p1045
+aS"What 's a ` ` Drinker respirator ' ' better known as ?"
+p1046
+aS'What fowl grabs the spotlight after the Chinese Year of the Monkey ?'
+p1047
+aS'What color beans did the ancient Romans refuse to eat ?'
+p1048
+aS'What is a fear of odors , body , ?'
+p1049
+aS'What James Michener book is subtitled Spanish Travels and Reflections ?'
+p1050
+aS'What is the Islamic counterpart to the Red Cross ?'
+p1051
+aS'Winnie the Pooh is what kind of animal ?'
+p1052
+aS"What organic fuel do bog-dwellers use a ` ` slane ' ' to cut ?"
+p1053
+aS"Which infectious disease is the world 's deadliest ?"
+p1054
+aS'What magazine paid Ernest Hemingway $ 15 a word to write a bullfighting article ?'
+p1055
+aS'What shrubs can be planted that will be safe from deer ?'
+p1056
+aS'What golfing accessory was patented by George Grant on December 12'
+p1057
+aS'Name the operating system that runs on IBM-compatible machines .'
+p1058
+aS"How do you say ` ` fresh ' ' in Spanish ?"
+p1059
+aS"What 's the traditional drink at the Kentucky Derby ?"
+p1060
+aS'Which medium is Hamblen the first singing cowboy in ?'
+p1061
+aS"What 's an easy way to count the approximate number of fish in a lake ?"
+p1062
+aS'What William Makepeace Thackeray novel was made into a film by Stanley Kubrick ?'
+p1063
+aS'What color are seven of every 10 houses in the U.S. ?'
+p1064
+aS'What is a fear of passing high objects ?'
+p1065
+aS'What soft drink would provide me with the biggest intake of caffeine ?'
+p1066
+aS"What 's the singular of dice ?"
+p1067
+aS"What was spawned the term ` ` MiG Alley ' ' ?"
+p1068
+aS"When it 's time to relax , what one beer stands clear ?"
+p1069
+aS"What product features a frog that says ` ` dig 'em ' ' ?"
+p1070
+aS'What is considered the costliest disaster the insurance industry has ever faced ?'
+p1071
+aS"What 's the word for broken glass or sharp rocks embedded in cement on top of a wall ?"
+p1072
+aS"What are Halloween 's colors ?"
+p1073
+aS'What is a fear of pregnancy ?'
+p1074
+aS'What game is fatal to anybody over 21 ?'
+p1075
+aS'What does Warner Bros. call a flightless cuckoo ?'
+p1076
+aS'What are the four most widely-used languages in North America ?'
+p1077
+aS'What is a fear of failure ?'
+p1078
+aS"What movie told of Anna Anderson 's claim to be a Russian czar 's daughter ?"
+p1079
+aS"What 's the favorite food of dragonflies ?"
+p1080
+aS"What color is Mr. Spock 's blood ?"
+p1081
+aS'What can communications satellites offer yachts ?'
+p1082
+aS'What race is 1 , 137 miles long ?'
+p1083
+aS"What 's the second-biggest-selling magazine in America ?"
+p1084
+aS'What does the six-footed Musca domestica become when it enters a house ?'
+p1085
+aS'Stuart Hamblen is considered to be the first singing cowboy of what ?'
+p1086
+aS'What film did Lee Marvin win the 1965 best actor Oscar for ?'
+p1087
+aS"What 's the term for an organism that lives on or in another ?"
+p1088
+aS'What disease does Katharine Hepburn have that makes her voice shake ?'
+p1089
+aS'What are the main blood vessels ?'
+p1090
+aS'On what T.V. show could Tom Terrific be found ?'
+p1091
+aS'What did Abolitionists try to end ?'
+p1092
+aS"What Erica Jong novel deals with Isadora Wing 's fear ?"
+p1093
+aS'What is the name given to the Islamic counterpart of the Red Cross ?'
+p1094
+aS'What is the rounded part on the top of a matchbook called ?'
+p1095
+aS'What drug did Sigmund Freud become fascinated with while experimenting with the treatment of neurasthenia ?'
+p1096
+aS"What commodity 's shortage was the largest single factor in keeping North American cars off the roads during World War II ?"
+p1097
+aS'What J.R.R. Tolkien book features Gimli as a central character ?'
+p1098
+aS'What musical instrument did Sherlock Holmes play ?'
+p1099
+aS'What kind of animals were in the Paleozoic era ?'
+p1100
+aS'What part of your body contains the corpus callosum ?'
+p1101
+aS'What do camels store in their humps ?'
+p1102
+aS'What Caribbean cult did Marcus Garvey originate ?'
+p1103
+aS"What 's another name for aspartame ?"
+p1104
+aS'What is a fear of sinning ?'
+p1105
+aS'What is the primary language of the Philippines ?'
+p1106
+aS'What are John C. Calhoun and Henry Clay known as ?'
+p1107
+aS'What Jules Verne novel features scientists held captive in the submarine Nautilus ?'
+p1108
+aS'Ray Charles is best known for playing what instrument ?'
+p1109
+aS'A corgi is a kind of what ?'
+p1110
+aS'What international sport was originally called hurley ?'
+p1111
+aS'What fruit does the ficus produce ?'
+p1112
+aS'What do you get by adding Lactobacillus bulgaricus to milk ?'
+p1113
+aS'What ship did Lloyd M. Bucher command ?'
+p1114
+aS'What is the term for the sum of all genetic material in a given organism ?'
+p1115
+aS'What does a polyorchid man have at least three of ?'
+p1116
+aS'Musician Ray Charles plays what instrument ?'
+p1117
+aS'What sport is Chris Jogis a top player of ?'
+p1118
+aS"What 's the main vegetable in vichyssoise ?"
+p1119
+aS"What 's the most popular form of bridge ?"
+p1120
+aS'What four tastes can a human distinguish ?'
+p1121
+aS'What term does a Czech use to describe a Pole ?'
+p1122
+aS'What incident of 1933 did the German Nazis use to justify emergency decrees , imprisoning opponents and vesting more power in themselves ?'
+p1123
+aS"What is the trademark of a Washington Redskin 's fan ?"
+p1124
+aS'What soft drink is most heavily caffeinated ?'
+p1125
+aS'What is an example of a natural acid-base indicator ?'
+p1126
+aS'What was the eighth day following the Nones in each month of the Roman calendar called ?'
+p1127
+aS'What war saw a naval battle between the luxury liners Cap Trafalgar and the Carmania ?'
+p1128
+aS"What was the orca 's name that died of a fungal infection at Sea World ?"
+p1129
+aS"What are the most common elements in the Earth 's crust ?"
+p1130
+aS'What spice do chefs pay the most for ?'
+p1131
+aS'What is the electronic device used to produce visual displays corresponding to electric signals ?'
+p1132
+aS'What did Benny Carter play ?'
+p1133
+aS"What 's the name of a golf course in Myrtle Beach ?"
+p1134
+aS'What is a softball made of ?'
+p1135
+aS'In which Tennessee Williams play is one of the characters killed and devoured by a mob of starving children ?'
+p1136
+aS'What is a fear of gravity ?'
+p1137
+aS"What gaming devices were dubbed ` ` Mississippi marbles ' ' and ` ` Memphis dominoes ' ' ?"
+p1138
+aS'What do Hasidic Jews refrain from while dating ?'
+p1139
+aS"What common ailment can 't you catch at the North Pole ?"
+p1140
+aS'At Christmas time , what is the traditional thing to do under the mistletoe ?'
+p1141
+aS'What do Italians call Florence ?'
+p1142
+aS'What is a camel hair brush actually made out of ?'
+p1143
+aS'Ray Charles plays which instrument ?'
+p1144
+aS'What nutrients are for healthy bones and teeth ?'
+p1145
+aS"What game 's board shows the territories of Irkutsk , Yakutsk and Kamchatka ?"
+p1146
+aS'What cards are bullets ?'
+p1147
+aS'In what deodorant commercial did tenants have adjoining medicine cabinets ?'
+p1148
+aS"What is ` ` the bear of beers ' ' ?"
+p1149
+aS'What is predicted to topple over between 2010 and 2020 ?'
+p1150
+aS'What is a fear of water ?'
+p1151
+aS'What is the name of the largest water conservancy project in China ?'
+p1152
+aS'What handicraft requires you to interlace your warp and weft ?'
+p1153
+aS'What are the signs of a country going into a recession ?'
+p1154
+aS'What is the best brand for a laptop computer ?'
+p1155
+aS'What was the 24-disc John Gabel Entertainer the first example of , in 1960 ?'
+p1156
+aS'What Mary Tyler Moore Show regular came into the world as Tadeus Wladyslaw Konopka ?'
+p1157
+aS'What color are the castellated walls of the Kremlin ?'
+p1158
+aS'What does ribavirin consist of ?'
+p1159
+aS'What is the only primate to lack pigment in the palms of its hands ?'
+p1160
+aS"What is the only substance that gives food its ` ` taste ' ' when eaten ?"
+p1161
+aS'What film featured Shirley MacLaine as a prostitute and Jack Lemmon as a pimp ?'
+p1162
+aS'What currency is used in Australia ?'
+p1163
+aS'What book was F. Scott Fitzgerald working on when he died in Hollywood in 194 ?'
+p1164
+aS'What is a fear of hair ?'
+p1165
+aS'What is chronic constipation a symptom of ?'
+p1166
+aS"What whisky is ` ` known by the company it keeps ' ' ?"
+p1167
+aS'What is the procedure called for drilling a hole in your skull to acheive a higher consciousness ?'
+p1168
+aS'What instrument is Ray Charles best known for playing ?'
+p1169
+aS'What is a 2-sided object called ?'
+p1170
+aS'What is the name of the 1919 occurrence in which British troops killed over 3 unarmed Indian protestors ?'
+p1171
+aS"What was the name of Baretta 's cockatoo ?"
+p1172
+aS"What 's the only mammal that can 't jump ?"
+p1173
+aS'What is the chemical formula for napalm ?'
+p1174
+aS'What war did the Wan na-Go-Home Riots occur after ?'
+p1175
+aS'What is a fear of being cold ?'
+p1176
+aS'What 1963 Joseph L. Mankiewicz film cost $ 28 million ?'
+p1177
+aS'What are the 7 articles of the constitution ?'
+p1178
+aS'Name a film that has won the Golden Bear in the Berlin Film Festival ?'
+p1179
+aS'In AD 999 , what sort of celebrations , fears , were there ?'
+p1180
+aS"What does the method called ` ` cold fusion ' ' create ?"
+p1181
+aS'What fastener did Whitcomb Judson patent in 1893 ?'
+p1182
+aS'Stuart Hamblen is considered to be the first singing cowboy of which medium ?'
+p1183
+aS"What took first prize in Omni magazine 's contest to find the ` ` ultimate unanswerable question ' ' ?"
+p1184
+aS'What did Woody Allen call the Japanese gangster film he dubbed into English as a comedy ?'
+p1185
+aS'What explosive do you get by mixing charcoal , sulfur and saltpeter ?'
+p1186
+aS'What is a fear of robbers ?'
+p1187
+aS'What are the different types of plastic ?'
+p1188
+aS'What was the first Gilbert and Sullivan opera ?'
+p1189
+aS"What 's played at Wembley Stadium , London , every May ?"
+p1190
+aS'What did Aaron Hass write ?'
+p1191
+aS'What color is the eight-ball in pocket billiards ?'
+p1192
+aS'What is the smallest thing seen under the most powerful microscope , and how big is it ?'
+p1193
+aS'What is a fear of clouds ?'
+p1194
+aS'What wheel did Blaise Pascal invent in a search for perpetual motion ?'
+p1195
+aS"What 's the International Lawn Tennis Challenge Trophy usually called ?"
+p1196
+aS'What did brontosauruses eat ?'
+p1197
+aS"What 's the most abundant element in the sun ?"
+p1198
+aS"What 's the hardest substance in the human body ?"
+p1199
+aS"What was Mark Johnson referring to when he said : ` ` I still can 't believe it- we beat the Russians ? ' '"
+p1200
+aS'What song did Patti Page set people dancing to in 1950 ?'
+p1201
+aS'In the Miller Lite TV commercial , who is the creature ?'
+p1202
+aS'What are you caught in if a haboob blows up ?'
+p1203
+aS"What started in 1849 when gold was discovered at Sutter 's Mill ?"
+p1204
+aS'What are the conjugations of wake and woke ?'
+p1205
+aS'What kind of creatures are black , yellow , and brown bullheads ?'
+p1206
+aS'What are some colorful flowers that will bloom in the fall in New England ?'
+p1207
+aS'Madonna hocks which soft drink ?'
+p1208
+aS"What is April 's gemstone ?"
+p1209
+aS"What 's the sequel to Alice 's Adventures in Wonderland ?"
+p1210
+aS'What kind of creature is a coot ?'
+p1211
+aS'What is a movie that Kevin Costner made about Sioux Indians ?'
+p1212
+aS"What is ` ` the soft drink for adults ' ' ?"
+p1213
+aS'What is a fear of disease ?'
+p1214
+aS'What color are school buses ?'
+p1215
+aS'What weapon did the crossed slits in English castles accommodate ?'
+p1216
+aS'What was the species of Winnie the Pooh ?'
+p1217
+aS'What do West Indian steel bands use as instruments ?'
+p1218
+aS"What 's the geographic term for the submerged fringe of a continent ?"
+p1219
+aS'What do bicornate animals have two of ?'
+p1220
+aS'What became the biggest cash crop in the U.S. in 1983 , surpassing corn ?'
+p1221
+aS'Name an American made motorcycle .'
+p1222
+aS'What kind of science is cosmology ?'
+p1223
+aS'What sport is played on the largest field ?'
+p1224
+aS'What TV show chronicled the lives of Katy Holstrum and Congressman Glen Morley ?'
+p1225
+aS'What sport is known for hooligans ?'
+p1226
+aS'What did the Yalta Conference lead to ?'
+p1227
+aS"What famed gangland slaughter cut into the membership of Bugs Moran 's outfit ?"
+p1228
+aS'What interesting method was used to run the credits in the early Popeye cartoons ?'
+p1229
+aS'What is the fear of being loved ?'
+p1230
+aS"What 's been the ruin of many a poor boy in New Orleans ?"
+p1231
+aS'What was the name of the peace agreement imposed on Germany after World War I ?'
+p1232
+aS'What was the first English play written exclusively for children ?'
+p1233
+aS'What African animals are known as The Big Five ?'
+p1234
+aS'For what disease is the drug Sinemet used as a treatment ?'
+p1235
+aS'The Jewish alphabet is known as what ?'
+p1236
+aS'What TV station did Mary Richards work for ?'
+p1237
+aS'What game is Garry Kasparov really good at ?'
+p1238
+aS'Which type of submarine was bought recently by South Korea ?'
+p1239
+aS'What cancer is commonly associated with AIDS ?'
+p1240
+aS'Which is the best opening move in chess ?'
+p1241
+aS'What Morris West novel deals with Russian bishop who becomes Pope ?'
+p1242
+aS'What does a spermologer collect ?'
+p1243
+aS'What color is the stripe along each side of a Coho salmon ?'
+p1244
+aS'What did people use to freshen their breath before toothpaste ?'
+p1245
+aS'What do the French call La Manche ?'
+p1246
+aS"Who were John F. Kennedy 's dogs ?"
+p1247
+aS'What movie did Madilyn Kahn star in with Gene Wilder ?'
+p1248
+aS'What English word contains the most letters ?'
+p1249
+aS'What does a man suffering from diphallic terata have ?'
+p1250
+aS'Where is the human skin least sensitive ?'
+p1251
+aS'What kind of substance is dextropropoxyphen napsylate ?'
+p1252
+aS'What invention does the principle of conservation of energy make impossible ?'
+p1253
+aS'What term means a sexual attraction between a male and a female ?'
+p1254
+aS'What household facility contains a float ball , ballcock , and overflow tube ?'
+p1255
+aS'What is the dot on an the letter i called ?'
+p1256
+asS'target'
+p1257
+cnumpy.core.multiarray
+_reconstruct
+p1258
+(cnumpy
+ndarray
+p1259
+(I0
+tp1260
+S'b'
+p1261
+tp1262
+Rp1263
+(I1
+(I1250
+tp1264
+cnumpy
+dtype
+p1265
+(S'i8'
+p1266
+I0
+I1
+tp1267
+Rp1268
+(I3
+S'<'
+p1269
+NNNI-1
+I-1
+I0
+tp1270
+bI00
+S'\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00'
+p1271
+tp1272
+bsS'target_names'
+p1273
+(lp1274
+S'animal'
+p1275
+aS'body'
+p1276
+aS'color'
+p1277
+aS'cremat'
+p1278
+aS'currency'
+p1279
+aS'dismed'
+p1280
+aS'event'
+p1281
+aS'food'
+p1282
+aS'instru'
+p1283
+aS'lang'
+p1284
+aS'letter'
+p1285
+aS'other'
+p1286
+aS'plant'
+p1287
+aS'product'
+p1288
+aS'religion'
+p1289
+aS'sport'
+p1290
+aS'substance'
+p1291
+aS'symbol'
+p1292
+aS'techmeth'
+p1293
+aS'termeq'
+p1294
+aS'veh'
+p1295
+aS'word'
+p1296
+asS'filenames'
+p1297
+g1258
+(g1259
+(I0
+tp1298
+g1261
+tp1299
+Rp1300
+(I1
+(I1250
+tp1301
+g1265
+(S'S23'
+p1302
+I0
+I1
+tp1303
+Rp1304
+(I3
+S'|'
+p1305
+NNNI23
+I1
+I0
+tp1306
+bI00
+S'ENTY/other/1213.txt\x00\x00\x00\x00ENTY/techmeth/5314.txt\x00ENTY/dismed/1791.txt\x00\x00\x00ENTY/product/345.txt\x00\x00\x00ENTY/event/1818.txt\x00\x00\x00\x00ENTY/dismed/5040.txt\x00\x00\x00ENTY/religion/4248.txt\x00ENTY/animal/4292.txt\x00\x00\x00ENTY/animal/249.txt\x00\x00\x00\x00ENTY/color/1134.txt\x00\x00\x00\x00ENTY/termeq/4011.txt\x00\x00\x00ENTY/other/2663.txt\x00\x00\x00\x00ENTY/event/3350.txt\x00\x00\x00\x00ENTY/dismed/4993.txt\x00\x00\x00ENTY/termeq/3759.txt\x00\x00\x00ENTY/word/4414.txt\x00\x00\x00\x00\x00ENTY/substance/5381.txtENTY/product/769.txt\x00\x00\x00ENTY/substance/4039.txtENTY/termeq/2613.txt\x00\x00\x00ENTY/cremat/1897.txt\x00\x00\x00ENTY/product/535.txt\x00\x00\x00ENTY/termeq/1721.txt\x00\x00\x00ENTY/other/3331.txt\x00\x00\x00\x00ENTY/cremat/3476.txt\x00\x00\x00ENTY/food/4892.txt\x00\x00\x00\x00\x00ENTY/cremat/2750.txt\x00\x00\x00ENTY/food/5380.txt\x00\x00\x00\x00\x00ENTY/veh/3502.txt\x00\x00\x00\x00\x00\x00ENTY/techmeth/1149.txt\x00ENTY/other/1755.txt\x00\x00\x00\x00ENTY/other/549.txt\x00\x00\x00\x00\x00ENTY/instru/457.txt\x00\x00\x00\x00ENTY/cremat/1025.txt\x00\x00\x00ENTY/plant/1948.txt\x00\x00\x00\x00ENTY/termeq/2980.txt\x00\x00\x00ENTY/dismed/3213.txt\x00\x00\x00ENTY/other/3027.txt\x00\x00\x00\x00ENTY/cremat/113.txt\x00\x00\x00\x00ENTY/other/4089.txt\x00\x00\x00\x00ENTY/dismed/240.txt\x00\x00\x00\x00ENTY/sport/2101.txt\x00\x00\x00\x00ENTY/termeq/3457.txt\x00\x00\x00ENTY/event/4385.txt\x00\x00\x00\x00ENTY/dismed/3449.txt\x00\x00\x00ENTY/dismed/3720.txt\x00\x00\x00ENTY/food/5116.txt\x00\x00\x00\x00\x00ENTY/other/3984.txt\x00\x00\x00\x00ENTY/veh/3554.txt\x00\x00\x00\x00\x00\x00ENTY/termeq/4700.txt\x00\x00\x00ENTY/other/2920.txt\x00\x00\x00\x00ENTY/other/2674.txt\x00\x00\x00\x00ENTY/termeq/3111.txt\x00\x00\x00ENTY/animal/284.txt\x00\x00\x00\x00ENTY/food/2838.txt\x00\x00\x00\x00\x00ENTY/cremat/403.txt\x00\x00\x00\x00ENTY/food/3422.txt\x00\x00\x00\x00\x00ENTY/dismed/2708.txt\x00\x00\x00ENTY/sport/4735.txt\x00\x00\x00\x00ENTY/cremat/663.txt\x00\x00\x00\x00ENTY/sport/2647.txt\x00\x00\x00\x00ENTY/animal/4205.txt\x00\x00\x00ENTY/animal/371.txt\x00\x00\x00\x00ENTY/dismed/387.txt\x00\x00\x00\x00ENTY/food/2601.txt\x00\x00\x00\x00\x00ENTY/termeq/4559.txt\x00\x00\x00ENTY/product/394.txt\x00\x00\x00ENTY/cremat/3974.txt\x00\x00\x00ENTY/termeq/3574.txt\x00\x00\x00ENTY/animal/4124.txt\x00\x00\x00ENTY/food/1422.txt\x00\x00\x00\x00\x00ENTY/event/4096.txt\x00\x00\x00\x00ENTY/word/4151.txt\x00\x00\x00\x00\x00ENTY/other/523.txt\x00\x00\x00\x00\x00ENTY/cremat/2144.txt\x00\x00\x00ENTY/termeq/1873.txt\x00\x00\x00ENTY/cremat/3740.txt\x00\x00\x00ENTY/sport/1044.txt\x00\x00\x00\x00ENTY/other/2011.txt\x00\x00\x00\x00ENTY/dismed/5097.txt\x00\x00\x00ENTY/other/3481.txt\x00\x00\x00\x00ENTY/cremat/1.txt\x00\x00\x00\x00\x00\x00ENTY/animal/2677.txt\x00\x00\x00ENTY/other/3905.txt\x00\x00\x00\x00ENTY/cremat/4345.txt\x00\x00\x00ENTY/veh/1029.txt\x00\x00\x00\x00\x00\x00ENTY/animal/1985.txt\x00\x00\x00ENTY/other/965.txt\x00\x00\x00\x00\x00ENTY/techmeth/3260.txt\x00ENTY/food/241.txt\x00\x00\x00\x00\x00\x00ENTY/body/4396.txt\x00\x00\x00\x00\x00ENTY/animal/4594.txt\x00\x00\x00ENTY/dismed/1626.txt\x00\x00\x00ENTY/food/3582.txt\x00\x00\x00\x00\x00ENTY/food/2616.txt\x00\x00\x00\x00\x00ENTY/animal/714.txt\x00\x00\x00\x00ENTY/dismed/3160.txt\x00\x00\x00ENTY/cremat/5108.txt\x00\x00\x00ENTY/dismed/4572.txt\x00\x00\x00ENTY/cremat/4792.txt\x00\x00\x00ENTY/other/2333.txt\x00\x00\x00\x00ENTY/termeq/5277.txt\x00\x00\x00ENTY/cremat/3841.txt\x00\x00\x00ENTY/food/5414.txt\x00\x00\x00\x00\x00ENTY/product/4714.txt\x00\x00ENTY/body/162.txt\x00\x00\x00\x00\x00\x00ENTY/food/1741.txt\x00\x00\x00\x00\x00ENTY/food/2590.txt\x00\x00\x00\x00\x00ENTY/food/5424.txt\x00\x00\x00\x00\x00ENTY/techmeth/3899.txt\x00ENTY/termeq/299.txt\x00\x00\x00\x00ENTY/product/2195.txt\x00\x00ENTY/color/4192.txt\x00\x00\x00\x00ENTY/sport/4140.txt\x00\x00\x00\x00ENTY/cremat/2459.txt\x00\x00\x00ENTY/word/4498.txt\x00\x00\x00\x00\x00ENTY/other/638.txt\x00\x00\x00\x00\x00ENTY/animal/2944.txt\x00\x00\x00ENTY/animal/3915.txt\x00\x00\x00ENTY/cremat/2697.txt\x00\x00\x00ENTY/animal/1628.txt\x00\x00\x00ENTY/food/478.txt\x00\x00\x00\x00\x00\x00ENTY/food/3757.txt\x00\x00\x00\x00\x00ENTY/dismed/2172.txt\x00\x00\x00ENTY/animal/847.txt\x00\x00\x00\x00ENTY/animal/3374.txt\x00\x00\x00ENTY/veh/3917.txt\x00\x00\x00\x00\x00\x00ENTY/sport/1077.txt\x00\x00\x00\x00ENTY/sport/3990.txt\x00\x00\x00\x00ENTY/termeq/1319.txt\x00\x00\x00ENTY/cremat/2288.txt\x00\x00\x00ENTY/other/2318.txt\x00\x00\x00\x00ENTY/other/4258.txt\x00\x00\x00\x00ENTY/product/1346.txt\x00\x00ENTY/other/21.txt\x00\x00\x00\x00\x00\x00ENTY/other/1495.txt\x00\x00\x00\x00ENTY/sport/2652.txt\x00\x00\x00\x00ENTY/food/5174.txt\x00\x00\x00\x00\x00ENTY/cremat/760.txt\x00\x00\x00\x00ENTY/sport/3360.txt\x00\x00\x00\x00ENTY/event/987.txt\x00\x00\x00\x00\x00ENTY/cremat/1523.txt\x00\x00\x00ENTY/animal/3157.txt\x00\x00\x00ENTY/event/969.txt\x00\x00\x00\x00\x00ENTY/lang/472.txt\x00\x00\x00\x00\x00\x00ENTY/animal/335.txt\x00\x00\x00\x00ENTY/animal/883.txt\x00\x00\x00\x00ENTY/cremat/4047.txt\x00\x00\x00ENTY/cremat/3830.txt\x00\x00\x00ENTY/food/2716.txt\x00\x00\x00\x00\x00ENTY/termeq/2614.txt\x00\x00\x00ENTY/dismed/87.txt\x00\x00\x00\x00\x00ENTY/cremat/5281.txt\x00\x00\x00ENTY/other/798.txt\x00\x00\x00\x00\x00ENTY/cremat/4930.txt\x00\x00\x00ENTY/lang/873.txt\x00\x00\x00\x00\x00\x00ENTY/food/2135.txt\x00\x00\x00\x00\x00ENTY/other/3108.txt\x00\x00\x00\x00ENTY/food/5094.txt\x00\x00\x00\x00\x00ENTY/other/4545.txt\x00\x00\x00\x00ENTY/dismed/4603.txt\x00\x00\x00ENTY/event/2797.txt\x00\x00\x00\x00ENTY/dismed/2454.txt\x00\x00\x00ENTY/food/1083.txt\x00\x00\x00\x00\x00ENTY/techmeth/3311.txt\x00ENTY/other/505.txt\x00\x00\x00\x00\x00ENTY/food/3988.txt\x00\x00\x00\x00\x00ENTY/cremat/1629.txt\x00\x00\x00ENTY/termeq/4981.txt\x00\x00\x00ENTY/cremat/3611.txt\x00\x00\x00ENTY/cremat/1582.txt\x00\x00\x00ENTY/event/1343.txt\x00\x00\x00\x00ENTY/cremat/5065.txt\x00\x00\x00ENTY/cremat/1907.txt\x00\x00\x00ENTY/cremat/4284.txt\x00\x00\x00ENTY/other/3230.txt\x00\x00\x00\x00ENTY/dismed/4110.txt\x00\x00\x00ENTY/termeq/3696.txt\x00\x00\x00ENTY/termeq/2826.txt\x00\x00\x00ENTY/cremat/3140.txt\x00\x00\x00ENTY/dismed/795.txt\x00\x00\x00\x00ENTY/cremat/4417.txt\x00\x00\x00ENTY/cremat/2824.txt\x00\x00\x00ENTY/substance/2908.txtENTY/animal/1323.txt\x00\x00\x00ENTY/color/3275.txt\x00\x00\x00\x00ENTY/sport/4589.txt\x00\x00\x00\x00ENTY/sport/4806.txt\x00\x00\x00\x00ENTY/event/1330.txt\x00\x00\x00\x00ENTY/dismed/3231.txt\x00\x00\x00ENTY/cremat/4853.txt\x00\x00\x00ENTY/cremat/3581.txt\x00\x00\x00ENTY/other/278.txt\x00\x00\x00\x00\x00ENTY/termeq/2374.txt\x00\x00\x00ENTY/other/2242.txt\x00\x00\x00\x00ENTY/dismed/3001.txt\x00\x00\x00ENTY/techmeth/1519.txt\x00ENTY/dismed/5264.txt\x00\x00\x00ENTY/cremat/923.txt\x00\x00\x00\x00ENTY/cremat/1857.txt\x00\x00\x00ENTY/other/4079.txt\x00\x00\x00\x00ENTY/other/1745.txt\x00\x00\x00\x00ENTY/color/1991.txt\x00\x00\x00\x00ENTY/cremat/696.txt\x00\x00\x00\x00ENTY/sport/4940.txt\x00\x00\x00\x00ENTY/sport/1823.txt\x00\x00\x00\x00ENTY/cremat/5362.txt\x00\x00\x00ENTY/food/5251.txt\x00\x00\x00\x00\x00ENTY/other/3492.txt\x00\x00\x00\x00ENTY/color/4692.txt\x00\x00\x00\x00ENTY/color/2538.txt\x00\x00\x00\x00ENTY/food/3596.txt\x00\x00\x00\x00\x00ENTY/dismed/5139.txt\x00\x00\x00ENTY/cremat/2948.txt\x00\x00\x00ENTY/other/1089.txt\x00\x00\x00\x00ENTY/techmeth/3104.txt\x00ENTY/other/4415.txt\x00\x00\x00\x00ENTY/cremat/4041.txt\x00\x00\x00ENTY/animal/3778.txt\x00\x00\x00ENTY/other/3307.txt\x00\x00\x00\x00ENTY/other/4652.txt\x00\x00\x00\x00ENTY/other/5213.txt\x00\x00\x00\x00ENTY/dismed/811.txt\x00\x00\x00\x00ENTY/other/1030.txt\x00\x00\x00\x00ENTY/animal/5141.txt\x00\x00\x00ENTY/cremat/1302.txt\x00\x00\x00ENTY/cremat/3764.txt\x00\x00\x00ENTY/cremat/2498.txt\x00\x00\x00ENTY/color/605.txt\x00\x00\x00\x00\x00ENTY/termeq/296.txt\x00\x00\x00\x00ENTY/dismed/1090.txt\x00\x00\x00ENTY/cremat/2295.txt\x00\x00\x00ENTY/substance/1093.txtENTY/color/4239.txt\x00\x00\x00\x00ENTY/other/258.txt\x00\x00\x00\x00\x00ENTY/sport/941.txt\x00\x00\x00\x00\x00ENTY/termeq/1033.txt\x00\x00\x00ENTY/cremat/3267.txt\x00\x00\x00ENTY/cremat/1681.txt\x00\x00\x00ENTY/cremat/2770.txt\x00\x00\x00ENTY/substance/1318.txtENTY/event/5313.txt\x00\x00\x00\x00ENTY/product/2659.txt\x00\x00ENTY/cremat/5124.txt\x00\x00\x00ENTY/dismed/2761.txt\x00\x00\x00ENTY/dismed/1129.txt\x00\x00\x00ENTY/other/1088.txt\x00\x00\x00\x00ENTY/sport/5261.txt\x00\x00\x00\x00ENTY/cremat/617.txt\x00\x00\x00\x00ENTY/event/1588.txt\x00\x00\x00\x00ENTY/termeq/834.txt\x00\x00\x00\x00ENTY/product/1547.txt\x00\x00ENTY/dismed/3093.txt\x00\x00\x00ENTY/letter/2158.txt\x00\x00\x00ENTY/product/3694.txt\x00\x00ENTY/sport/2893.txt\x00\x00\x00\x00ENTY/substance/3029.txtENTY/techmeth/1303.txt\x00ENTY/termeq/648.txt\x00\x00\x00\x00ENTY/food/2291.txt\x00\x00\x00\x00\x00ENTY/other/977.txt\x00\x00\x00\x00\x00ENTY/cremat/1183.txt\x00\x00\x00ENTY/other/1977.txt\x00\x00\x00\x00ENTY/product/3891.txt\x00\x00ENTY/event/851.txt\x00\x00\x00\x00\x00ENTY/cremat/562.txt\x00\x00\x00\x00ENTY/plant/5080.txt\x00\x00\x00\x00ENTY/animal/4696.txt\x00\x00\x00ENTY/letter/4202.txt\x00\x00\x00ENTY/cremat/4794.txt\x00\x00\x00ENTY/termeq/2828.txt\x00\x00\x00ENTY/techmeth/832.txt\x00\x00ENTY/lang/788.txt\x00\x00\x00\x00\x00\x00ENTY/food/4878.txt\x00\x00\x00\x00\x00ENTY/termeq/4971.txt\x00\x00\x00ENTY/cremat/4855.txt\x00\x00\x00ENTY/cremat/3279.txt\x00\x00\x00ENTY/animal/3459.txt\x00\x00\x00ENTY/cremat/4233.txt\x00\x00\x00ENTY/other/3465.txt\x00\x00\x00\x00ENTY/other/1864.txt\x00\x00\x00\x00ENTY/substance/2598.txtENTY/food/646.txt\x00\x00\x00\x00\x00\x00ENTY/event/1718.txt\x00\x00\x00\x00ENTY/other/3975.txt\x00\x00\x00\x00ENTY/product/826.txt\x00\x00\x00ENTY/cremat/4175.txt\x00\x00\x00ENTY/other/1842.txt\x00\x00\x00\x00ENTY/dismed/1106.txt\x00\x00\x00ENTY/food/4281.txt\x00\x00\x00\x00\x00ENTY/animal/4494.txt\x00\x00\x00ENTY/color/1585.txt\x00\x00\x00\x00ENTY/letter/25.txt\x00\x00\x00\x00\x00ENTY/sport/694.txt\x00\x00\x00\x00\x00ENTY/sport/3808.txt\x00\x00\x00\x00ENTY/other/41.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/3209.txt\x00\x00\x00ENTY/other/3141.txt\x00\x00\x00\x00ENTY/food/3967.txt\x00\x00\x00\x00\x00ENTY/termeq/2501.txt\x00\x00\x00ENTY/other/28.txt\x00\x00\x00\x00\x00\x00ENTY/color/2460.txt\x00\x00\x00\x00ENTY/cremat/388.txt\x00\x00\x00\x00ENTY/sport/572.txt\x00\x00\x00\x00\x00ENTY/color/2628.txt\x00\x00\x00\x00ENTY/food/400.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/440.txt\x00\x00\x00\x00ENTY/other/5408.txt\x00\x00\x00\x00ENTY/color/2471.txt\x00\x00\x00\x00ENTY/other/2906.txt\x00\x00\x00\x00ENTY/product/1668.txt\x00\x00ENTY/cremat/2371.txt\x00\x00\x00ENTY/other/340.txt\x00\x00\x00\x00\x00ENTY/cremat/3569.txt\x00\x00\x00ENTY/cremat/4721.txt\x00\x00\x00ENTY/letter/1355.txt\x00\x00\x00ENTY/currency/5448.txt\x00ENTY/food/5064.txt\x00\x00\x00\x00\x00ENTY/plant/4874.txt\x00\x00\x00\x00ENTY/techmeth/1950.txt\x00ENTY/letter/1425.txt\x00\x00\x00ENTY/other/211.txt\x00\x00\x00\x00\x00ENTY/sport/4380.txt\x00\x00\x00\x00ENTY/event/919.txt\x00\x00\x00\x00\x00ENTY/substance/625.txt\x00ENTY/word/3875.txt\x00\x00\x00\x00\x00ENTY/other/3800.txt\x00\x00\x00\x00ENTY/substance/606.txt\x00ENTY/cremat/467.txt\x00\x00\x00\x00ENTY/other/3889.txt\x00\x00\x00\x00ENTY/other/2531.txt\x00\x00\x00\x00ENTY/product/1989.txt\x00\x00ENTY/cremat/5236.txt\x00\x00\x00ENTY/animal/2370.txt\x00\x00\x00ENTY/animal/1974.txt\x00\x00\x00ENTY/cremat/2738.txt\x00\x00\x00ENTY/substance/3094.txtENTY/color/2273.txt\x00\x00\x00\x00ENTY/cremat/4356.txt\x00\x00\x00ENTY/substance/3929.txtENTY/word/2840.txt\x00\x00\x00\x00\x00ENTY/techmeth/5246.txt\x00ENTY/word/456.txt\x00\x00\x00\x00\x00\x00ENTY/animal/1051.txt\x00\x00\x00ENTY/animal/993.txt\x00\x00\x00\x00ENTY/lang/1177.txt\x00\x00\x00\x00\x00ENTY/techmeth/2069.txt\x00ENTY/symbol/613.txt\x00\x00\x00\x00ENTY/sport/302.txt\x00\x00\x00\x00\x00ENTY/word/3834.txt\x00\x00\x00\x00\x00ENTY/product/699.txt\x00\x00\x00ENTY/cremat/445.txt\x00\x00\x00\x00ENTY/sport/4803.txt\x00\x00\x00\x00ENTY/cremat/4604.txt\x00\x00\x00ENTY/termeq/1356.txt\x00\x00\x00ENTY/food/4447.txt\x00\x00\x00\x00\x00ENTY/animal/108.txt\x00\x00\x00\x00ENTY/animal/661.txt\x00\x00\x00\x00ENTY/other/80.txt\x00\x00\x00\x00\x00\x00ENTY/food/2041.txt\x00\x00\x00\x00\x00ENTY/instru/1834.txt\x00\x00\x00ENTY/other/593.txt\x00\x00\x00\x00\x00ENTY/substance/3937.txtENTY/techmeth/4836.txt\x00ENTY/other/1709.txt\x00\x00\x00\x00ENTY/cremat/2421.txt\x00\x00\x00ENTY/other/1672.txt\x00\x00\x00\x00ENTY/other/926.txt\x00\x00\x00\x00\x00ENTY/other/1486.txt\x00\x00\x00\x00ENTY/veh/2009.txt\x00\x00\x00\x00\x00\x00ENTY/animal/3818.txt\x00\x00\x00ENTY/animal/3824.txt\x00\x00\x00ENTY/currency/5436.txt\x00ENTY/cremat/1933.txt\x00\x00\x00ENTY/animal/1350.txt\x00\x00\x00ENTY/other/397.txt\x00\x00\x00\x00\x00ENTY/other/1646.txt\x00\x00\x00\x00ENTY/cremat/4114.txt\x00\x00\x00ENTY/food/1373.txt\x00\x00\x00\x00\x00ENTY/substance/2343.txtENTY/termeq/1780.txt\x00\x00\x00ENTY/other/3406.txt\x00\x00\x00\x00ENTY/instru/1361.txt\x00\x00\x00ENTY/word/2560.txt\x00\x00\x00\x00\x00ENTY/food/4170.txt\x00\x00\x00\x00\x00ENTY/food/3194.txt\x00\x00\x00\x00\x00ENTY/other/2539.txt\x00\x00\x00\x00ENTY/termeq/3747.txt\x00\x00\x00ENTY/dismed/190.txt\x00\x00\x00\x00ENTY/food/4782.txt\x00\x00\x00\x00\x00ENTY/techmeth/270.txt\x00\x00ENTY/cremat/3560.txt\x00\x00\x00ENTY/dismed/3475.txt\x00\x00\x00ENTY/cremat/634.txt\x00\x00\x00\x00ENTY/cremat/2588.txt\x00\x00\x00ENTY/dismed/991.txt\x00\x00\x00\x00ENTY/animal/1045.txt\x00\x00\x00ENTY/animal/1133.txt\x00\x00\x00ENTY/event/1027.txt\x00\x00\x00\x00ENTY/cremat/4359.txt\x00\x00\x00ENTY/techmeth/1581.txt\x00ENTY/termeq/1776.txt\x00\x00\x00ENTY/product/3015.txt\x00\x00ENTY/lang/4677.txt\x00\x00\x00\x00\x00ENTY/product/4515.txt\x00\x00ENTY/cremat/2024.txt\x00\x00\x00ENTY/dismed/3893.txt\x00\x00\x00ENTY/animal/1896.txt\x00\x00\x00ENTY/veh/2466.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/3491.txt\x00\x00\x00ENTY/dismed/3466.txt\x00\x00\x00ENTY/other/4796.txt\x00\x00\x00\x00ENTY/event/5129.txt\x00\x00\x00\x00ENTY/event/5066.txt\x00\x00\x00\x00ENTY/other/3705.txt\x00\x00\x00\x00ENTY/sport/446.txt\x00\x00\x00\x00\x00ENTY/cremat/5361.txt\x00\x00\x00ENTY/techmeth/4552.txt\x00ENTY/symbol/2186.txt\x00\x00\x00ENTY/cremat/2972.txt\x00\x00\x00ENTY/cremat/3873.txt\x00\x00\x00ENTY/animal/1669.txt\x00\x00\x00ENTY/cremat/495.txt\x00\x00\x00\x00ENTY/sport/992.txt\x00\x00\x00\x00\x00ENTY/animal/2769.txt\x00\x00\x00ENTY/cremat/4593.txt\x00\x00\x00ENTY/animal/84.txt\x00\x00\x00\x00\x00ENTY/product/807.txt\x00\x00\x00ENTY/animal/3202.txt\x00\x00\x00ENTY/food/2737.txt\x00\x00\x00\x00\x00ENTY/cremat/2017.txt\x00\x00\x00ENTY/body/2595.txt\x00\x00\x00\x00\x00ENTY/food/4693.txt\x00\x00\x00\x00\x00ENTY/other/2808.txt\x00\x00\x00\x00ENTY/food/4383.txt\x00\x00\x00\x00\x00ENTY/animal/404.txt\x00\x00\x00\x00ENTY/dismed/2441.txt\x00\x00\x00ENTY/product/121.txt\x00\x00\x00ENTY/other/4067.txt\x00\x00\x00\x00ENTY/food/1711.txt\x00\x00\x00\x00\x00ENTY/dismed/3521.txt\x00\x00\x00ENTY/word/1653.txt\x00\x00\x00\x00\x00ENTY/veh/4916.txt\x00\x00\x00\x00\x00\x00ENTY/plant/4511.txt\x00\x00\x00\x00ENTY/food/4341.txt\x00\x00\x00\x00\x00ENTY/food/4688.txt\x00\x00\x00\x00\x00ENTY/substance/1574.txtENTY/food/3623.txt\x00\x00\x00\x00\x00ENTY/cremat/475.txt\x00\x00\x00\x00ENTY/food/3662.txt\x00\x00\x00\x00\x00ENTY/sport/688.txt\x00\x00\x00\x00\x00ENTY/cremat/4527.txt\x00\x00\x00ENTY/letter/2277.txt\x00\x00\x00ENTY/plant/591.txt\x00\x00\x00\x00\x00ENTY/food/3306.txt\x00\x00\x00\x00\x00ENTY/other/2589.txt\x00\x00\x00\x00ENTY/techmeth/1171.txt\x00ENTY/other/1734.txt\x00\x00\x00\x00ENTY/food/4031.txt\x00\x00\x00\x00\x00ENTY/animal/3545.txt\x00\x00\x00ENTY/dismed/3655.txt\x00\x00\x00ENTY/techmeth/222.txt\x00\x00ENTY/animal/5037.txt\x00\x00\x00ENTY/product/4716.txt\x00\x00ENTY/word/4789.txt\x00\x00\x00\x00\x00ENTY/cremat/5270.txt\x00\x00\x00ENTY/substance/1312.txtENTY/cremat/3691.txt\x00\x00\x00ENTY/other/3575.txt\x00\x00\x00\x00ENTY/event/1726.txt\x00\x00\x00\x00ENTY/cremat/565.txt\x00\x00\x00\x00ENTY/termeq/207.txt\x00\x00\x00\x00ENTY/food/407.txt\x00\x00\x00\x00\x00\x00ENTY/product/1254.txt\x00\x00ENTY/substance/2606.txtENTY/other/2018.txt\x00\x00\x00\x00ENTY/food/3927.txt\x00\x00\x00\x00\x00ENTY/word/1445.txt\x00\x00\x00\x00\x00ENTY/cremat/1231.txt\x00\x00\x00ENTY/other/4195.txt\x00\x00\x00\x00ENTY/event/3400.txt\x00\x00\x00\x00ENTY/animal/948.txt\x00\x00\x00\x00ENTY/cremat/841.txt\x00\x00\x00\x00ENTY/dismed/4888.txt\x00\x00\x00ENTY/cremat/2684.txt\x00\x00\x00ENTY/other/4823.txt\x00\x00\x00\x00ENTY/techmeth/5046.txt\x00ENTY/termeq/2557.txt\x00\x00\x00ENTY/cremat/1785.txt\x00\x00\x00ENTY/termeq/1448.txt\x00\x00\x00ENTY/sport/4586.txt\x00\x00\x00\x00ENTY/cremat/3233.txt\x00\x00\x00ENTY/food/1196.txt\x00\x00\x00\x00\x00ENTY/other/5033.txt\x00\x00\x00\x00ENTY/product/1320.txt\x00\x00ENTY/cremat/5020.txt\x00\x00\x00ENTY/other/2122.txt\x00\x00\x00\x00ENTY/food/4283.txt\x00\x00\x00\x00\x00ENTY/event/5200.txt\x00\x00\x00\x00ENTY/cremat/130.txt\x00\x00\x00\x00ENTY/color/2368.txt\x00\x00\x00\x00ENTY/veh/2690.txt\x00\x00\x00\x00\x00\x00ENTY/techmeth/2869.txt\x00ENTY/veh/4521.txt\x00\x00\x00\x00\x00\x00ENTY/animal/427.txt\x00\x00\x00\x00ENTY/food/1517.txt\x00\x00\x00\x00\x00ENTY/other/519.txt\x00\x00\x00\x00\x00ENTY/other/4316.txt\x00\x00\x00\x00ENTY/animal/1942.txt\x00\x00\x00ENTY/substance/3913.txtENTY/other/4914.txt\x00\x00\x00\x00ENTY/dismed/586.txt\x00\x00\x00\x00ENTY/sport/4538.txt\x00\x00\x00\x00ENTY/color/740.txt\x00\x00\x00\x00\x00ENTY/cremat/2865.txt\x00\x00\x00ENTY/cremat/4282.txt\x00\x00\x00ENTY/other/4840.txt\x00\x00\x00\x00ENTY/event/4719.txt\x00\x00\x00\x00ENTY/cremat/4932.txt\x00\x00\x00ENTY/animal/544.txt\x00\x00\x00\x00ENTY/event/887.txt\x00\x00\x00\x00\x00ENTY/substance/5334.txtENTY/other/5444.txt\x00\x00\x00\x00ENTY/other/526.txt\x00\x00\x00\x00\x00ENTY/other/268.txt\x00\x00\x00\x00\x00ENTY/food/4783.txt\x00\x00\x00\x00\x00ENTY/termeq/551.txt\x00\x00\x00\x00ENTY/cremat/417.txt\x00\x00\x00\x00ENTY/veh/3820.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/1397.txt\x00\x00\x00ENTY/cremat/2535.txt\x00\x00\x00ENTY/product/1003.txt\x00\x00ENTY/other/3177.txt\x00\x00\x00\x00ENTY/cremat/4229.txt\x00\x00\x00ENTY/other/744.txt\x00\x00\x00\x00\x00ENTY/sport/5182.txt\x00\x00\x00\x00ENTY/cremat/2871.txt\x00\x00\x00ENTY/substance/1929.txtENTY/animal/4027.txt\x00\x00\x00ENTY/animal/510.txt\x00\x00\x00\x00ENTY/termeq/3590.txt\x00\x00\x00ENTY/animal/2058.txt\x00\x00\x00ENTY/other/4491.txt\x00\x00\x00\x00ENTY/dismed/4429.txt\x00\x00\x00ENTY/dismed/4377.txt\x00\x00\x00ENTY/veh/1627.txt\x00\x00\x00\x00\x00\x00ENTY/other/5144.txt\x00\x00\x00\x00ENTY/other/2543.txt\x00\x00\x00\x00ENTY/animal/4155.txt\x00\x00\x00ENTY/animal/4496.txt\x00\x00\x00ENTY/food/3796.txt\x00\x00\x00\x00\x00ENTY/animal/4421.txt\x00\x00\x00ENTY/dismed/4854.txt\x00\x00\x00ENTY/veh/3337.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/3724.txt\x00\x00\x00ENTY/food/784.txt\x00\x00\x00\x00\x00\x00ENTY/sport/3079.txt\x00\x00\x00\x00ENTY/dismed/2170.txt\x00\x00\x00ENTY/techmeth/3589.txt\x00ENTY/other/1245.txt\x00\x00\x00\x00ENTY/termeq/5320.txt\x00\x00\x00ENTY/animal/815.txt\x00\x00\x00\x00ENTY/food/3670.txt\x00\x00\x00\x00\x00ENTY/lang/2809.txt\x00\x00\x00\x00\x00ENTY/animal/3653.txt\x00\x00\x00ENTY/cremat/3693.txt\x00\x00\x00ENTY/other/2007.txt\x00\x00\x00\x00ENTY/cremat/2658.txt\x00\x00\x00ENTY/cremat/2363.txt\x00\x00\x00ENTY/color/3179.txt\x00\x00\x00\x00ENTY/termeq/3739.txt\x00\x00\x00ENTY/cremat/970.txt\x00\x00\x00\x00ENTY/body/2275.txt\x00\x00\x00\x00\x00ENTY/other/5447.txt\x00\x00\x00\x00ENTY/cremat/2892.txt\x00\x00\x00ENTY/veh/2102.txt\x00\x00\x00\x00\x00\x00ENTY/animal/1287.txt\x00\x00\x00ENTY/dismed/4529.txt\x00\x00\x00ENTY/veh/1055.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/1509.txt\x00\x00\x00ENTY/other/1047.txt\x00\x00\x00\x00ENTY/sport/4188.txt\x00\x00\x00\x00ENTY/food/2579.txt\x00\x00\x00\x00\x00ENTY/dismed/4922.txt\x00\x00\x00ENTY/termeq/3165.txt\x00\x00\x00ENTY/color/3154.txt\x00\x00\x00\x00ENTY/event/2335.txt\x00\x00\x00\x00ENTY/termeq/3367.txt\x00\x00\x00ENTY/food/1097.txt\x00\x00\x00\x00\x00ENTY/cremat/1181.txt\x00\x00\x00ENTY/veh/2551.txt\x00\x00\x00\x00\x00\x00ENTY/other/2827.txt\x00\x00\x00\x00ENTY/food/579.txt\x00\x00\x00\x00\x00\x00ENTY/word/5238.txt\x00\x00\x00\x00\x00ENTY/animal/114.txt\x00\x00\x00\x00ENTY/other/5023.txt\x00\x00\x00\x00ENTY/product/2922.txt\x00\x00ENTY/cremat/558.txt\x00\x00\x00\x00ENTY/cremat/4812.txt\x00\x00\x00ENTY/other/3062.txt\x00\x00\x00\x00ENTY/plant/927.txt\x00\x00\x00\x00\x00ENTY/cremat/3065.txt\x00\x00\x00ENTY/religion/37.txt\x00\x00\x00ENTY/sport/3103.txt\x00\x00\x00\x00ENTY/other/4663.txt\x00\x00\x00\x00ENTY/instru/3897.txt\x00\x00\x00ENTY/plant/782.txt\x00\x00\x00\x00\x00ENTY/event/4982.txt\x00\x00\x00\x00ENTY/other/819.txt\x00\x00\x00\x00\x00ENTY/other/1884.txt\x00\x00\x00\x00ENTY/other/4116.txt\x00\x00\x00\x00ENTY/termeq/5312.txt\x00\x00\x00ENTY/dismed/4050.txt\x00\x00\x00ENTY/event/775.txt\x00\x00\x00\x00\x00ENTY/cremat/2411.txt\x00\x00\x00ENTY/cremat/2425.txt\x00\x00\x00ENTY/techmeth/317.txt\x00\x00ENTY/cremat/1980.txt\x00\x00\x00ENTY/animal/4242.txt\x00\x00\x00ENTY/color/3686.txt\x00\x00\x00\x00ENTY/other/4745.txt\x00\x00\x00\x00ENTY/other/3083.txt\x00\x00\x00\x00ENTY/product/4947.txt\x00\x00ENTY/color/1970.txt\x00\x00\x00\x00ENTY/other/485.txt\x00\x00\x00\x00\x00ENTY/dismed/2308.txt\x00\x00\x00ENTY/termeq/1997.txt\x00\x00\x00ENTY/event/3122.txt\x00\x00\x00\x00ENTY/sport/4584.txt\x00\x00\x00\x00ENTY/event/2583.txt\x00\x00\x00\x00ENTY/other/2292.txt\x00\x00\x00\x00ENTY/cremat/5134.txt\x00\x00\x00ENTY/dismed/1223.txt\x00\x00\x00ENTY/animal/1023.txt\x00\x00\x00ENTY/cremat/584.txt\x00\x00\x00\x00ENTY/termeq/4860.txt\x00\x00\x00ENTY/dismed/712.txt\x00\x00\x00\x00ENTY/other/4741.txt\x00\x00\x00\x00ENTY/other/4585.txt\x00\x00\x00\x00ENTY/other/4149.txt\x00\x00\x00\x00ENTY/cremat/1067.txt\x00\x00\x00ENTY/dismed/4544.txt\x00\x00\x00ENTY/body/4742.txt\x00\x00\x00\x00\x00ENTY/other/1489.txt\x00\x00\x00\x00ENTY/event/5433.txt\x00\x00\x00\x00ENTY/animal/4829.txt\x00\x00\x00ENTY/veh/3145.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/1222.txt\x00\x00\x00ENTY/other/1888.txt\x00\x00\x00\x00ENTY/dismed/2720.txt\x00\x00\x00ENTY/cremat/2900.txt\x00\x00\x00ENTY/animal/39.txt\x00\x00\x00\x00\x00ENTY/color/1876.txt\x00\x00\x00\x00ENTY/cremat/4125.txt\x00\x00\x00ENTY/other/2133.txt\x00\x00\x00\x00ENTY/cremat/4780.txt\x00\x00\x00ENTY/veh/5392.txt\x00\x00\x00\x00\x00\x00ENTY/other/506.txt\x00\x00\x00\x00\x00ENTY/event/210.txt\x00\x00\x00\x00\x00ENTY/other/2083.txt\x00\x00\x00\x00ENTY/sport/5323.txt\x00\x00\x00\x00ENTY/event/1778.txt\x00\x00\x00\x00ENTY/termeq/3654.txt\x00\x00\x00ENTY/cremat/5017.txt\x00\x00\x00ENTY/dismed/3012.txt\x00\x00\x00ENTY/color/631.txt\x00\x00\x00\x00\x00ENTY/animal/1905.txt\x00\x00\x00ENTY/event/3658.txt\x00\x00\x00\x00ENTY/cremat/157.txt\x00\x00\x00\x00ENTY/substance/4988.txtENTY/other/4765.txt\x00\x00\x00\x00ENTY/cremat/1006.txt\x00\x00\x00ENTY/word/3890.txt\x00\x00\x00\x00\x00ENTY/lang/2036.txt\x00\x00\x00\x00\x00ENTY/cremat/1072.txt\x00\x00\x00ENTY/event/377.txt\x00\x00\x00\x00\x00ENTY/sport/5429.txt\x00\x00\x00\x00ENTY/termeq/2180.txt\x00\x00\x00ENTY/event/1591.txt\x00\x00\x00\x00ENTY/animal/4078.txt\x00\x00\x00ENTY/substance/4510.txtENTY/food/3895.txt\x00\x00\x00\x00\x00ENTY/lang/3717.txt\x00\x00\x00\x00\x00ENTY/cremat/2526.txt\x00\x00\x00ENTY/cremat/2022.txt\x00\x00\x00ENTY/color/56.txt\x00\x00\x00\x00\x00\x00ENTY/color/1882.txt\x00\x00\x00\x00ENTY/other/4665.txt\x00\x00\x00\x00ENTY/termeq/1557.txt\x00\x00\x00ENTY/termeq/652.txt\x00\x00\x00\x00ENTY/cremat/132.txt\x00\x00\x00\x00ENTY/animal/2434.txt\x00\x00\x00ENTY/animal/870.txt\x00\x00\x00\x00ENTY/product/3844.txt\x00\x00ENTY/food/2739.txt\x00\x00\x00\x00\x00ENTY/other/1704.txt\x00\x00\x00\x00ENTY/symbol/1908.txt\x00\x00\x00ENTY/veh/1940.txt\x00\x00\x00\x00\x00\x00ENTY/event/1118.txt\x00\x00\x00\x00ENTY/dismed/5409.txt\x00\x00\x00ENTY/animal/1640.txt\x00\x00\x00ENTY/other/1962.txt\x00\x00\x00\x00ENTY/other/2481.txt\x00\x00\x00\x00ENTY/product/2939.txt\x00\x00ENTY/symbol/1534.txt\x00\x00\x00ENTY/cremat/715.txt\x00\x00\x00\x00ENTY/product/2392.txt\x00\x00ENTY/techmeth/4897.txt\x00ENTY/dismed/1150.txt\x00\x00\x00ENTY/dismed/4684.txt\x00\x00\x00ENTY/cremat/3250.txt\x00\x00\x00ENTY/other/429.txt\x00\x00\x00\x00\x00ENTY/cremat/2461.txt\x00\x00\x00ENTY/dismed/4340.txt\x00\x00\x00ENTY/dismed/1809.txt\x00\x00\x00ENTY/other/3935.txt\x00\x00\x00\x00ENTY/cremat/1154.txt\x00\x00\x00ENTY/animal/1443.txt\x00\x00\x00ENTY/word/598.txt\x00\x00\x00\x00\x00\x00ENTY/other/3076.txt\x00\x00\x00\x00ENTY/other/837.txt\x00\x00\x00\x00\x00ENTY/food/4109.txt\x00\x00\x00\x00\x00ENTY/animal/3607.txt\x00\x00\x00ENTY/cremat/3510.txt\x00\x00\x00ENTY/termeq/4038.txt\x00\x00\x00ENTY/cremat/3634.txt\x00\x00\x00ENTY/product/2766.txt\x00\x00ENTY/other/1493.txt\x00\x00\x00\x00ENTY/cremat/774.txt\x00\x00\x00\x00ENTY/sport/2823.txt\x00\x00\x00\x00ENTY/plant/1138.txt\x00\x00\x00\x00ENTY/product/5185.txt\x00\x00ENTY/other/3389.txt\x00\x00\x00\x00ENTY/other/4615.txt\x00\x00\x00\x00ENTY/food/1600.txt\x00\x00\x00\x00\x00ENTY/sport/1891.txt\x00\x00\x00\x00ENTY/other/1403.txt\x00\x00\x00\x00ENTY/sport/4169.txt\x00\x00\x00\x00ENTY/dismed/4817.txt\x00\x00\x00ENTY/dismed/1753.txt\x00\x00\x00ENTY/letter/716.txt\x00\x00\x00\x00ENTY/sport/4787.txt\x00\x00\x00\x00ENTY/other/225.txt\x00\x00\x00\x00\x00ENTY/dismed/300.txt\x00\x00\x00\x00ENTY/currency/2470.txt\x00ENTY/dismed/2586.txt\x00\x00\x00ENTY/animal/4118.txt\x00\x00\x00ENTY/termeq/3788.txt\x00\x00\x00ENTY/product/650.txt\x00\x00\x00ENTY/event/2316.txt\x00\x00\x00\x00ENTY/other/5420.txt\x00\x00\x00\x00ENTY/food/4818.txt\x00\x00\x00\x00\x00ENTY/body/194.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/2771.txt\x00\x00\x00ENTY/food/4376.txt\x00\x00\x00\x00\x00ENTY/food/4413.txt\x00\x00\x00\x00\x00ENTY/animal/4822.txt\x00\x00\x00ENTY/plant/4831.txt\x00\x00\x00\x00ENTY/termeq/892.txt\x00\x00\x00\x00ENTY/other/2796.txt\x00\x00\x00\x00ENTY/event/1976.txt\x00\x00\x00\x00ENTY/sport/1575.txt\x00\x00\x00\x00ENTY/sport/2261.txt\x00\x00\x00\x00ENTY/sport/2033.txt\x00\x00\x00\x00ENTY/animal/133.txt\x00\x00\x00\x00ENTY/dismed/1858.txt\x00\x00\x00ENTY/other/5240.txt\x00\x00\x00\x00ENTY/food/2493.txt\x00\x00\x00\x00\x00ENTY/animal/2449.txt\x00\x00\x00ENTY/color/937.txt\x00\x00\x00\x00\x00ENTY/dismed/2765.txt\x00\x00\x00ENTY/food/3518.txt\x00\x00\x00\x00\x00ENTY/cremat/3343.txt\x00\x00\x00ENTY/termeq/1246.txt\x00\x00\x00ENTY/dismed/3259.txt\x00\x00\x00ENTY/other/1439.txt\x00\x00\x00\x00ENTY/food/1464.txt\x00\x00\x00\x00\x00ENTY/termeq/3940.txt\x00\x00\x00ENTY/letter/4894.txt\x00\x00\x00ENTY/other/1426.txt\x00\x00\x00\x00ENTY/techmeth/4978.txt\x00ENTY/veh/911.txt\x00\x00\x00\x00\x00\x00\x00ENTY/color/4834.txt\x00\x00\x00\x00ENTY/sport/2626.txt\x00\x00\x00\x00ENTY/cremat/3006.txt\x00\x00\x00ENTY/product/3019.txt\x00\x00ENTY/cremat/4937.txt\x00\x00\x00ENTY/animal/1401.txt\x00\x00\x00ENTY/sport/4267.txt\x00\x00\x00\x00ENTY/cremat/4738.txt\x00\x00\x00ENTY/other/309.txt\x00\x00\x00\x00\x00ENTY/food/46.txt\x00\x00\x00\x00\x00\x00\x00ENTY/techmeth/4919.txt\x00ENTY/word/843.txt\x00\x00\x00\x00\x00\x00ENTY/substance/2111.txtENTY/cremat/2345.txt\x00\x00\x00ENTY/cremat/1186.txt\x00\x00\x00ENTY/animal/614.txt\x00\x00\x00\x00ENTY/other/2894.txt\x00\x00\x00\x00ENTY/event/4342.txt\x00\x00\x00\x00ENTY/other/2934.txt\x00\x00\x00\x00ENTY/animal/1621.txt\x00\x00\x00ENTY/cremat/540.txt\x00\x00\x00\x00ENTY/other/2390.txt\x00\x00\x00\x00ENTY/substance/338.txt\x00ENTY/termeq/3471.txt\x00\x00\x00ENTY/food/4702.txt\x00\x00\x00\x00\x00ENTY/symbol/3954.txt\x00\x00\x00ENTY/cremat/5036.txt\x00\x00\x00ENTY/dismed/3499.txt\x00\x00\x00ENTY/other/49.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/2131.txt\x00\x00\x00ENTY/cremat/1750.txt\x00\x00\x00ENTY/sport/4505.txt\x00\x00\x00\x00ENTY/sport/641.txt\x00\x00\x00\x00\x00ENTY/animal/5086.txt\x00\x00\x00ENTY/termeq/2278.txt\x00\x00\x00ENTY/animal/3868.txt\x00\x00\x00ENTY/sport/3603.txt\x00\x00\x00\x00ENTY/cremat/374.txt\x00\x00\x00\x00ENTY/other/1514.txt\x00\x00\x00\x00ENTY/animal/4551.txt\x00\x00\x00ENTY/dismed/3712.txt\x00\x00\x00ENTY/other/5357.txt\x00\x00\x00\x00ENTY/color/3960.txt\x00\x00\x00\x00ENTY/animal/4123.txt\x00\x00\x00ENTY/termeq/3609.txt\x00\x00\x00ENTY/other/3515.txt\x00\x00\x00\x00ENTY/food/3617.txt\x00\x00\x00\x00\x00ENTY/dismed/4398.txt\x00\x00\x00ENTY/other/1700.txt\x00\x00\x00\x00ENTY/cremat/143.txt\x00\x00\x00\x00ENTY/cremat/3500.txt\x00\x00\x00ENTY/cremat/2561.txt\x00\x00\x00ENTY/event/1389.txt\x00\x00\x00\x00ENTY/veh/2615.txt\x00\x00\x00\x00\x00\x00ENTY/food/2599.txt\x00\x00\x00\x00\x00ENTY/body/2218.txt\x00\x00\x00\x00\x00ENTY/food/833.txt\x00\x00\x00\x00\x00\x00ENTY/termeq/1927.txt\x00\x00\x00ENTY/other/3866.txt\x00\x00\x00\x00ENTY/other/2742.txt\x00\x00\x00\x00ENTY/event/3326.txt\x00\x00\x00\x00ENTY/food/636.txt\x00\x00\x00\x00\x00\x00ENTY/techmeth/3790.txt\x00ENTY/termeq/1607.txt\x00\x00\x00ENTY/product/3723.txt\x00\x00ENTY/body/77.txt\x00\x00\x00\x00\x00\x00\x00ENTY/other/352.txt\x00\x00\x00\x00\x00ENTY/other/4366.txt\x00\x00\x00\x00ENTY/body/2150.txt\x00\x00\x00\x00\x00ENTY/dismed/687.txt\x00\x00\x00\x00ENTY/other/2581.txt\x00\x00\x00\x00ENTY/substance/935.txt\x00ENTY/animal/3358.txt\x00\x00\x00ENTY/food/4401.txt\x00\x00\x00\x00\x00ENTY/other/3478.txt\x00\x00\x00\x00ENTY/other/4372.txt\x00\x00\x00\x00ENTY/body/2406.txt\x00\x00\x00\x00\x00ENTY/lang/3308.txt\x00\x00\x00\x00\x00ENTY/sport/4351.txt\x00\x00\x00\x00ENTY/sport/595.txt\x00\x00\x00\x00\x00ENTY/animal/817.txt\x00\x00\x00\x00ENTY/food/711.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/835.txt\x00\x00\x00\x00ENTY/cremat/3388.txt\x00\x00\x00ENTY/lang/3228.txt\x00\x00\x00\x00\x00ENTY/other/4150.txt\x00\x00\x00\x00ENTY/other/4230.txt\x00\x00\x00\x00ENTY/product/2957.txt\x00\x00ENTY/animal/2746.txt\x00\x00\x00ENTY/cremat/5216.txt\x00\x00\x00ENTY/other/3211.txt\x00\x00\x00\x00ENTY/cremat/158.txt\x00\x00\x00\x00ENTY/animal/753.txt\x00\x00\x00\x00ENTY/animal/1061.txt\x00\x00\x00ENTY/food/490.txt\x00\x00\x00\x00\x00\x00ENTY/food/3049.txt\x00\x00\x00\x00\x00ENTY/animal/297.txt\x00\x00\x00\x00ENTY/cremat/3247.txt\x00\x00\x00ENTY/termeq/2609.txt\x00\x00\x00ENTY/dismed/4162.txt\x00\x00\x00ENTY/substance/3925.txtENTY/other/3403.txt\x00\x00\x00\x00ENTY/other/4570.txt\x00\x00\x00\x00ENTY/product/3156.txt\x00\x00ENTY/other/1479.txt\x00\x00\x00\x00ENTY/cremat/4201.txt\x00\x00\x00ENTY/cremat/5051.txt\x00\x00\x00ENTY/religion/3489.txt\x00ENTY/cremat/4443.txt\x00\x00\x00ENTY/color/3748.txt\x00\x00\x00\x00ENTY/body/461.txt\x00\x00\x00\x00\x00\x00ENTY/termeq/118.txt\x00\x00\x00\x00ENTY/food/3373.txt\x00\x00\x00\x00\x00ENTY/other/1539.txt\x00\x00\x00\x00ENTY/lang/745.txt\x00\x00\x00\x00\x00\x00ENTY/animal/2852.txt\x00\x00\x00ENTY/product/5343.txt\x00\x00ENTY/other/2210.txt\x00\x00\x00\x00ENTY/other/3816.txt\x00\x00\x00\x00ENTY/other/4478.txt\x00\x00\x00\x00ENTY/cremat/5300.txt\x00\x00\x00ENTY/veh/1603.txt\x00\x00\x00\x00\x00\x00ENTY/color/272.txt\x00\x00\x00\x00\x00ENTY/dismed/564.txt\x00\x00\x00\x00ENTY/sport/946.txt\x00\x00\x00\x00\x00ENTY/lang/2192.txt\x00\x00\x00\x00\x00ENTY/dismed/1941.txt\x00\x00\x00ENTY/techmeth/348.txt\x00\x00ENTY/sport/5041.txt\x00\x00\x00\x00ENTY/cremat/4617.txt\x00\x00\x00ENTY/animal/1500.txt\x00\x00\x00ENTY/other/1286.txt\x00\x00\x00\x00ENTY/animal/2213.txt\x00\x00\x00ENTY/other/4268.txt\x00\x00\x00\x00ENTY/plant/5325.txt\x00\x00\x00\x00ENTY/event/2745.txt\x00\x00\x00\x00ENTY/other/4318.txt\x00\x00\x00\x00ENTY/termeq/1594.txt\x00\x00\x00ENTY/dismed/2306.txt\x00\x00\x00ENTY/product/2792.txt\x00\x00ENTY/other/4130.txt\x00\x00\x00\x00ENTY/other/5234.txt\x00\x00\x00\x00ENTY/event/994.txt\x00\x00\x00\x00\x00ENTY/other/2898.txt\x00\x00\x00\x00ENTY/termeq/1376.txt\x00\x00\x00ENTY/sport/3317.txt\x00\x00\x00\x00ENTY/animal/2348.txt\x00\x00\x00ENTY/cremat/115.txt\x00\x00\x00\x00ENTY/cremat/2805.txt\x00\x00\x00ENTY/other/4018.txt\x00\x00\x00\x00ENTY/word/718.txt\x00\x00\x00\x00\x00\x00ENTY/symbol/4280.txt\x00\x00\x00ENTY/substance/3419.txtENTY/other/3460.txt\x00\x00\x00\x00ENTY/word/3172.txt\x00\x00\x00\x00\x00ENTY/event/1423.txt\x00\x00\x00\x00ENTY/color/4121.txt\x00\x00\x00\x00ENTY/food/902.txt\x00\x00\x00\x00\x00\x00ENTY/lang/5232.txt\x00\x00\x00\x00\x00ENTY/other/4920.txt\x00\x00\x00\x00ENTY/cremat/3774.txt\x00\x00\x00ENTY/food/5205.txt\x00\x00\x00\x00\x00ENTY/termeq/4112.txt\x00\x00\x00ENTY/other/1305.txt\x00\x00\x00\x00ENTY/symbol/3361.txt\x00\x00\x00ENTY/termeq/1321.txt\x00\x00\x00ENTY/food/2813.txt\x00\x00\x00\x00\x00ENTY/termeq/57.txt\x00\x00\x00\x00\x00ENTY/other/2475.txt\x00\x00\x00\x00ENTY/other/3566.txt\x00\x00\x00\x00ENTY/animal/141.txt\x00\x00\x00\x00ENTY/body/916.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/469.txt\x00\x00\x00\x00ENTY/cremat/2952.txt\x00\x00\x00ENTY/substance/2266.txtENTY/product/3370.txt\x00\x00ENTY/word/1870.txt\x00\x00\x00\x00\x00ENTY/cremat/1504.txt\x00\x00\x00ENTY/body/2090.txt\x00\x00\x00\x00\x00ENTY/veh/5074.txt\x00\x00\x00\x00\x00\x00ENTY/termeq/739.txt\x00\x00\x00\x00ENTY/food/4537.txt\x00\x00\x00\x00\x00ENTY/cremat/1194.txt\x00\x00\x00ENTY/cremat/4159.txt\x00\x00\x00ENTY/event/1808.txt\x00\x00\x00\x00ENTY/cremat/5180.txt\x00\x00\x00ENTY/techmeth/238.txt\x00\x00ENTY/animal/2241.txt\x00\x00\x00ENTY/other/2671.txt\x00\x00\x00\x00ENTY/termeq/2065.txt\x00\x00\x00ENTY/substance/3087.txtENTY/event/367.txt\x00\x00\x00\x00\x00ENTY/cremat/93.txt\x00\x00\x00\x00\x00ENTY/animal/2696.txt\x00\x00\x00ENTY/dismed/778.txt\x00\x00\x00\x00ENTY/color/4500.txt\x00\x00\x00\x00ENTY/techmeth/3804.txt\x00ENTY/cremat/1058.txt\x00\x00\x00ENTY/animal/1409.txt\x00\x00\x00ENTY/event/3278.txt\x00\x00\x00\x00ENTY/animal/281.txt\x00\x00\x00\x00ENTY/cremat/1506.txt\x00\x00\x00ENTY/food/1584.txt\x00\x00\x00\x00\x00ENTY/event/3438.txt\x00\x00\x00\x00ENTY/lang/3936.txt\x00\x00\x00\x00\x00ENTY/substance/1966.txtENTY/other/4353.txt\x00\x00\x00\x00ENTY/substance/512.txt\x00ENTY/dismed/894.txt\x00\x00\x00\x00ENTY/sport/1612.txt\x00\x00\x00\x00ENTY/termeq/4266.txt\x00\x00\x00ENTY/cremat/3730.txt\x00\x00\x00ENTY/techmeth/1794.txt\x00ENTY/other/3729.txt\x00\x00\x00\x00ENTY/word/2612.txt\x00\x00\x00\x00\x00ENTY/cremat/2376.txt\x00\x00\x00ENTY/animal/1748.txt\x00\x00\x00ENTY/cremat/3719.txt\x00\x00\x00ENTY/termeq/955.txt\x00\x00\x00\x00ENTY/dismed/3825.txt\x00\x00\x00ENTY/veh/4214.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/684.txt\x00\x00\x00\x00ENTY/cremat/2447.txt\x00\x00\x00ENTY/animal/2329.txt\x00\x00\x00ENTY/letter/1508.txt\x00\x00\x00ENTY/other/2730.txt\x00\x00\x00\x00ENTY/word/2038.txt\x00\x00\x00\x00\x00ENTY/cremat/984.txt\x00\x00\x00\x00ENTY/dismed/543.txt\x00\x00\x00\x00ENTY/other/683.txt\x00\x00\x00\x00\x00ENTY/techmeth/1284.txt\x00ENTY/word/2129.txt\x00\x00\x00\x00\x00ENTY/other/1374.txt\x00\x00\x00\x00ENTY/animal/2047.txt\x00\x00\x00ENTY/food/930.txt\x00\x00\x00\x00\x00\x00ENTY/veh/824.txt\x00\x00\x00\x00\x00\x00\x00ENTY/cremat/1576.txt\x00\x00\x00ENTY/termeq/3246.txt\x00\x00\x00ENTY/termeq/3587.txt\x00\x00\x00ENTY/plant/1965.txt\x00\x00\x00\x00ENTY/event/2548.txt\x00\x00\x00\x00ENTY/product/2151.txt\x00\x00ENTY/word/5373.txt\x00\x00\x00\x00\x00ENTY/termeq/2300.txt\x00\x00\x00ENTY/other/3822.txt\x00\x00\x00\x00ENTY/color/5121.txt\x00\x00\x00\x00ENTY/sport/1253.txt\x00\x00\x00\x00ENTY/other/4224.txt\x00\x00\x00\x00ENTY/symbol/3435.txt\x00\x00\x00ENTY/other/568.txt\x00\x00\x00\x00\x00ENTY/product/1849.txt\x00\x00ENTY/color/3839.txt\x00\x00\x00\x00ENTY/termeq/2741.txt\x00\x00\x00ENTY/event/3180.txt\x00\x00\x00\x00ENTY/substance/5150.txtENTY/animal/764.txt\x00\x00\x00\x00ENTY/food/3848.txt\x00\x00\x00\x00\x00ENTY/termeq/1017.txt\x00\x00\x00ENTY/animal/3.txt\x00\x00\x00\x00\x00\x00ENTY/color/3803.txt\x00\x00\x00\x00ENTY/dismed/2068.txt\x00\x00\x00ENTY/cremat/1839.txt\x00\x00\x00ENTY/termeq/4910.txt\x00\x00\x00ENTY/animal/1141.txt\x00\x00\x00ENTY/substance/1078.txtENTY/dismed/4573.txt\x00\x00\x00ENTY/cremat/2941.txt\x00\x00\x00ENTY/plant/218.txt\x00\x00\x00\x00\x00ENTY/techmeth/409.txt\x00\x00ENTY/other/602.txt\x00\x00\x00\x00\x00ENTY/termeq/479.txt\x00\x00\x00\x00ENTY/food/5136.txt\x00\x00\x00\x00\x00ENTY/cremat/5123.txt\x00\x00\x00ENTY/techmeth/1938.txt\x00ENTY/cremat/3237.txt\x00\x00\x00ENTY/color/3799.txt\x00\x00\x00\x00ENTY/dismed/679.txt\x00\x00\x00\x00ENTY/food/967.txt\x00\x00\x00\x00\x00\x00ENTY/word/4601.txt\x00\x00\x00\x00\x00ENTY/termeq/4506.txt\x00\x00\x00ENTY/food/1831.txt\x00\x00\x00\x00\x00ENTY/product/3390.txt\x00\x00ENTY/event/14.txt\x00\x00\x00\x00\x00\x00ENTY/word/898.txt\x00\x00\x00\x00\x00\x00ENTY/color/323.txt\x00\x00\x00\x00\x00ENTY/dismed/2025.txt\x00\x00\x00ENTY/sport/1158.txt\x00\x00\x00\x00ENTY/termeq/4036.txt\x00\x00\x00ENTY/lang/4095.txt\x00\x00\x00\x00\x00ENTY/dismed/5043.txt\x00\x00\x00ENTY/cremat/1366.txt\x00\x00\x00ENTY/food/4605.txt\x00\x00\x00\x00\x00ENTY/color/2854.txt\x00\x00\x00\x00ENTY/other/2774.txt\x00\x00\x00\x00ENTY/sport/4052.txt\x00\x00\x00\x00ENTY/cremat/1608.txt\x00\x00\x00ENTY/other/72.txt\x00\x00\x00\x00\x00\x00ENTY/cremat/3687.txt\x00\x00\x00ENTY/cremat/392.txt\x00\x00\x00\x00ENTY/termeq/2336.txt\x00\x00\x00ENTY/dismed/1994.txt\x00\x00\x00ENTY/body/4024.txt\x00\x00\x00\x00\x00ENTY/cremat/174.txt\x00\x00\x00\x00ENTY/other/4523.txt\x00\x00\x00\x00ENTY/cremat/2818.txt\x00\x00\x00ENTY/termeq/5301.txt\x00\x00\x00ENTY/termeq/4164.txt\x00\x00\x00ENTY/dismed/1189.txt\x00\x00\x00ENTY/other/4972.txt\x00\x00\x00\x00ENTY/cremat/2194.txt\x00\x00\x00ENTY/instru/1012.txt\x00\x00\x00ENTY/animal/103.txt\x00\x00\x00\x00ENTY/body/154.txt\x00\x00\x00\x00\x00\x00ENTY/other/1602.txt\x00\x00\x00\x00ENTY/religion/5324.txt\x00ENTY/termeq/1982.txt\x00\x00\x00ENTY/dismed/4082.txt\x00\x00\x00ENTY/lang/5272.txt\x00\x00\x00\x00\x00ENTY/termeq/2645.txt\x00\x00\x00ENTY/cremat/4553.txt\x00\x00\x00ENTY/instru/3190.txt\x00\x00\x00ENTY/other/1759.txt\x00\x00\x00\x00ENTY/sport/3052.txt\x00\x00\x00\x00ENTY/food/5265.txt\x00\x00\x00\x00\x00ENTY/food/588.txt\x00\x00\x00\x00\x00\x00ENTY/veh/4887.txt\x00\x00\x00\x00\x00\x00ENTY/termeq/3690.txt\x00\x00\x00ENTY/other/3672.txt\x00\x00\x00\x00ENTY/instru/1853.txt\x00\x00\x00ENTY/sport/961.txt\x00\x00\x00\x00\x00ENTY/food/2574.txt\x00\x00\x00\x00\x00ENTY/other/1217.txt\x00\x00\x00\x00ENTY/food/3552.txt\x00\x00\x00\x00\x00ENTY/termeq/1309.txt\x00\x00\x00ENTY/event/4861.txt\x00\x00\x00\x00ENTY/symbol/2255.txt\x00\x00\x00ENTY/food/1104.txt\x00\x00\x00\x00\x00ENTY/other/2724.txt\x00\x00\x00\x00ENTY/termeq/3443.txt\x00\x00\x00ENTY/event/1148.txt\x00\x00\x00\x00ENTY/animal/5112.txt\x00\x00\x00ENTY/substance/134.txt\x00ENTY/food/2687.txt\x00\x00\x00\x00\x00ENTY/other/2602.txt\x00\x00\x00\x00ENTY/other/5206.txt\x00\x00\x00\x00ENTY/other/968.txt\x00\x00\x00\x00\x00ENTY/substance/3865.txtENTY/cremat/1806.txt\x00\x00\x00ENTY/dismed/1662.txt\x00\x00\x00ENTY/other/364.txt\x00\x00\x00\x00\x00ENTY/other/5374.txt\x00\x00\x00\x00ENTY/dismed/1893.txt\x00\x00\x00ENTY/other/3077.txt\x00\x00\x00\x00ENTY/termeq/292.txt\x00\x00\x00\x00ENTY/substance/2280.txtENTY/instru/1247.txt\x00\x00\x00ENTY/food/4756.txt\x00\x00\x00\x00\x00ENTY/sport/181.txt\x00\x00\x00\x00\x00ENTY/other/2189.txt\x00\x00\x00\x00ENTY/other/1258.txt\x00\x00\x00\x00ENTY/animal/601.txt\x00\x00\x00\x00ENTY/other/3921.txt\x00\x00\x00\x00ENTY/dismed/2198.txt\x00\x00\x00ENTY/event/2442.txt\x00\x00\x00\x00ENTY/techmeth/1558.txt\x00ENTY/symbol/1550.txt\x00\x00\x00ENTY/product/3396.txt\x00\x00ENTY/other/3381.txt\x00\x00\x00\x00ENTY/cremat/1692.txt\x00\x00\x00ENTY/color/1975.txt\x00\x00\x00\x00ENTY/substance/578.txt\x00ENTY/animal/2417.txt\x00\x00\x00ENTY/substance/1276.txtENTY/cremat/2453.txt\x00\x00\x00ENTY/currency/5451.txt\x00ENTY/cremat/3791.txt\x00\x00\x00ENTY/dismed/2879.txt\x00\x00\x00ENTY/dismed/1632.txt\x00\x00\x00ENTY/food/4002.txt\x00\x00\x00\x00\x00ENTY/techmeth/3265.txt\x00ENTY/instru/256.txt\x00\x00\x00\x00ENTY/termeq/3276.txt\x00\x00\x00ENTY/event/4131.txt\x00\x00\x00\x00ENTY/animal/3742.txt\x00\x00\x00ENTY/animal/1387.txt\x00\x00\x00ENTY/symbol/4957.txt\x00\x00\x00ENTY/event/160.txt\x00\x00\x00\x00\x00ENTY/dismed/1042.txt\x00\x00\x00ENTY/cremat/1413.txt\x00\x00\x00ENTY/other/305.txt\x00\x00\x00\x00\x00ENTY/cremat/2098.txt\x00\x00\x00ENTY/other/3539.txt\x00\x00\x00\x00ENTY/techmeth/2005.txt\x00ENTY/other/573.txt\x00\x00\x00\x00\x00ENTY/cremat/4991.txt\x00\x00\x00ENTY/other/2037.txt\x00\x00\x00\x00ENTY/cremat/3985.txt\x00\x00\x00ENTY/substance/1199.txtENTY/dismed/4737.txt\x00\x00\x00ENTY/other/410.txt\x00\x00\x00\x00\x00ENTY/cremat/3412.txt\x00\x00\x00ENTY/sport/4770.txt\x00\x00\x00\x00ENTY/cremat/1696.txt\x00\x00\x00ENTY/color/5204.txt\x00\x00\x00\x00ENTY/other/2274.txt\x00\x00\x00\x00ENTY/dismed/2023.txt\x00\x00\x00ENTY/other/1684.txt\x00\x00\x00\x00ENTY/termeq/2099.txt\x00\x00\x00ENTY/food/271.txt\x00\x00\x00\x00\x00\x00ENTY/substance/1433.txtENTY/substance/2092.txtENTY/termeq/1002.txt\x00\x00\x00ENTY/cremat/1786.txt\x00\x00\x00ENTY/animal/2161.txt\x00\x00\x00ENTY/other/3283.txt\x00\x00\x00\x00ENTY/event/3123.txt\x00\x00\x00\x00ENTY/word/2640.txt\x00\x00\x00\x00\x00ENTY/animal/4951.txt\x00\x00\x00ENTY/plant/4088.txt\x00\x00\x00\x00ENTY/food/2699.txt\x00\x00\x00\x00\x00ENTY/other/3303.txt\x00\x00\x00\x00ENTY/cremat/2702.txt\x00\x00\x00ENTY/animal/1368.txt\x00\x00\x00ENTY/cremat/4490.txt\x00\x00\x00ENTY/food/4375.txt\x00\x00\x00\x00\x00ENTY/dismed/1372.txt\x00\x00\x00ENTY/color/885.txt\x00\x00\x00\x00\x00ENTY/other/4633.txt\x00\x00\x00\x00ENTY/animal/1501.txt\x00\x00\x00ENTY/instru/2312.txt\x00\x00\x00ENTY/termeq/3384.txt\x00\x00\x00ENTY/other/438.txt\x00\x00\x00\x00\x00ENTY/food/2667.txt\x00\x00\x00\x00\x00ENTY/veh/4643.txt\x00\x00\x00\x00\x00\x00ENTY/other/1316.txt\x00\x00\x00\x00ENTY/sport/1477.txt\x00\x00\x00\x00ENTY/cremat/1430.txt\x00\x00\x00ENTY/sport/3314.txt\x00\x00\x00\x00ENTY/other/1639.txt\x00\x00\x00\x00ENTY/event/3189.txt\x00\x00\x00\x00ENTY/techmeth/3086.txt\x00ENTY/dismed/705.txt\x00\x00\x00\x00ENTY/other/5025.txt\x00\x00\x00\x00ENTY/other/2680.txt\x00\x00\x00\x00ENTY/cremat/2926.txt\x00\x00\x00ENTY/animal/1507.txt\x00\x00\x00ENTY/dismed/4918.txt\x00\x00\x00ENTY/termeq/5096.txt\x00\x00\x00ENTY/cremat/3599.txt\x00\x00\x00ENTY/sport/1228.txt\x00\x00\x00\x00ENTY/veh/4465.txt\x00\x00\x00\x00\x00\x00ENTY/dismed/1201.txt\x00\x00\x00ENTY/other/3926.txt\x00\x00\x00\x00ENTY/cremat/5089.txt\x00\x00\x00ENTY/other/31.txt\x00\x00\x00\x00\x00\x00ENTY/color/1719.txt\x00\x00\x00\x00ENTY/other/5391.txt\x00\x00\x00\x00ENTY/termeq/1937.txt\x00\x00\x00ENTY/animal/4625.txt\x00\x00\x00ENTY/cremat/484.txt\x00\x00\x00\x00ENTY/word/4209.txt\x00\x00\x00\x00\x00ENTY/dismed/5257.txt\x00\x00\x00ENTY/body/2669.txt\x00\x00\x00\x00\x00ENTY/substance/4193.txtENTY/techmeth/4795.txt\x00ENTY/termeq/2138.txt\x00\x00\x00ENTY/other/509.txt\x00\x00\x00\x00\x00ENTY/termeq/2060.txt\x00\x00\x00'
+p1307
+tp1308
+bstp1309
+Rp1310
+g1310
+b.

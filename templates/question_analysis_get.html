@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Question Answer-Type Analysis</h1>
+{% end %}
+
+{% block content %}
+<div class="row">
+	<div class="span4 offset4">
+	<form method="POST" action="/questionansweranalysis">
+		<div>
+			<input type="text" class="span4" name="pastequestion" placeholder="Enter a Question to analyze" id="pastequestion" ></input>
+		</div>
+		<div>
+			<input type="submit" class="span4" value="Analyze Question" />
+		</div>
+	</form>
+</div>
+
+</div>
+{% end %}
+
+{% block footer %}
+
+{% end %}

@@ -1,0 +1,2543 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.datasets.base
+Bunch
+p1
+c__builtin__
+dict
+p2
+(dp3
+S'DESCR'
+p4
+NsS'data'
+p5
+(lp6
+S'Who should I call to get a tour of the New York Stock Exchange ?'
+p7
+aS"What people make up half the Soviet Union 's population ?"
+p8
+aS"What 's Japan 's largest car manufacturer ?"
+p9
+aS'Who created the World Wide Web , WWW ?'
+p10
+aS'Rotary engines used to be made by whom ?'
+p11
+aS"What camera company said , ` ` If you haven 't got the time , we 've got the camera ? ' '"
+p12
+aS'What has been the most common Christian name of U.S. presidents ?'
+p13
+aS'What South African producer had a 1988 profit of $ 836 million ?'
+p14
+aS"Which of the following actors worked in New York 's Yiddish Theater ?"
+p15
+aS"Who 's played the most games for the New York Yankees ?"
+p16
+aS"Who was Sherlock Holmes 's archenemy ?"
+p17
+aS'What fruit-topped actress was known as The Brazilian Bombshell ?'
+p18
+aS'Who invented the radio ?'
+p19
+aS"Who wrote the Farmer 's Almanac ?"
+p20
+aS'Which college did Dikembe Mutombo attend ?'
+p21
+aS'Who was the only president to serve two nonconsecutive terms ?'
+p22
+aS'Name the child left on a doorstep at the beginning of Gasoline Alley .'
+p23
+aS'What was the role of the Medieval Guild ?'
+p24
+aS"Who wrote the poem that starts ` ` I love your lips when they 're wet with wine and red with a warm desire ' ' ?"
+p25
+aS'What Mormon leader was said to have had 27 wives ?'
+p26
+aS'Who invented the paper clip ?'
+p27
+aS'Who is the Incredible Hulk in reality ?'
+p28
+aS'Who is Desmond Tutu ?'
+p29
+aS'Who were leaders of the Byzantine empire ?'
+p30
+aS'What comedian was The Perfect Fool ?'
+p31
+aS'Who sells Viagra ?'
+p32
+aS'Who betrayed Norway to the Nazis ?'
+p33
+aS'Who is the president of Stanford University ?'
+p34
+aS'What two New York Yankee pitchers swapped wives and families ?'
+p35
+aS'Who was the king who was forced to agree to the Magna Carta ?'
+p36
+aS"What explorer was nicknamed Iberia 's Pilot ?"
+p37
+aS'Who was the lawyer who represented Randy Steven Craft ?'
+p38
+aS'Who portrayed Sherlock Holmes in 14 films between 1939 and 1946 ?'
+p39
+aS'What robust U.S. President imported his own instructor after seeing a judo match ?'
+p40
+aS"What was Queen Victoria 's title regarding India ?"
+p41
+aS'What detective lives on Punchbowl Hill and has 11 children ?'
+p42
+aS'Who is Coronado ?'
+p43
+aS'What English queen had six fingers on one hand ?'
+p44
+aS'Which major diamond producer is based in South Africa ?'
+p45
+aS'Who is the prime minister of Japan ?'
+p46
+aS"Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?"
+p47
+aS'Who directed The Wild Bunch ?'
+p48
+aS'What French leader sold Louisiana to the United States ?'
+p49
+aS'What two historical figures , who fought each other in a famous battle , each have a food named after them ?'
+p50
+aS'What famous model was married to Billy Joel ?'
+p51
+aS'Who wrote the Bible ?'
+p52
+aS"What dictator has the nickname ` ` El Maximo ' ' ?"
+p53
+aS'What female painter produced primitives of rural New England life ?'
+p54
+aS'What female suspect in the game of Clue is single ?'
+p55
+aS'Who was the first person inducted into the U.S. Swimming Hall of Fame ?'
+p56
+aS'Who is the most sexy celebrity ?'
+p57
+aS'What U.S. university boasts the largest library ?'
+p58
+aS'Who are the two sons of Ozzie and Harriet Nelson ?'
+p59
+aS'Who made the first gas engine ?'
+p60
+aS'In what high-risk business venture did Jimmy the Greek bet and lose ?'
+p61
+aS'What Indian tribe is F Troop perpetually doing battle with ?'
+p62
+aS'What organization was founded by the Rev. Jerry Falwell ?'
+p63
+aS'What 4-foot-9 actress in 1984 became the first performer to win an Oscar for playing a character of the opposite sex ?'
+p64
+aS'What is the name of the Indian who became prime minister by beating Mrs. Gandhi in the 1977 election ?'
+p65
+aS'Who won World War II ?'
+p66
+aS"Who is Karenna Gore , Al Gore 's oldest daughter , married to ?"
+p67
+aS"Who 's baby was Sweet Pea on the Popeye cartoon ?"
+p68
+aS'What baseball team owner and sailor is known as The Mouth of the South ?'
+p69
+aS'Name the various super-teams to which the Angel has belonged .'
+p70
+aS"What American naval officer broke Japan 's isolationist policy in 1853 ?"
+p71
+aS'What company sells the most greeting cards ?'
+p72
+aS"Who 's the only man to have won the Olympic decathlon twice ?"
+p73
+aS"Who was Ben Casey 's boss ?"
+p74
+aS'What non-conformist abstract painter was dubbed Jack The Dripper by Time ?'
+p75
+aS'Who painted Mother and Child ?'
+p76
+aS'Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?'
+p77
+aS"Who makes the ` ` cross-your-heart bra ' ' ?"
+p78
+aS'Which of the Seven Dwarfs comes first alphabetically ?'
+p79
+aS"What kind of organization is ` Last Chance for Animals ' ?"
+p80
+aS'What does Larry King do for a living ?'
+p81
+aS'Who was Santos-Dumont ?'
+p82
+aS'Who won a Pulitzer Prize for his novel The Caine Mutiny ?'
+p83
+aS'What presidential administration challenged Americans to explore The New Frontier ?'
+p84
+aS"What company was the original sponsor of TV 's Superman ?"
+p85
+aS'Who shot Billy the Kid ?'
+p86
+aS"What woman was Time 's Man of the Year for 1952 ?"
+p87
+aS"Who created the comic strip , ` ` Garfield ' ' ?"
+p88
+aS"Name a band which was famous in the 1960 's ."
+p89
+aS'Who is the famous sister of actress Olivia De Havilland ?'
+p90
+aS'Who invented the toothbrush ?'
+p91
+aS'Who created Big Ben ?'
+p92
+aS'Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?'
+p93
+aS"What baseball star turned down a $ 1 , 000-a-year contract because he felt he had n't earned it ?"
+p94
+aS"What mystery writer penned ` ` ...the glory that was Greece , and the grandeur that was Rome ' ' ?"
+p95
+aS'What president kissed the Queen Mother on the lips ?'
+p96
+aS'Who owns the rights on a TV program ?'
+p97
+aS"What king boycotted Prince Charles 's wedding ?"
+p98
+aS"Who was Hitler 's minister of propaganda ?"
+p99
+aS'Who provides telephone service in Orange County , California ?'
+p100
+aS'What presidential press secretary dismissed Watergate as a third-rate burglary attempt ?'
+p101
+aS'Who was the last woman executed in England ?'
+p102
+aS'Who made the rotary engine automobile ?'
+p103
+aS'What bottled-up TV character was born in Baghdad ?'
+p104
+aS"What is Larry King 's occupation ?"
+p105
+aS'Who played Maria in the film West Side Story ?'
+p106
+aS"Who manufactures the software , ` ` PhotoShop ' ' ?"
+p107
+aS"Who are Woody Woodpecker 's niece and nephew ?"
+p108
+aS"What baseball team was routinely called ` ` dem bums ' ' by its frustrated fans ?"
+p109
+aS"What former president 's daughter has written a book titled Murder in the White House ?"
+p110
+aS'Who was the lawyer for Randy Steven Craft ?'
+p111
+aS'What 1920s cowboy star rode Tony the Wonder Horse ?'
+p112
+aS"What piano company claims its product is the ` ` Instrument of the immortals ' ' ?"
+p113
+aS'What National League baseball team employed 72 third baseemen in its first 2 seasons ?'
+p114
+aS'What writer is famous for physically putting himself into the center of his subject matter ?'
+p115
+aS'Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?'
+p116
+aS"What store claims to be the world 's largest department store ?"
+p117
+aS"What future deer hunter portrayed Annie Hall 's neurotic brother , Duane ?"
+p118
+aS'Who was President of Costa Rica in 1994 ?'
+p119
+aS'Who killed Martin Luther King ?'
+p120
+aS"What 's the name of the star of the cooking show , ` ` Galloping Gourmet ' ' ?"
+p121
+aS"Who was the lead actress in the movie ` Sleepless in Seattle ' ?"
+p122
+aS'Name a canine cartoon character other than Huckleberry Hound to have a voice by Daws Butler .'
+p123
+aS"What World War II leader declared : ` ` The blow has been struck ' ' ?"
+p124
+aS"What comic of TV 's golden age went by the motto ` ` Anything for a laugh ' ' ?"
+p125
+aS'What is the name of the president of Garmat U.S.A ?'
+p126
+aS'What one of the Backstreet Boys are single ?'
+p127
+aS'Who was the Secretary of War in the Civil War during the Battle of Gettysburg ?'
+p128
+aS'Who invented television ?'
+p129
+aS'What dummy received an honorary degree from Northwestern University ?'
+p130
+aS"What President was meant for , but never placed in , the empty crypt beneath the capital 's rotunda ?"
+p131
+aS"Who plays shortstop for Charlie Brown 's baseball team ?"
+p132
+aS'Who is the prime minister in Norway ?'
+p133
+aS"Who portrayed Dracula in Hammer Studios ' films ?"
+p134
+aS'Who invented the stock ticker in 1870 ?'
+p135
+aS"What was the name of Darth Vader 's son ?"
+p136
+aS"Who sings the themes for ` ` Dawson 's Creek ' ' and ` ` Felicity ' ' ?"
+p137
+aS'What labor leader was last seen in the parking lot of a Michigan restaurant ?'
+p138
+aS"What actor 's autobiography is titled All My Yesterdays ?"
+p139
+aS'Which member of the Micronauts spent 1 years traveling the Microverse in the Marvel comics ?'
+p140
+aS"Name the blind sculptress in love with the Fantastic Four 's Thing ."
+p141
+aS'Who followed up his first two underwater thrillers with The Girl of the Sea of Cortez ?'
+p142
+aS"Who declared : ` ` I am down on whores and I shan 't stop ripping them ' ' ?"
+p143
+aS'Who comprised the now-defunct comic book team known as the Champions ?'
+p144
+aS'What part did John Peter Zenger play in the deveopment of the newspaper in America ?'
+p145
+aS'What radio , TV and movie character did Jackie Gleason and William Bendix play ?'
+p146
+aS"Who portrayed Carl Bernstein in All the President 's Men ?"
+p147
+aS'What was the previous name for the Commonwealth ?'
+p148
+aS'Whose singing voice was dubbed in for Natalie Wood in West Side Story and Audrey Hepburn in My Fair Lady ?'
+p149
+aS"Who said , ` ` I shall return . ' ' during World War Two ?"
+p150
+aS'Which NBA players had jersey number 0 ?'
+p151
+aS"Who was the bandleader mentor of Ella Fitzgerald with whom she cowrote ` ` A_Tisket , A-Tasket ' ' ?"
+p152
+aS'Who is the director of the international group called the Human Genome Organization , HUGO , that is trying to coordinate gene-mapping research worldwide ?'
+p153
+aS'Who invented the fax machine ?'
+p154
+aS'Who banned Peter Rose from baseball for betting on games ?'
+p155
+aS'Who awarded The Flying Fickle Finger of Fate ?'
+p156
+aS'Which police department made the largest cocaine seizure ever in Ventura County ?'
+p157
+aS"What cigar-chewing comedian observed : ` ` You 're only as old as the woman you feel ' ' ?"
+p158
+aS"Who 's the twin brother of the Greek goddess Artemis ?"
+p159
+aS"What is ` ` the airline built for professional travelers ' ' ?"
+p160
+aS"What football coach 's story was told in the movie Run to Daylight ?"
+p161
+aS"What 's the name of the actress who starred in the movie , ` ` Silence of the Lambs ' ' ?"
+p162
+aS'What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?'
+p163
+aS"Name Dick Tracy 's two children ."
+p164
+aS'Who killed more people , Hitler or Stalin ?'
+p165
+aS'Who else was considered for the role of Luke Skywalker when George Lucas was casting for Star Wars ?'
+p166
+aS'What two US biochemists won the Nobel Prize in medicine in 1992 ?'
+p167
+aS'What British commander surrendered to George Washington at Yorktown in 1781 ?'
+p168
+aS'Who played the title role in I Was a Teenage Werewolf ?'
+p169
+aS'What monarch signed the Magna Carta ?'
+p170
+aS'Who gave King Arthur the round table ?'
+p171
+aS'What National Basketball Association superstar told his story in Giant Steps ?'
+p172
+aS'Who was the second man to walk on the moon ?'
+p173
+aS'Who portrayed Renaud in Casablanca ?'
+p174
+aS'What are the top ten all-time money making NFL teams ?'
+p175
+aS'Who is the leader of India ?'
+p176
+aS"What 's the name of Pittsburgh 's baseball team ?"
+p177
+aS'What famous communist leader died in Mexico City ?'
+p178
+aS'Name the first private citizen to fly in space .'
+p179
+aS'What are the top 10 colleges in the United States in the field of engineering ?'
+p180
+aS'Who is the leading competitor of Trans Union Company ?'
+p181
+aS'What actor first portrayed James Bond ?'
+p182
+aS'What is a person called that likes fire ?'
+p183
+aS'Who delivered his last newscast on March 6 , 1981 ?'
+p184
+aS'Who turned all he touched to gold ?'
+p185
+aS"What is the most common boy 's or girl 's name ?"
+p186
+aS'Who developed potlatch ?'
+p187
+aS'What Nazi leader killed himself in jail just before he was to be executed as a war criminal ?'
+p188
+aS"What double talking ` ` professor ' ' holds a doctorate in Nothing ?"
+p189
+aS'Who is currently the most popular singer in the world ?'
+p190
+aS'Who invented batteries ?'
+p191
+aS'Who made the first surfboard ?'
+p192
+aS'What kind of business is 7-Eleven ?'
+p193
+aS'Rotary engine cars were made by what company ?'
+p194
+aS'What are the five most popular Usenet groups ?'
+p195
+aS'What does Nicholas Cage do for a living ?'
+p196
+aS'The lawyer who represented Randy Craft , what was his name ?'
+p197
+aS'What company has built more than 2.5 billion little green houses since 1935 ?'
+p198
+aS"What poet wrote : ` ` ... I have promises to keep , and miles to go before I sleep ' ' ?"
+p199
+aS"What is Alice Cooper 's real name ?"
+p200
+aS'Rotary engines were manufactured by which company ?'
+p201
+aS"Who is Luke Skywalker 's father ?"
+p202
+aS'Who used AuH2O as an election slogan ?'
+p203
+aS'Who is stationed at Camp Swampy in the comic strips ?'
+p204
+aS'Whom did Friz Freleng add to the Warner Bros. cartoon ranks ?'
+p205
+aS"Which oil company almost picked a word that meant ` ` stalled car ' ' in Japanese as its new international name ?"
+p206
+aS'Who killed Gandhi ?'
+p207
+aS"Who wrote ` ` Much Ado About Nothing ' ' ?"
+p208
+aS'What pseudonym did William Sydney Porter use in writing The Gift of the Magi ?'
+p209
+aS'What actress has received the most Oscar nominations ?'
+p210
+aS'What Pulitzer Prize-winning novelist ran for mayor of New York City ?'
+p211
+aS'Who wrote the bestselling Missionary Travels and Researches in South Africa , published in 1857 ?'
+p212
+aS"Who replies ` ` I know ' ' to Princess Leia 's confession ` ` I love you ' ' in The Empire Strikes Back ?"
+p213
+aS'Who was in Death of a Salesman original movie , not 1985 ?'
+p214
+aS"What company 's trademark was His Master 's Voice ?"
+p215
+aS"Who was Tiny Tim 's father ?"
+p216
+aS"Who was the author of the famous fairy tale ` ` Snow White and Seven Dwarfs ' ' ?"
+p217
+aS'Who created the character of Scrooge ?'
+p218
+aS'What is the name of the American swimmer who won seven gold medals in the 1972 Olympics ?'
+p219
+aS'What Cherokee Indian gave his name to a tree ?'
+p220
+aS'Who was the oldest U.S. president ?'
+p221
+aS'Who was the founding member of the Pink Floyd band ?'
+p222
+aS'What painter popularized soup cans and Brillo soap pad boxes ?'
+p223
+aS'What Texas surgeon performed the first artificial heart transplant ?'
+p224
+aS'What business exports the sparkling wine Spumante ?'
+p225
+aS'What future Soviet dictator was training to be a priest when he got turned on to Marxism ?'
+p226
+aS'Who does the voices of the Simpsons ?'
+p227
+aS'What terrorist group was headed by Donald DeFreeze ?'
+p228
+aS'Who is Prince Naseem Hamed ?'
+p229
+aS'Who did Sonny Liston succeed as world heavyweight boxing champion ?'
+p230
+aS'What President was buried at his ancestral home overlooking the Hudson River at Hyde Park , New York ?'
+p231
+aS"What actor said in A Day at the Races : ` ` Either he 's dead or my watch has stopped ' ' ?"
+p232
+aS'Who made Stonehenge ?'
+p233
+aS'What actress holds the record for the most appearances on the cover of Life ?'
+p234
+aS'Who was the second man to walk on the moon ?'
+p235
+aS'What party was Winston Churchill a member of ?'
+p236
+aS'What count did Alexandre Dumas write about ?'
+p237
+aS'The major league baseball team in Pittsburgh is called what ?'
+p238
+aS'Who created the character James Bond ?'
+p239
+aS'What Asian spiritual and political leader was married at the age of 13 ?'
+p240
+aS'Name the Ranger who was always after Yogi Bear .'
+p241
+aS'Who was Camp David named for ?'
+p242
+aS'What character in The Beverly Hillbillies has the given names Daisy Moses ?'
+p243
+aS"Who founded the People 's Temple Commune ?"
+p244
+aS'Who was the king who signed the Magna Carta ?'
+p245
+aS'What famous husband-and-wife team did radio ads for Blue Nun wine ?'
+p246
+aS'Which of the following celebrities was not born in Philadelphia ?'
+p247
+aS'Who is the sexiest women in the world ?'
+p248
+aS"What 's Mrs. Bridges 's job on TV 's Upstairs , Downstairs ?"
+p249
+aS'Who seized power from Milton Obote in 1971 ?'
+p250
+aS'Who created the Fantastic Four , Hulk , and Thor ?'
+p251
+aS'What is the name of the pop singer whose song became the theme song for a brand of catsup ?'
+p252
+aS'What king was forced to agree to the Magna Carta ?'
+p253
+aS'Who was William Henry Harrison ?'
+p254
+aS'Who won the Battle of Gettysburg ?'
+p255
+aS'What comedian was born Allen Stewart Konigsberg ?'
+p256
+aS'Who founded the first aerodynamics laboratory in 1912 ?'
+p257
+aS'Name the university of which Woodrow Wilson was president .'
+p258
+aS"What creative genius said : ` ` Everything comes to him who hustles while he waits ' ' ?"
+p259
+aS'Which radio stations air the Jim Bohannon Radio Talk Show ?'
+p260
+aS'Saddam Hussein was compared to whom by President Bush ?'
+p261
+aS'What President was assassinated by Charles J. Guiteau ?'
+p262
+aS"What fictional character is known as the ` ` melancholy Dane ' ' ?"
+p263
+aS'What is the present Pope named ?'
+p264
+aS"What is the protagonist 's name in Dostoevski 's ` ` The Idiot ' ' ?"
+p265
+aS'What golfer has been called Ohio Fats and Blobbo ?'
+p266
+aS'Which former Ku Klux Klan member won an elected office in the U.S. ?'
+p267
+aS'What composer was awarded the Medal of Honor by Franklin D. Roosevelt ?'
+p268
+aS'Who fired Maria Ybarra from her position in San Diego council ?'
+p269
+aS"What is the Viking Prince 's first name ?"
+p270
+aS"What is Rona Barrett 's married name ?"
+p271
+aS'What baseball team became the Minnesota Twins ?'
+p272
+aS'What company tabulates the ballots in voting for the Academy Awards ?'
+p273
+aS'Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?'
+p274
+aS'What occupation has the highest divorce rate ?'
+p275
+aS"Who portrayed Fatman in the television show , ` ` Jake and the Fatman ' ' ?"
+p276
+aS'Name 11 famous martyrs .'
+p277
+aS'Who did Bobby Fischer beat to win the world chess championship ?'
+p278
+aS"What was Al Capone 's nickname ?"
+p279
+aS"What U.S. vice-president said : ` ` Some newspapers dispose of their garbage by printing it ' ' ?"
+p280
+aS'Who was the prophet of the Jewish people ?'
+p281
+aS'Who were the five Marx brothers ?'
+p282
+aS'What hockey team did Wayne Gretzky play for ?'
+p283
+aS"What TV comediennes 's characters include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice ?"
+p284
+aS"What was the Ventura County police department that seized the county 's largest amount of cocaine ever ?"
+p285
+aS"Who was Scrooge 's dead partner in Dickens 's A Christmas Carol ?"
+p286
+aS'Who was known as the Time Master in comic books ?'
+p287
+aS'Who is the President of Pergament ?'
+p288
+aS'What Ivy League school plays its home games at Palmer Stadium ?'
+p289
+aS'Who played the title role in My Favorite Martian ?'
+p290
+aS"Whom does Uncle Duke 's girl friend , Honey , room with ?"
+p291
+aS"What team did baseball 's St. Louis Browns become ?"
+p292
+aS'What hard-of hearing artist painted Sunflowers ?'
+p293
+aS"Who is known as ` ` the world 's oldest teenager ' ' ?"
+p294
+aS'What two baseball players make up the battery ?'
+p295
+aS'Who portrayed Vincent Van Gogh in Lust for Life ?'
+p296
+aS'Who was the 15th century fire-and-brimstone monk who gained control of Florence but ended burnt at the stake ?'
+p297
+aS'Who bestowed great power upon Captain Britain ?'
+p298
+aS'Whose autobiography is titled Yes I Can ?'
+p299
+aS"Whose first presidential order was : ` ` Let 's get this goddamn thing airborne ' ' ?"
+p300
+aS'What ill-fated American general dragged a bull terrier named Willie through World War II ?'
+p301
+aS'Who is the worst US President ever ?'
+p302
+aS'What TV sitcom character had the maiden name Ethel Potter ?'
+p303
+aS'What player squats an average of 3 times during a baseball doubleheader ?'
+p304
+aS'Who is the Queen of Holland ?'
+p305
+aS'What father and son won the Medal of Honor ?'
+p306
+aS'Who was the first king of England ?'
+p307
+aS'Who is the father of the computer ?'
+p308
+aS'Who moderated the first Kennedy-Nixon TV debate ?'
+p309
+aS'What relative of Leo Tolstoy translated War and Peace eight times ?'
+p310
+aS"Who is Archie Bunker 's son-in-law ?"
+p311
+aS'Who was Jinnah ?'
+p312
+aS'Who was Ezra Taft Benson ?'
+p313
+aS'Which of the following was Rhodes Scholar ?'
+p314
+aS'Name the two blob members of the animated Herculoids .'
+p315
+aS'What college enlivens Hanover , New Hampshire ?'
+p316
+aS'Who wrote The Collector ?'
+p317
+aS'Who was the supreme god of Germanic religion ?'
+p318
+aS'Who was Darius ?'
+p319
+aS'Who won the rugby world cup in ?'
+p320
+aS'What is the name of the brilliant British economist behind its creation ?'
+p321
+aS'What Pope inaugurated Vatican International Radio ?'
+p322
+aS"What 's the nickname of oddsmaker Jimmy Snyder ?"
+p323
+aS'Who stopped making diary entries on May 31 , 1669 , because he thought he was going blind ?'
+p324
+aS'What title does comedian Henry Youngman claim ?'
+p325
+aS"What 's the better-known identity of John Merrick , the noble ogre of Victorian England ?"
+p326
+aS"What 's the name of Popeye 's adopted son ?"
+p327
+aS'Who was the 1st U.S. President ?'
+p328
+aS'What two commanders directed the forces in the Battle of El Alamein ?'
+p329
+aS'Who asked you to do the Loco-Motion with her in 1962 ?'
+p330
+aS'What hockey player did Ronald Reagan joke he would swap Texas for ?'
+p331
+aS'Who was Jean Nicolet ?'
+p332
+aS"Name the company that used the line , ` ` Even your best friend won 't tell you ' ' in its ad ?"
+p333
+aS'Who is the director of intergovernmental affairs for the San Diego county ?'
+p334
+aS'Who invented the Wonderbra ?'
+p335
+aS'What was her real name ?'
+p336
+aS'What did the Seven Dwarfs do for a living ?'
+p337
+aS'Which Vietnamese terrorist is now a UN delegate in Doonesbury ?'
+p338
+aS"What singer 's theme song was When the Moon Comes over the Mountain ?"
+p339
+aS"What is Supergirl 's secret identity ?"
+p340
+aS'Whom did the Chicago Bulls beat in the 1993 championship ?'
+p341
+aS'Silly putty was invented by whom ?'
+p342
+aS'Who directed Citizen Kane ?'
+p343
+aS'Who patented the first phonograph ?'
+p344
+aS'Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?'
+p345
+aS"What army 's motto is Blood and Fire ?"
+p346
+aS'What is the first personal computer company ?'
+p347
+aS"Who thought he 'd never see a poem lovely as a tree ?"
+p348
+aS"What is Pittsburgh 's baseball team called ?"
+p349
+aS'Who is Shirley MacLaine ?'
+p350
+aS"Who played the part of the Godfather in the movie , ` The Godfather ' ?"
+p351
+aS'Who sued the Dannon yougurt company for using a character named Ron Raider for promotion ?'
+p352
+aS'Who did Dita Beard work for ?'
+p353
+aS'What enigmatic U.S. vice president was once tried and acquitted for treason in a plot to set up his own independent empire in the West ?'
+p354
+aS'Who received the Will Rogers Award in 1989 ?'
+p355
+aS'Who was the only person convicted in the My Lai Massacre ?'
+p356
+aS'Who would you use the Heimlich maneuver on ?'
+p357
+aS'Who was the first man to return to space ?'
+p358
+aS'What longtime game show host dropped dead while jogging in Central Park in 1984 ?'
+p359
+aS"Who makes the ` ` Die Hard ' ' car battery ?"
+p360
+aS"Whose special bear 's creator was born on January 18 , 1779 ?"
+p361
+aS'What well-known actor is the father of star Alan Alda ?'
+p362
+aS'Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10- ? ? of all profits of his voyage .'
+p363
+aS"Who was Bonnie Blue Butler 's father ?"
+p364
+aS"Who wrote the book , ` ` The Grinch Who Stole Christmas ' ' ?"
+p365
+aS'Name the On Stage character whose face was never seen .'
+p366
+aS'What Apollo 11 astronaut minded the store while Armstrong and Aldrin made history ?'
+p367
+aS'What singer became despondent over the death of Freddie Prinze , quit show business , and then quit the business ?'
+p368
+aS'What well-known music personality is the father of an adopted son named Hans Christian Henderson ?'
+p369
+aS'Who was Lacan ?'
+p370
+aS'Who was Jane Goodall ?'
+p371
+aS'Which of these are authors ?'
+p372
+aS"Who 's the only U.S. president to have won a Pulitzer Prize ?"
+p373
+aS'Who is the French literary charcter who is chiefly famous for his enormous nose ?'
+p374
+aS"What are the names of Jack 's original roommates on Three 's Company ?"
+p375
+aS'What writer-journalist made his mark describing colorful Broadway and underworld characters ?'
+p376
+aS"What is the name of the company that manufactures the ` ` American Girl ' ' doll collection ?"
+p377
+aS'Name the Ranger who was always after Yogi Bear .'
+p378
+aS'Who is Peter Weir ?'
+p379
+aS'Name the scar-faced bounty hunter of The Old West .'
+p380
+aS'What name does the world know Renaissance artist Kyriakos Theotokopoulos by ?'
+p381
+aS'What multitalented Academy-award-winning director failed a college course in motion-picture production ?'
+p382
+aS'What appointments secretary to Richard Nixon went to jail ?'
+p383
+aS'What Dynasty star made her 2th Century-Fox debut in The Virgin Queen ?'
+p384
+aS'Who led the opposition when Konrad Adenauer was Chancellor in Germany ?'
+p385
+aS'What South Vietnamese president was assassinated by his generals in 1963 ?'
+p386
+aS'Who is the president of Bolivia ?'
+p387
+aS'Who were the Picts ?'
+p388
+aS"Who graced the airwaves with such pearls as ` ` Do ya lo-o-ove me ? Get naked , baby ! ' ' ?"
+p389
+aS'Who portrayed Maggio in the film From Here to Eternity ?'
+p390
+aS"What are the characters ' names in the Scooby-Doo cartoon ?"
+p391
+aS'Who developed the first polio vaccine ?'
+p392
+aS'Who is Henry Butler ?'
+p393
+aS'Who established a Viking colony in Greenland about 985 ?'
+p394
+aS"Name Alvin 's brothers"
+p395
+aS'What was the backup singing group for Roy Rogers ?'
+p396
+aS'Who is the Voyager project manager ?'
+p397
+aS'What is an example of a famous rock band from the sixties ?'
+p398
+aS'What actor and actress have made the most movies ?'
+p399
+aS'What is the best Internet business to go into ?'
+p400
+aS'Who won the Superbowl in ?'
+p401
+aS'What corporation does Madonna advertise for ?'
+p402
+aS'Which team won the Super Bowl in 1968 ?'
+p403
+aS'What TV comedian worked with White Fang , Black Tooth and Pookie the Lion ?'
+p404
+aS"Who spoke the only word in Mel Brooks 's Silent Movie ?"
+p405
+aS'What are the first names of the famous husband-and-wife acting team of Lunt and Fontanne ?'
+p406
+aS'What was the business of the animated Sky Hawks ?'
+p407
+aS'What mythical figure carries an hourglass and a scythe ?'
+p408
+aS'What English explorer discovered and named Virginia ?'
+p409
+aS'Who was the 3rd president of the United States ?'
+p410
+aS'What was the nickname of German flying ace Manfred von Richthofen ?'
+p411
+aS'Who wrote The Night of the Iguana ?'
+p412
+aS'Who invented the fountain ?'
+p413
+aS"What was the name of ` ` The Muppets ' ' creator ?"
+p414
+aS"Who claimed to be the world 's most perfectly-developed man ?"
+p415
+aS'Who leads the star ship Enterprise in Star Trek ?'
+p416
+aS'Who was the first black woman to star in the Folies Bergeres ?'
+p417
+aS"What singer sings ` ` Oh Boy ' ' ?"
+p418
+aS"Who said ` ` the only thing we have to fear is fear itself ' ' ?"
+p419
+aS'Who led the Normans to victory in the Battle of Hastings ?'
+p420
+aS'What 2th-century fictional character attends Pencey Prep School ?'
+p421
+aS"Who was Shakespeare 's Moorish general ?"
+p422
+aS"Who is Westview High 's band director in Funky Winkerbean ?"
+p423
+aS'What Italian leader had a lifelong fear of the evil eye ?'
+p424
+aS'Who killed Lee Harvey Oswald ?'
+p425
+aS'Who wrote The Secret Life of Walter Mitty ?'
+p426
+aS"Who portrayed George M. Cohan in 1942 's Yankee Doodle Dandy ?"
+p427
+aS"What former African leader held his country 's boxing title for nine years ?"
+p428
+aS'What university was Woodrow Wilson President of ?'
+p429
+aS'Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?'
+p430
+aS'Which company created the Internet browser Mosaic ?'
+p431
+aS'Who won Oscars for her roles in Gone with the Wind and A Streetcar Named Desire ?'
+p432
+aS"What author of the Days of Our Lives Cookbook signed on in 198 as Liz Chandler in TV 's Days of Our Lives ?"
+p433
+aS'Who is the fastest guitarist ?'
+p434
+aS'What U.S. vice-president killed Alexander Hamilton in a duel ?'
+p435
+aS'What Nobel laureate was expelled from the Philippines before the conference on East Timor ?'
+p436
+aS'Who owns the St. Louis Rams ?'
+p437
+aS"Who is the creator of ` ` The Muppets ' ' ?"
+p438
+aS'Who claims to have the greatest show on earth ?'
+p439
+aS'Who was the first elected mayor of Washington , D.C. ?'
+p440
+aS'What baseball player was walked the most times ?'
+p441
+aS'What character narrates Treasure Island ?'
+p442
+aS"What was the man 's name who was killed in a duel with Aaron Burr ?"
+p443
+aS"What tennis player has the nickname ` ` Nasty ' ' ?"
+p444
+aS'Who appointed the chair of the Federal Reserve ?'
+p445
+aS"What was the name of Humphrey Bogart 's club in Casablanca ?"
+p446
+aS'Who was the first doctor to successfully transplant a liver ?'
+p447
+aS'Who invented the horoscope ?'
+p448
+aS"What cable network bills itself as ` ` the family entertainer ' ' ?"
+p449
+aS'What department store heir is responsible for raising a three-ton safe from the underwater wreckage of the Andrea Doria ?'
+p450
+aS"Who was Gerald Ford 's vice president ?"
+p451
+aS'Who was the first American poet to win the Nobel Prize for literature , in 1948 ?'
+p452
+aS'Who was the last U.S. president to reinstate Selective Service registration ?'
+p453
+aS"What son of a 15-year-old Mexican girl and a half-Irish father became the world 's most famous Greek ?"
+p454
+aS'Which police department made the all-time biggest cocaine bust in Ventura County ?'
+p455
+aS"What is the name of Dolly Parton 's rarely seen husband ?"
+p456
+aS'Name the lawyer for Randy Craft .'
+p457
+aS"What ` ` marvelous ' ' major-league baseball player is now a spokesman for a beer company ?"
+p458
+aS'Who held the endurance record for women pilots in 1929 ?'
+p459
+aS'Who was the architect of Central Park ?'
+p460
+aS'Who invented the lawnmower ?'
+p461
+aS'What is the real name of the singer , Madonna ?'
+p462
+aS'When not adventuring on Rann , what does Adam Strange call his profession ?'
+p463
+aS'What U.S. Government agency registers trademarks ?'
+p464
+aS'What political party is Sinn Fein a part of ?'
+p465
+aS"What author did photographer Yousuf Karsh call ` ` the shiest man I ever met ' ' ?"
+p466
+aS"Who is Malaysia 's 43rd prime minister ?"
+p467
+aS'Who lived on the shores of the Gitchee Gumee River ?'
+p468
+aS'Name a South African diamond producer ?'
+p469
+aS'What is the most popular last name ?'
+p470
+aS"Who was the second person ever to wear Iron Man 's armor ?"
+p471
+aS'Who released the Internet worm in the late 1980s ?'
+p472
+aS'Who is Desmond Tutu ?'
+p473
+aS'What is the oldest profession ?'
+p474
+aS'What businesses or agencies would do an employment verification ?'
+p475
+aS"Who was America 's first Public Enemy No. 1 ?"
+p476
+aS"What President 's favorite Biblical quotation was : ` ` Come now , and let us reason together ' ' ."
+p477
+aS'Who is the owner of CNN ?'
+p478
+aS"What was Marilyn Monroe 's real name ?"
+p479
+aS"What was William F. Cody 's better-known name ?"
+p480
+aS'Who discovered electricity ?'
+p481
+aS"What comedienne upstaged Dwight D. Eisenhower 's first inauguration by giving birth to her first child ?"
+p482
+aS'What member of The Little Rascals has an on-again , off-again sweetheart in Darla Hood ?'
+p483
+aS'What was the first U.S.-based team in the NHL ?'
+p484
+aS"Who wrote NN DT NNP NNP ' ' ?"
+p485
+aS'What director made one silent and one sound version of The Ten Commandments ?'
+p486
+aS'Who did the Seven Mules block for ?'
+p487
+aS"Who created ` ` The Muppets ' ' ?"
+p488
+aS"Name of heroine in ` ` Scruples ' ' ?"
+p489
+aS"What is Jimmy Olsen 's full name ?"
+p490
+aS'What president also became a supreme court justice ?'
+p491
+aS"What onetime member of Ronald Reagan 's cabinet called federal policy toward Indians ` ` an example of the failure of socialism ' ' ?"
+p492
+aS"Who is Rocky 's and Bullwinkle 's ever-lost friend ?"
+p493
+aS'Who produces Spumante ?'
+p494
+aS'Which of the following famous people does not paint as a hobby ?'
+p495
+aS'Who invented the pull-tab opener on cans ?'
+p496
+aS'Who is the Antichrist ?'
+p497
+aS'What Argentine revolutionary fought with Castro and died in Bolivia in May , 1979 ?'
+p498
+aS'Who was the first Holy Roman Emperor ?'
+p499
+aS'Who is the best known villain of the 165 Gunpowder Plot ?'
+p500
+aS"Who said : ` ` Soldiers win the battles and generals get the credit ' ' ?"
+p501
+aS'Name the cartoon genie conjured by the magic ring shared by Nancy and Chuck .'
+p502
+aS'What wild and crazy guy wrote a book called Cruel Shoes ?'
+p503
+aS'Who was the original Humpty Dumpty ?'
+p504
+aS'What Soviet leader owned a Rolls-Royce ?'
+p505
+aS'Who used to make cars with rotary engines ?'
+p506
+aS"What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?"
+p507
+aS"Who penned : ` ` Neither a borrower nor a lender be ' ' ?"
+p508
+aS"What company 's logo is a ` ` W ' ' in a circle ?"
+p509
+aS"Name one of King Henry VIII 's wives ."
+p510
+aS"What actor came to dinner in Guess Who 's Coming to Dinner ?"
+p511
+aS'Which U.S. President is buried in Washington , D.C. ?'
+p512
+aS'What actor and World War II airman had a $ 5 , 0 bounty put on his head by Hermann Goering ?'
+p513
+aS'Who were the four famous founders of United Artists ?'
+p514
+aS"What President once told Gene Autry : ` ` Please give my regards to your wife Dale ' ' ?"
+p515
+aS'Who is the youngest of the Beatles ?'
+p516
+aS'Who came up with the name , El Nino ?'
+p517
+aS"Who were the ` ` filthiest people alive ? ' '"
+p518
+aS'Who lives at 24 Sussex Drive , Ottawa ?'
+p519
+aS"Who was Israel 's first prime minister ?"
+p520
+aS'Which Japanese car maker had its biggest percentage of sale in the domestic market ?'
+p521
+aS"Name Pittsburgh 's baseball team ."
+p522
+aS'Who built the first successful stern wheel steamboat ?'
+p523
+aS'Who is Charles Lindbergh ?'
+p524
+aS'What United States President had dreamed that he was assassinated ?'
+p525
+aS"Who was Charles Lindbergh 's wife ?"
+p526
+aS'What famous comedian recently tried without success to revive the play ?'
+p527
+aS'Who discovered imaginary numbers ?'
+p528
+aS'Who retired with 755 home runs to his credit ?'
+p529
+aS'Who does the advertizing for Frito-Lay ?'
+p530
+aS'When the Tutankhamun exhibit was on display in the U.S. , what moving company transported it ?'
+p531
+aS'What chocolate company gives you a one-pound kiss ?'
+p532
+aS'Who was the president of Vichy France ?'
+p533
+aS'What culture developed the idea of potlatch ?'
+p534
+aS'Who holds the NFL record for most touchdowns in a season ?'
+p535
+aS'Who was the first Russian astronaut to walk in space ?'
+p536
+aS'What President served for five years , six months and 2 days ?'
+p537
+aS'Name of the lady the Great Gatsby pines for ?'
+p538
+aS"What are the first names of Rowan and Martin , the stars of TV 's Laugh-In ?"
+p539
+aS'Who started the Dominos Pizza chain ?'
+p540
+aS'Who killed JFK ?'
+p541
+aS'Who is the mathematician that won the Noble Prize for Literature in 1950 ?'
+p542
+aS'Who wrote Brave New World ?'
+p543
+aS"What is the name of Joan Jett 's band ?"
+p544
+aS'Who is the richest woman in the world ?'
+p545
+aS'What famous British actor lost his voice after an operation in 1966 ?'
+p546
+aS'What Japanese electronics company was named for a coastal city northeast of Tokyo ?'
+p547
+aS'What woman has carried the most multiple births , twins , triplets , etc. , ?'
+p548
+aS'Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?'
+p549
+aS'What famous singing cowboy owns the California Angels baseball team ?'
+p550
+aS'What army was founded by William Booth and his wife Catherine ?'
+p551
+aS'What manufacturers are there in Texas ?'
+p552
+aS'What was the name of the cook on Rawhide ?'
+p553
+aS'Who won the first World Series ?'
+p554
+aS'Who are the nomadic hunting and gathering tribe of the Kalahari Desert in Africa ?'
+p555
+aS"Who was President Cleveland 's wife ?"
+p556
+aS'Who was the famous door-to-door brush salesman ?'
+p557
+aS"What are the names of Richard Nixon 's two daughters ?"
+p558
+aS'Who is Imam Hussain Ben Ali whom Shia people believe in ?'
+p559
+aS"Who sings Angel Eyes from the 80 's ?"
+p560
+aS'Who was the first X-Man to die in battle ?'
+p561
+aS"Who headed Hitler 's infamous Gestapo ?"
+p562
+aS"What girl 's name is ` ` Teddy ' ' an affectionate form of ?"
+p563
+aS'Who was considered to be the father of psychology ?'
+p564
+aS"What American actress was the first to be called a ` ` vamp ' ' ?"
+p565
+aS'Who played for the Chicago Bears , Houston Oilers and Oakland Raiders in a 26-year pro football career ?'
+p566
+aS'What was the occupation of Mandy Rice-Davies ?'
+p567
+aS'What is the best art and design school in the world ?'
+p568
+aS'What attorneys work for The Center for the Defense of Free Enterprise ?'
+p569
+aS'Who created private detective Philip Marlowe ?'
+p570
+aS"What Chilean president was killed in a 1973 coup d 'etat ?"
+p571
+aS'What major airline has the best safety record in the world ?'
+p572
+aS'Who was nicknamed The Little Corporal ?'
+p573
+aS'Who played the Ringo Kid in the 1939 film Stagecoach ?'
+p574
+aS'Who founded the modern theory of probability ?'
+p575
+aS"What is Steve Rogers 's profession when he 's not Captain America ?"
+p576
+aS'Who was Thucydides ?'
+p577
+aS'Who were the 1974 Oscar winners ?'
+p578
+aS'Who are the top ten richest people in the world ?'
+p579
+aS'Who wrote The Look of Love after viewing Ursula Andress ?'
+p580
+aS'What athlete makes the most money from sports merchandise sales ?'
+p581
+aS'What TV detective did Craig Stevens play ?'
+p582
+aS'Who were the head writers for the Smothers Brothers Comedy Hour ?'
+p583
+aS'What feathered cartoon characters do Yugoslavians know as Vlaja , Gaja , and Raja ?'
+p584
+aS'Who was chief engineer of the Starship Enterprise ?'
+p585
+aS"Name the designer of the shoe that spawned millions of plastic imitations , known as ` jellies ' ."
+p586
+aS"What astronomer-architect designed the present St. Paul 's Cathedral in London ?"
+p587
+aS'President Bush compared Saddam Hussein to whom ?'
+p588
+aS"What singer 's hit song inspired the Dolly Parton Stallone movie Rhinestone ?"
+p589
+aS"Who wrote : ` ` Poems are made by fools like me but only God can make a tree ' ' ?"
+p590
+aS'Who invented Astroturf ?'
+p591
+aS"Who was the girl in Peter Sellers 's soup ?"
+p592
+aS"What New Orleans D.A. claimed : ` ` My staff and I solved the assassination weeks ago ' ' ?"
+p593
+aS'Who invented silly putty ?'
+p594
+aS"What is the name of the police officer who tried to keep order in Top Cat 's neighborhood ?"
+p595
+aS'Who made the most appearances in the center square on Hollywood Squares ?'
+p596
+aS'Who were the only two bald U.S. Presidents ?'
+p597
+aS'Woodrow Wilson served as president of what university ?'
+p598
+aS'What comedienne calls her sister-in-law Captain Bligh and her mother-in-law Moby Dick ?'
+p599
+aS'What international organization was founded by Clara Barton ?'
+p600
+aS'What group starred in the movie Rock Around the Clock ?'
+p601
+aS'What college did Dikembe Mutombo play basketball for ?'
+p602
+aS'Who killed Kurt Cobain ?'
+p603
+aS'What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?'
+p604
+aS'Who portrayed The Cowardly Lion in The Wizard of Oz ?'
+p605
+aS'What famous meat company went out of business because it became known that the underworld had been selling them kangaroo meat ?'
+p606
+aS'What is the name of the American who was captured when his plane went down over Syrian-held Lebanon ?'
+p607
+aS'What is a person called that likes fire ?'
+p608
+aS'What President had never held an elected office until he was elected to the White House ?'
+p609
+aS"What U.S. vice-president once declared : ` ` If you 've seen one slum , you 've seen them all ' ' ?"
+p610
+aS"Who 's the lead singer of the Led Zeppelin band ?"
+p611
+aS'Who killed Caesar ?'
+p612
+aS'Who was the first woman golfer to earn a million ?'
+p613
+aS'Who did Richard Nixon tender his resignation to ?'
+p614
+aS'What New York Yankee was known as The Iron Horse ?'
+p615
+aS'Who is Dear Abby ?'
+p616
+aS"What Honeymooners actress did Television magazine name as 1953 's most promising star ?"
+p617
+aS'What U.S. President showed a fondness for munching on bee pollen bars ?'
+p618
+aS'What U.S. general was court-martialled for criticizing American air power ?'
+p619
+aS'Who was the first American world chess champion ?'
+p620
+aS'What President lived at 219 North Delaware Street , Independence , Missouri ?'
+p621
+aS'What team did Babe Ruth play his first major league game for ?'
+p622
+aS'What dumb-but-loveable character did Maurice Gosfield play on The Phil Silvers Show ?'
+p623
+aS'Who has won the most Super Bowls ?'
+p624
+aS'Who was the first woman in space ?'
+p625
+aS'Who was the inventor of silly putty ?'
+p626
+aS'What group kidnaped Patricia Hearst ?'
+p627
+aS'Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?'
+p628
+aS'What company started out making pies , and wound up manufacturing plastic throwing toys ?'
+p629
+aS"When called upon to surrender , what American general replied , ` ` Sir , I have not yet begun to fight . ' ' ?"
+p630
+aS'What is the name of Miss India 1994 ?'
+p631
+aS'Who is always trying to get the rent from Andy Capp ?'
+p632
+aS"Which company claimed to be ` ` the world 's biggest toy store ' ' ?"
+p633
+aS'Who built the first pyramid ?'
+p634
+aS"Who served as inspiration for the schoolteacher portrayed by Robin Williams in ` ` Dead Poets Society ' ' ?"
+p635
+aS"What is Nicholas Cage 's occupation ?"
+p636
+aS'Who earns their money the hard way ?'
+p637
+aS'Who was the Charlie perfume woman ?'
+p638
+aS"Who says , ` ` If you don 't look good , we don 't look good ' ' ?"
+p639
+aS"What was the name of Randy Steven Craft 's lawyer ?"
+p640
+aS'Who has more DNA - a man or a woman ?'
+p641
+aS'What was the name of the first Russian astronaut to do a spacewalk ?'
+p642
+aS'What future President became Senate majority whip under Harry Truman ?'
+p643
+aS'Who loved Flash Gordon besides Dale ?'
+p644
+aS"What school does Tom attend in Tom Brown 's School Days ?"
+p645
+aS'Who is Samuel F. Pickering ?'
+p646
+aS'Who was the captain of the tanker , Exxon Valdez , involved in the oil spill in Prince William Sound , Alaska , 1989 ?'
+p647
+aS"What name did football 's New York Titans adopt in 1963 ?"
+p648
+aS'What title did Shevardnadze have during the Soviet era ?'
+p649
+aS'What are the top boy names in the U.S. ?'
+p650
+aS'What professional sports league originated the college draft ?'
+p651
+aS"Who is King in Alley Oop 's home of Moo ?"
+p652
+aS'What are the four railways in Monopoly ?'
+p653
+aS'What diminutive American female gymnast stole the show at the 1984 Olympics ?'
+p654
+aS'Who wrote The Godfather ?'
+p655
+aS'Who are the presidents of Mexico and Indonesia ?'
+p656
+aS"What is her husband 's name ?"
+p657
+aS'What organization has a Security Council ?'
+p658
+aS"What actor was the first man to appear on the cover of McCall 's ?"
+p659
+aS'Name a female figure skater .'
+p660
+aS'What company is being bought by Yahoo and how much is the deal worth ?'
+p661
+aS'What are the three most successful companies of our time ?'
+p662
+aS'Name the U.S. Senate majority leader and the Speaker of the House .'
+p663
+aS'Name a French fascist party .'
+p664
+aS'What feminist wrote Sexual Politics and Flying ?'
+p665
+aS"Who said of Super Bowl III in 1969 : ` ` We 'll win- I guarantee it ' ' ?"
+p666
+aS'Who was the prophet of the Muslim people ?'
+p667
+aS'What kind of company is 7-Eleven ?'
+p668
+aS'Who is Zebulon Pike ?'
+p669
+aS'What schools in the Washington , DC NN NN VBP NN NN NN NN .'
+p670
+aS'Who was the first woman to run the mile in less than 4 36893 minutes ?'
+p671
+aS'Who recorded the 1957 hit Tammy ?'
+p672
+aS'What baseball player was known as Charley Hustle ?'
+p673
+aS"What professional cricketer 's son wrote The War of the Worlds in 1898 ?"
+p674
+aS"Who is actress Goldie Hawn 's current actor boyfriend ?"
+p675
+aS'Who was the mother of the man who would not be king , the duke of Windsor ?'
+p676
+aS'What Civil War general wreaked havoc on the south by marching through Georgia on his way to the sea ?'
+p677
+aS'Who is Robin Williams ?'
+p678
+aS'Who portrayed Field Marshal Erwin Rommel in The Desert Fox ?'
+p679
+aS'Who owns CNN ?'
+p680
+aS'What was the real name of writer Ross Macdonald , creator of the hero Lew Archer ?'
+p681
+aS'What two presidents of the U.S. published books of poetry ?'
+p682
+aS'Who is the mayor of Marbella ?'
+p683
+aS'Who is the director and editor of the movie Big starring Tom Hanks ?'
+p684
+aS'Who is buried in the great pyramid of Giza ?'
+p685
+aS'Who invented the game Scrabble ?'
+p686
+aS"What is the last name of Lucy and Linus from the Peanut 's comic strip ?"
+p687
+aS'Who played Humpty Dumpty in the 1933 film Alice in Wonderland ?'
+p688
+aS"What British female pop singing star of the 1960s and early 1970s was a child actress in the 1940s and '50s ?"
+p689
+aS'What contemptible scoundrel stole the cork from my lunch ?'
+p690
+aS"What Green Bay Packers coach philosophized : ` ` There 's nothing that stokes the fire like hate ' ' ?"
+p691
+aS"What Good Little Witch is Casper 's girlfriend ?"
+p692
+aS"Name of the powerful white trader in Conrad 's ` ` Heart of Darkness ' ' ?"
+p693
+aS'What company produces Spumante ?'
+p694
+aS'Who is Stephen Hawking ?'
+p695
+aS'In the past 8 years who have the MVP players for the NHL been ?'
+p696
+aS'What Democratic prankster waved the train out of the station while Richard Nixon spoke from the caboose ?'
+p697
+aS'CNN is owned by whom ?'
+p698
+aS'Name the food company that traveled to Soviet Georgia to film a series of ads .'
+p699
+aS'Name of scholar on whose literal translations from the Chinese and Japanese Ezra Pound depended ?'
+p700
+aS"What former major-league left-handed baseball pitcher was known as ` ` Space Man ' ' ?"
+p701
+aS"What boxer 's life story is titled Raging Bull ?"
+p702
+aS"What was Mao 's second name ?"
+p703
+aS'What U.S. senator once played basketball for the New York Knicks ?'
+p704
+aS"Who is the composer of ` ` Canon in D Major ' ' ?"
+p705
+aS'Who invented basketball ?'
+p706
+aS'Who was the star witness at the Senate Watergate hearings ?'
+p707
+aS'What explorers followed Columbus to the Americas ?'
+p708
+aS"What was Eduard Shevardnadze 's job in the Soviet Union ?"
+p709
+aS"What famous New York City mayor wrote the hit song , ` ` Will You Love Me in December as You Do in May ? ' '"
+p710
+aS'What is the nickname of the famous flyer who mistakenly flew to Ireland instead of to Los Angeles ?'
+p711
+aS'Who shot Lee Harvey Oswald ?'
+p712
+aS'In the movie Groundshog Day what is the name of the character played by Andie MacDowell ?'
+p713
+aS'Who designed London Bridge ?'
+p714
+aS'Who was the Russian ambassador to Hungary during the 1956 uprising ?'
+p715
+aS"What comedian was banned from the Ed Sullivan Show for allegedly making an obscene gesture at the show 's host ?"
+p716
+aS'Who made a boat out of gopher wood ?'
+p717
+aS'Who is the richest person in the world ?'
+p718
+aS"Who 's the only president buried in Washington"
+p719
+aS'What Mexican leader was shot dead in 1923 ?'
+p720
+aS"Who said : ` ` Old soldiers never die ; they just fade away ' ' ?"
+p721
+aS"Name the Marvel team loosely based on DC 's Justice League of America ?"
+p722
+aS"What author landed a 468-pound marlin without harness in the early 193 's ?"
+p723
+aS"What was Darth Vader 's son named ?"
+p724
+aS'Who was Secretary of State during the Nixon administration ?'
+p725
+aS"Who protects DC Comics ' realm of dreams ?"
+p726
+aS"Who created the monster in Mary Shelley 's novel Frankenstein ?"
+p727
+aS'What card company sells Christmas ornaments ?'
+p728
+aS'Who is the Pope ?'
+p729
+aS"Who wrote the book , ` ` Song of Solomon ' ' ?"
+p730
+aS'Who holds the career record for the most major league home runs ?'
+p731
+aS'What company uses the unfamiliar faces of its celebrity spokespeople to promote the use of its product ?'
+p732
+aS"Who was the author of ` ` John Brown 's Body ' ' ?"
+p733
+aS'What actor learned to play the saxophone and speak Russian for a role in a movie ?'
+p734
+aS'Who starred in the movie The War of the Worlds ?'
+p735
+aS'What famed clown appeared on an early Howdy Doody Show and insisted that Clarabell be made up as a real clown ?'
+p736
+aS'What Spanish artist painted Crucifixion ?'
+p737
+aS'What information can you tell me about actor James Cromwell ?'
+p738
+aS'What was the nickname of Frederick I , Holy Roman Emperor and King of Germany ?'
+p739
+aS"What director portrayed the commandant of the POW camp in 1953 's Stalag 17 ?"
+p740
+aS'Who is behind the name of the Harvey Wallbanger drink ?'
+p741
+aS'Who was Buffalo Bill ?'
+p742
+aS'What Polynesian people inhabit New Zealand ?'
+p743
+aS'What major Victorian novelist spent as much time working for the post office as he did writing ?'
+p744
+aS"Who sent the brief message ` ` I came , I saw , I conquered ' ' ?"
+p745
+aS"What is the name of actor Rex Harrison 's son , who starred in a modestly popular TV show during the late 1960 's ?"
+p746
+aS'Who wrote the lyrics to Porgy and Bess ?'
+p747
+aS"Who runs Andy Capp 's favorite pub ?"
+p748
+aS'What doctor is synonymous with footwear and foot care ?'
+p749
+aS'What Hungarian cardinal was first a state prisoner and then a refugee in the U.S. embassy 1956-1971 ?'
+p750
+aS'What lawyer won the largest divorce settlement , $ 85 million , in U.S. history for Sheika Dena Al-Farri ?'
+p751
+aS'Who wrote Unsafe at Any Speed ?'
+p752
+aS'Who was the first American citizen awarded the Albert Medal of the Society of Arts ?'
+p753
+aS'Who was the Democratic nominee in the American presidential election ?'
+p754
+aS'What title did Suzette Charles assume for two months in 1984 ?'
+p755
+aS'What businesses in Alaska were affected by the Exxon Valdez oil spill ?'
+p756
+aS"Who played the original Charlie 's Angels ?"
+p757
+aS'Which is the only Dick Tracy villain to appear three times ?'
+p758
+aS'Who is the current prime minister and president of Russia ?'
+p759
+aS'Who is Langston Hughes ?'
+p760
+aS'Who succeeded Nikita Khrushchev as first secretary of the Communist Party ?'
+p761
+aS"What was football star Elroy Hirsch 's nickname ?"
+p762
+aS'What comedian hit the TV screen in 1951 with the NBC afternoon show Time for Ernie ?'
+p763
+aS"What famous actress made her first appearance on stage at the age of five in the year 191 as ` ` Baby ' ' ?"
+p764
+aS"Who was Darth Vader 's son ?"
+p765
+aS'What is the best college in the country ?'
+p766
+aS'What rock group raised a ruckus at the White House by singing American Woman ?'
+p767
+aS"What cigarette company urged us , ` ` Come to where the flavor is ? ' '"
+p768
+aS"Who 's The King of Swing ?"
+p769
+aS'Who was the first actress to appear on a postage stamp ?'
+p770
+aS'Who won the 1968 California Democratic primary ?'
+p771
+aS'Who was Red Grange ?'
+p772
+aS'What actor dressed up as Santa Claus and had a once-a-year affair with actress Shelley Winters every Christmas for many years ?'
+p773
+aS'Who played Emperor Palpatine in Star Wars ?'
+p774
+aS"Which member of Charlie 's Angels sang vocals for Josie and the Pussycats ?"
+p775
+aS'Who was the only U.S. President to wear a Nazi uniform ?'
+p776
+aS'Name the two actress daughters of John Mills .'
+p777
+aS"What TV talk-show host lends his name to a line of men 's clothing ?"
+p778
+aS'Who was the first American in space ?'
+p779
+aS'Who invented the game bowling ?'
+p780
+aS'What basketball player is credited with 23 , 924 rebounds ?'
+p781
+aS'What was the name given the 6 , 500 German airforce troops that used the Spanish Civil War as a training exercise ?'
+p782
+aS'What is a society ruled by elders ?'
+p783
+aS"Who said ` ` What contemptible scoundrel stole the cork from my lunch ? ' '"
+p784
+aS'Who invented volleyball ?'
+p785
+aS"What was called the world 's largest department store ?"
+p786
+aS'Who is the voice of Miss Piggy ?'
+p787
+aS"Who were the Yankee 's frequent enemies ?"
+p788
+aS'What was the nickname of model Leslie Hornby ?'
+p789
+aS'What daughter of Henry VIII and Anne Boleyn became queen of England ?'
+p790
+aS"What is Li 'l Abner 's last name ?"
+p791
+aS'What is the best distance education university or college ?'
+p792
+aS'Which of the following celebrities started his show-biz career as a disc jockey ?'
+p793
+aS'What celebrity couple , when going through a divorce , divided their toilet paper into two equal piles ?'
+p794
+aS'Who made the largest cocaine seizure in Ventura County history ?'
+p795
+aS'What college football team did Knute Rockne build into a power ?'
+p796
+aS'Who starred in Singing in the Rain and The Singing Nun ?'
+p797
+aS"What California governor said : ` ` Inaction may be the highest form of action ' ' ?"
+p798
+aS"Who was the author of the book about computer hackers called ` ` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage ' ' ?"
+p799
+aS"What TV family sometimes buys eclairs from Nelson 's Bakery ?"
+p800
+aS'What is the name of a Greek god ?'
+p801
+aS'What ISPs exist in the Caribbean ?'
+p802
+aS'Who was made the first honorary citizen of the U.S. ?'
+p803
+aS'Who invented Make-up ?'
+p804
+aS'Who is the Prophet of Medina ?'
+p805
+aS"What was American folk hero John Chapman 's nickname ?"
+p806
+aS'Who is the premier of China ?'
+p807
+aS"What 's the supreme policy-making bureau of the Soviet Communist Party ?"
+p808
+aS'What English physician was born on January 18 , 1779 and went on to create two important inventions ?'
+p809
+aS'What part did Benjamin Franklin play in the development of the newspaper in America ?'
+p810
+aS'What Argentine boxer was shot dead outside a Nevada brothel in May ?'
+p811
+aS'Who was the first coach of the Cleveland Browns ?'
+p812
+aS"What president 's ghost is said to haunt the White House ?"
+p813
+aS'What President hit the jogging paths to enhance his athletic image and , sporting No. 39 , almost collapsed during the road race ?'
+p814
+aS'Who tramped through Florida looking for the Fountain of Youth ?'
+p815
+aS"What English playwright penned : ` ` Where the bee sucks , so shall I ' ' ?"
+p816
+aS'Who was the lyricist and who was the composer between Gilbert and Sullivan ?'
+p817
+aS'Name the three races unleashed by the Celestials in Marvel comics .'
+p818
+aS'Who was the first person to study the stars ?'
+p819
+aS'What group asked the musical question Do You Believe in Magic ?'
+p820
+aS'Which two inventors invented Post-its ?'
+p821
+aS'Who won the Nobel Peace Prize in 1991 ?'
+p822
+aS'Who is the one Independent Member of Congress ?'
+p823
+aS"What 's the most common nickname of U.S. college football teams ?"
+p824
+aS'Who is the president of the Spanish government ?'
+p825
+aS'Who accompanied Space Ghost on his missions ?'
+p826
+aS"What artist 's studio was the Bateau-Lavoir in Montmartre ?"
+p827
+aS"What actress 's autobiography is titled Shelley : Also Known as Shirley ?"
+p828
+aS'Who was chosen to be the first black chairman of the military Joint Chiefs of Staff ?'
+p829
+aS'What six-foot temperance advocate wielded her hatchet on saloons ?'
+p830
+aS'What civilization invented the arch ?'
+p831
+aS'What baseball great plugged Mr. Coffee ?'
+p832
+aS"Who was the author of the novel ` ` Far From the Madding Crowd ' ' ?"
+p833
+aS'Who was the inventor of the stove ?'
+p834
+aS'What was the name of the lawyer who represented Randy Steven Craft ?'
+p835
+aS"What 's the name of Tom Sawyer 's aunt with whom he lives ?"
+p836
+aS'What comedian created a punch-drunk pugilist named Cauliflower McPugg ?'
+p837
+aS'Who is Colin Powell ?'
+p838
+aS"Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?"
+p839
+aS'What is the name of the deranged super-criminal Otto Octavius uses ?'
+p840
+aS"What diamond producer controls about 80 % of the world 's diamonds ?"
+p841
+aS'Which organization is the Security Council a part of ?'
+p842
+aS'Who is Nicolo Paganini ?'
+p843
+aS'Who gave Abbie Hoffman his first dose of LSD ?'
+p844
+aS'What famous male vocalist has the same name as the composer of the opera Hansel and Gretel ?'
+p845
+aS'What organization did Mr. Waverly assign agents for ?'
+p846
+aS'Who lives at 39 Stone Canyon Way ?'
+p847
+aS'What video game hero do some of his fans call Chomper ?'
+p848
+aS'Who was the first woman governor of Wyoming ?'
+p849
+aS"Who was Randy Steven Craft 's lawyer ?"
+p850
+aS"Who makes chicken ` ` finger lickin ' ' good ?"
+p851
+aS'Who invented the Moog Synthesizer ?'
+p852
+aS'What is the name of the inventor of silly putty ?'
+p853
+aS'Who founded the Unification Church ?'
+p854
+aS'What mustachioed comedian portrayed Frankie in North to Alaska ?'
+p855
+aS'What was the Christian name of the title character in Our Miss Brooks ?'
+p856
+aS'What President became Chief Justice after his presidency ?'
+p857
+aS'Whose cupboard was bare ?'
+p858
+aS'Who made the first airplane ?'
+p859
+aS'What company makes impulse hardening equipment ?'
+p860
+aS"What is Dr. Ruth 's last name ?"
+p861
+aS"Who reports the weather on the ` ` Good Morning America ' ' television show ?"
+p862
+aS'Who followed Caesar ?'
+p863
+aS'Who portrayed W.C. Fields in the film W.C. Fields and Me ?'
+p864
+aS'What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?'
+p865
+aS'Which king signed the Magna Carta ?'
+p866
+aS"Who wrote ` ` The Pit and the Pendulum ' ' ?"
+p867
+aS"Who markets Spaghetti-o 's ?"
+p868
+aS'Who found Hawaii ?'
+p869
+aS"Who took the toys donated for the Doodyville Orphans ' Fund and kept them for himself ?"
+p870
+aS'Name the various costumed personas of Dr. Henry Pym .'
+p871
+aS'What record company was formed by Herb Alpert and Jerry Moss ?'
+p872
+aS'What suburban housewife and mother of three wrote The Feminine Mystique ?'
+p873
+aS'Who was the most famous food editor of The New York Times ?'
+p874
+aS"Who 's the founder and editor of The National Review ?"
+p875
+aS'Who wrote The Ugly Duckling ?'
+p876
+aS'Who painted the Sistine Chapel ?'
+p877
+aS"Name the creator of ` ` The Muppets ' ' ."
+p878
+aS'Who is Terrence Malick ?'
+p879
+aS"Who sang the song ` ` Hooked on a Feeling ' ' in the dancing baby episode of ` ` Ally Mcbeal ' ' ?"
+p880
+aS'Who is Stein Eriksen ?'
+p881
+aS"What actress starred in ` ` The Lion in Winter ' ' ?"
+p882
+aS"Who 's won the most Oscars for costume design ?"
+p883
+aS'Which German president was pressured into appointing Hitler chancellor in 1933 ?'
+p884
+aS"Who made the deodorant that claimed that it ` ` actually builds up resistance to odor ' ' ?"
+p885
+aS"Name Randy Craft 's lawyer ."
+p886
+aS'What Batman character tools around on a Batcycle ?'
+p887
+aS"What was Mao , the Chinese leader 's , full name ?"
+p888
+aS"What TV character said ; ` ` One of these days , Alice , pow , right in the kisser ' ' ?"
+p889
+aS'What bestselling modern poet was the co-founder of the famous City Lights Bookshop in San Francisco ?'
+p890
+aS'Who played the title role in The Romantic Englishwoman ?'
+p891
+aS"Who is Olive Oyl 's brother ?"
+p892
+aS'Who was Picasso ?'
+p893
+aS'Which college did Dikembe Mutombo play basketball for ?'
+p894
+aS'What President dispatched a cruiser to carry Charles Lindbergh home after his epic flight ?'
+p895
+aS'Who was International Olympic Committee chairman at the 1936 Summer Games ?'
+p896
+aS'What famous comic strip character died of acne ?'
+p897
+aS'Who kept the most famous diary in the English language ?'
+p898
+aS"What are the names of Jacques Cousteau 's two sons ?"
+p899
+aS'What task does the Bouvier breed of dog perform ?'
+p900
+aS'Whose funeral train traveled from Washington D.C. to Springfield , Illinois ?'
+p901
+aS'Name the fast food chain with the golden arches .'
+p902
+aS'Who did Arthur H. Bremer try to assassinate on May 15 , 1972 ?'
+p903
+aS'What U.S. general died December 1 , 1945 , when his jeep collided with a truck ?'
+p904
+aS'What journalist can be found in and around Walden Puddle ?'
+p905
+aS'Who sang about Desmond and Molly Jones ?'
+p906
+aS'What pillar of the Dutch Renaissance painted Aristotle Contemplating the Bust of Homer ?'
+p907
+aS"What was Michelangelo 's last name ?"
+p908
+aS"Who was the Columbia Pictures head who forged actor Cliff Robertson 's name on a $ 1 , 000 check ?"
+p909
+aS"What U.S. Congressman said : ` ` Keep the faith , baby ' ' ."
+p910
+aS'Who portrayed the title character in the film The Day of the Jackal ?'
+p911
+aS"Who is Mia Farrow 's mother ?"
+p912
+aS"Who coined the term NN cyberspace ` ` in his novel NN Neuromancer ' ' ?"
+p913
+aS'Whose husbands have included Conrad Hilton Jr. , and Michael Wilding ?'
+p914
+aS"Who did Doris Day mean when she said : ` ` I call him Ernie because he 's certainly no Rock ' ' ?"
+p915
+aS'Who is Count Cinzano ?'
+p916
+aS'What are the residents of the island of Lesbos called ?'
+p917
+aS'Who won the 1967 Academy Award for Best Actor ?'
+p918
+aS'Who is the current UN Secretary General ?'
+p919
+aS"Who wrote the book , ` ` Huckleberry Finn ' ' ?"
+p920
+aS"What is Larry King 's job ?"
+p921
+aS'Name a ballet company Mikhail Baryshnikov has danced for ?'
+p922
+aS'What bread company used to feature stickers of the Cisco Kid on the ends of their packages ?'
+p923
+aS'Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?'
+p924
+aS'Who invented the electric guitar ?'
+p925
+aS'Who invented the stethoscope ?'
+p926
+aS'What group was formed in 1969 after police met resistance from patrons at the Stonewall , a Greenwich Village gay bar ?'
+p927
+aS'Which one of the original seven Mercury program astronauts did not fly on any of the Mercury flights ?'
+p928
+aS'What U.S. President had brothers-in-law in the Confederate army ?'
+p929
+aS"Which of the following rock 'n roll stars has a ` ` star ' ' on Hollywood Boulevard ?"
+p930
+aS'What Pope inaugurated Vatican International Radio ?'
+p931
+aS'Who was Confucius ?'
+p932
+aS"What was the player 's name who played nose tackle for the Eagles in Super Bowl XV ?"
+p933
+aS'Who won the first general election for President held in Malawi in May 1994 ?'
+p934
+aS'Who is the prophet of the religion of Islam ?'
+p935
+aS'The name of the actor who played the detective in the film Kindergarden Cop is what ?'
+p936
+aS"Who portrayed ` ` the man without a face ' ' in the movie of the same name ?"
+p937
+aS'Who is Barbara Jordan ?'
+p938
+aS"Who said : ` ` The victor will never be asked if he told the truth ' ' ?"
+p939
+aS'Name the tree growing company .'
+p940
+aS"Who is the son-in-law of Sen. Everett Dirkson who was also a senator in the '70 's ?"
+p941
+aS'What radio station did Paul Harvey work for ?'
+p942
+aS'Who is Johnny Carson ?'
+p943
+aS'Which of the following people is not associated with Andy Warhol ?'
+p944
+aS'What Japanese manufacturer is known for both its pianos and its motorcycles ?'
+p945
+aS'What level of government or governmental agency is responsible for dealing with racism ?'
+p946
+aS'Who was President of Afghanistan in 1994 ?'
+p947
+aS'Name the two youngsters saved by the animated Moby Dick .'
+p948
+aS'Who is the prime minister of Australia ?'
+p949
+aS"In Dana 's ` ` Two Years Before the Mast , ' ' what seafarers lived in an abandoned oven on the beach at San Diego ?"
+p950
+aS"What famous coach said ` ` if you can 't beat 'em in the alley , you can 't beat 'em on the ice ' ' ?"
+p951
+aS"Who was Lauren Bacall 's first husband ?"
+p952
+aS'What jockey won 17 Triple Crown races ?'
+p953
+aS'What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?'
+p954
+aS"Which Bourbon king was restored to the French throne during Napoleon 's abdication ?"
+p955
+aS"What 's the middle name of movie producer Joseph E. Levine ?"
+p956
+aS"What was the name of Randy Craft 's lawyer ?"
+p957
+aS"Who plays the cop in the movie ` ` Kindergarten Cop ' ' ?"
+p958
+aS'What was the name of the 187s Irish terrorist group in Pennsylvania mining areas ?'
+p959
+aS'Who is John Macarthur , 1767-1834 ?'
+p960
+aS'What crooner joined The Andrews Sisters for Pistol Packin Mama ?'
+p961
+aS"What American poet wrote : ` ` Good fences make good neighbors ' ' ?"
+p962
+aS"What is Drew Barrymore 's middle name ?"
+p963
+aS'Who replaced Bert Parks as the host of The Miss America Pageant ?'
+p964
+aS'Whom did Lauren Bacall marry after her husband Humphrey Bogart died ?'
+p965
+aS'What college produced the most winning Super Bowl quarterbacks ?'
+p966
+aS"Who is the ` ` Queen Mother ' ' ?"
+p967
+aS'Who is reputed to be the greatest maker of violins ?'
+p968
+aS'Who liberated 19th century Sicily and Naples ?'
+p969
+aS'Name the five positions who are in the line of succession to the presidency .'
+p970
+aS"Who was credited with saying : ` ` I never met a man I did n't like ' ' ?"
+p971
+aS'Who was the conservationist who served as spokesperson for Post Grape Nuts ?'
+p972
+aS'Who portrayed Prewett in From Here to Eternity ?'
+p973
+aS'Who is the head of the World Bank ?'
+p974
+aS'What is the occupation of Nicholas Cage ?'
+p975
+aS'Whose biography by Maurice Zolotow is titled Shooting Star ?'
+p976
+aS'Who is William Wordsworth ?'
+p977
+aS"What apostle is Taylor Caldwell 's Great Lion of God ?"
+p978
+aS'Who was the tallest U.S. president ?'
+p979
+aS"What stereo manufacturer is ` ` Slightly ahead of its time ' ' ?"
+p980
+aS"Who sings the song ` ` Drink to me with thine eyes ' ' by Ben Johnson ?"
+p981
+aS'Who is the founder of Scientology ?'
+p982
+aS'What attorney-general ordered the closing of Alcatraz ?'
+p983
+aS"Who painted ` ` Soft Self-Portrait with Grilled Bacon ' ' ?"
+p984
+aS'What actor , who had greatest fame on TV , became the father of triplets ?'
+p985
+aS"Who played the father on ` ` Charles in Charge ' ' ?"
+p986
+aS'What are the only players eligible to score points in Roller Derby called ?'
+p987
+aS"What wrestling star became ` ` The Incredible Hulk ' ' ?"
+p988
+aS'Who co-starred with Julie Andrews in Mary Poppins ?'
+p989
+aS'What was the name of the first Watergate special prosecutor , later fired by Nixon ?'
+p990
+aS'What university football team did O.J. Simpson take to the Rose Bowl ?'
+p991
+aS'Who was the first President to appoint a woman to head a cabinet ?'
+p992
+aS"What was the name of the Titanic 's captain ?"
+p993
+aS"What actor married John F. Kennedy 's sister ?"
+p994
+aS'Who made the first airplane that could fly ?'
+p995
+aS"What doctor claimed in a 1946 book : ` ` There is no such thing as a bad boy ' ' ?"
+p996
+aS'Who directed the first Woody Woodpecker cartoon ?'
+p997
+aS'What heavyweight boxer was known as The Wild Bull of the Pampas ?'
+p998
+aS'Who won two gold medals in skiing in the Olympic Games in Calgary ?'
+p999
+aS'Who became president of the U.S. in 1789 ?'
+p1000
+aS'Who is the President of Ghana ?'
+p1001
+aS'What is her profession ?'
+p1002
+aS'What government department did The Untouchables work for ?'
+p1003
+aS'What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?'
+p1004
+aS'Who is the superstar in rent-a-cars ?'
+p1005
+aS"What British monarch 's lap did P.T. Barnum 's Tom Thumb sit in ?"
+p1006
+aS'What high school does Archie attend ?'
+p1007
+aS'Name the organization that is presided by a Security Council .'
+p1008
+aS'What female faith healer wrote the inspirational book I Believe in Miracles ?'
+p1009
+aS'What 2th-century American poet wrote a four-volume biography of Abraham Lincoln ?'
+p1010
+aS"What company markets a shampoo ` ` for brunettes only ' ' ?"
+p1011
+aS'Who was the first black performer to have his own network TV show ?'
+p1012
+aS'Who created Dennis the Menace ?'
+p1013
+aS"What were Babe Ruth 's Christian names ?"
+p1014
+aS'With whom did Bush compare Saddam Hussein ?'
+p1015
+aS'What American won the world Grand Prix driving championship in 1978 ?'
+p1016
+aS"Who portrayed ` ` Rosanne Rosanna-Dana ' ' on the television show ` ` Saturday Night Live ' ' ?"
+p1017
+aS'What Russian master spy lived in the U.S. under the name Emil Goldfus ?'
+p1018
+aS'Who was the first jockey to ride two Triple Crown winners ?'
+p1019
+aS"What kind of people took part in Shays ' Rebellion in Massachusetts in 1787 ?"
+p1020
+aS'What record company produced the 1978 movie The Wiz ?'
+p1021
+aS'Who are the Challengers of the Unknown ?'
+p1022
+aS'Who was the first woman to fly solo across the Atlantic ?'
+p1023
+aS"What is Nicholas Cage 's profession ?"
+p1024
+aS'What store does Martha Stewart advertise for ?'
+p1025
+aS'Whose cover is that of an employee of Universal Import and Export ?'
+p1026
+aS'Who is section manager for guidance and control systems at JPL ?'
+p1027
+aS'What first name was Nipsy Russell given at birth ?'
+p1028
+aS"What American League baseball team 's worst finish between 1926 and 1964 was fourth ?"
+p1029
+aS'Who is Samuel Pickering ?'
+p1030
+aS"Who wrote the song , ` ` Silent Night ' ' ?"
+p1031
+aS"Who wrote ` Hamlet ' ?"
+p1032
+aS'Who sought to create The Great Society ?'
+p1033
+aS"Who wrote ` ` The Scarlet Letter ' ' ?"
+p1034
+aS'What were the last names of gangsters Bonnie and Clyde ?'
+p1035
+aS'Who is the leader of Brunei ?'
+p1036
+aS"What actor starred in 1980 's Blue Lagoon , 1982 's The Pirate Movie and 1983 's A Night in Heaven ?"
+p1037
+aS'Which Doonesbury character was likely to turn into a werewolf ?'
+p1038
+aS'Who was the star of Leave It to Beaver ?'
+p1039
+aS'What fool is not so wise To lose an oath to win a paradise ?'
+p1040
+aS'Who was The Pride of the Yankees ?'
+p1041
+aS'What organization is the Security Council a part of ?'
+p1042
+aS'Who shoplifts ?'
+p1043
+aS"What 's comic strip photographer Peter Parker 's secret identity ?"
+p1044
+aS'What does Robin Williams do ?'
+p1045
+aS"What classical Spanish writer warned : ` ` All that glitters is not gold ' ' ?"
+p1046
+aS"Who said : ` ` What contemptible scoundrel stole the cork from my lunch ? ' '"
+p1047
+aS'Who domesticated the wild turkey ?'
+p1048
+aS'What is the name of the woman who was with John Belushi when he died ?'
+p1049
+aS"Who is Snoopy 's arch-enemy ?"
+p1050
+aS'What university fired Angela Davis ?'
+p1051
+aS"What is Michael Jackson 's middle name ?"
+p1052
+aS'Who did Napolean defeat at Jena and Auerstadt ?'
+p1053
+aS'What 19th-century painter died in the Marquesas Islands ?'
+p1054
+aS"What is Goldfinger 's first name ?"
+p1055
+aS'Who was Garrett Morgan married to ?'
+p1056
+aS'What are the major companies that are part of Dow Jones ?'
+p1057
+aS"What are Arnold Palmer 's fans called ?"
+p1058
+aS"What fast-food magnate 's initials graced the left sleeve of the San Diego Padres ' baseball uniforms in 1984 ?"
+p1059
+aS'What actor has a tattoo on his right wrist reading Scotland Forever ?'
+p1060
+aS'Who created Billy Pilgrim , a survivor of the Dresden firestorm ?'
+p1061
+aS'What company is the largest Japanese ship builder ?'
+p1062
+aS'What Scottish poet penned To a Mouse and To a Louse ?'
+p1063
+aS"Who advised listeners to ` ` see the U.S.A. in your Chevrolet ' ' ?"
+p1064
+aS'What character did Tex Avery first create upon arriving at MGM ?'
+p1065
+aS'Who was the star of the 1965 Broadway hit Golden Boy ?'
+p1066
+aS'Who was the first governor of West Virginia ?'
+p1067
+aS"What toy company is the world 's No.1 maker of female apparel ?"
+p1068
+aS'What was the name of the Confederate mounted guerrilla group with which Jesse James and Coleman Younger had ridden ?'
+p1069
+aS'Who created Harry Lime ?'
+p1070
+aS'Whose video is titled Shape Up with Arnold ?'
+p1071
+aS"What is the real name of disc jockey ` ` Wolfman Jack ' ' ?"
+p1072
+aS'When Mighty Mouse was conceived , what was his original name ?'
+p1073
+aS'What woman pitcher has struck out Ted Williams and Hank Aaron ?'
+p1074
+aS'What major league baseball team compiled the best won-lost record between 1957 and 1983 ?'
+p1075
+aS"Who has the only speaking role in ` ` Silent Movie ' ' ?"
+p1076
+aS'Who was Monet ?'
+p1077
+aS"What television network flogged its sports programming on Inga Nielsen 's body in 197 ?"
+p1078
+aS"What architect originated the glass house designed the Chicago Federal Center had a philosophy of ` ` less is more , ' ' and produced plans that were the forerunner of the California ranch house ?"
+p1079
+aS'Who was the accused in The Trial of the Century , which opened Janurary 1 , 1935 ?'
+p1080
+aS'Who died with more than 1 , 000 U.S. patents to his credit ?'
+p1081
+aS'Who is the Greek God of the Sea ?'
+p1082
+aS"What was the name of the director of the movie ` ` Jaws ' ' ?"
+p1083
+aS'Who died 1 feet from where John F. Kennedy did ?'
+p1084
+aS"Who does Shakespeare 's Antonio borrow 3 , 0 ducats from ?"
+p1085
+aS'Who commanded the French forces at the Battle of Orleans ?'
+p1086
+aS'What TV character sired a horse named Thunder ?'
+p1087
+aS'Name the person who burst through the screen in the Lite beer commercials .'
+p1088
+aS'Who played Sally Rogers on The Dick Van Dyke Show ?'
+p1089
+aS'Which glamorous actress is a close friend of Dick Tracy ?'
+p1090
+aS'Which of the following men was not married to Rita Hayworth ?'
+p1091
+aS'Who is the monarch of the United Kingdom ?'
+p1092
+aS'What was the name of the lawyer who represented Randy Craft ?'
+p1093
+aS'Who taught Matt Murdock to use his extraordinary abilities in Marvel comics ?'
+p1094
+aS'What British general surrendered to the colonial army at Saratoga ?'
+p1095
+aS'Who was the 16th President of the United States ?'
+p1096
+aS'Which Bloom County resident wreaks havoc with a computer ?'
+p1097
+aS'What U.S. Air Force general led the first bombing raid over Tokyo ?'
+p1098
+aS"Who asked the musical question : ` ` Have you ever been to electric lady land ? ' '"
+p1099
+aS'Which presidents of the USA were Masons ?'
+p1100
+aS'Name the first Russian astronaut to do a spacewalk .'
+p1101
+aS'Who was the first English circumnavigator of the globe ?'
+p1102
+aS'What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?'
+p1103
+aS'What little boy and dog live in a shoe ?'
+p1104
+aS"What organization 's offices were broken into at Watergate in 1972 ?"
+p1105
+aS'What spy novelist served as Moscow correspondent for Reuter and The Times of London ?'
+p1106
+aS'What buxom blonde appeared on the cover of more than 5 magazines ?'
+p1107
+aS'Who was the first black to be head coach of a major league pro sports team ?'
+p1108
+aS'What author was appointed U.S. ambassador to Spain in 1842 ?'
+p1109
+aS'Who was the lawyer for Randy Craft ?'
+p1110
+aS"What was Fred Astaire 's dancing partner 's name ?"
+p1111
+aS'What corporation does Madonna advertise for ?'
+p1112
+aS"What French designer declared : ` ` The jean is the destructor ! It is a dictator ! It is destroying creativity. The jean must be stopped ! ' ' ?"
+p1113
+aS"What knighted actor narrates TV 's The World at War ?"
+p1114
+aS'Who starred with Charlie Chaplin in Modern Times and The Great Dictator ?'
+p1115
+aS'What is the name of the managing director of Apricot Computer ?'
+p1116
+aS"Who wrote ` Dubliners ' ?"
+p1117
+aS'Who do Herb and Tootsie live next door to ?'
+p1118
+aS'Who was the first host of Person to Person ?'
+p1119
+aS"Which Rockefeller was sometimes called ` ` JDR3 ' ' ?"
+p1120
+aS'Who is the actress Bette Davis once said she wished she looked like ?'
+p1121
+aS'Which of the following TV newsmen was a Rhodes scholar ?'
+p1122
+aS'Who is the prophet that is most connected to the Dead Sea ?'
+p1123
+aS"Who is the nebbish that is Marvel 's official mascot ?"
+p1124
+aS'Which high schools are included in the South Florida Ice Hockey league ?'
+p1125
+aS"Who is Pia Zadora 's millionaire husband and mentor ?"
+p1126
+aS'Who is the famous movie star who also acted as sewer commissioner of Provo Canyon , Utah ?'
+p1127
+aS"Which classical Spanish writer said ` ` All that glitters is not gold ' ' ?"
+p1128
+aS'Who invented panties ?'
+p1129
+aS"What king is satirized in the line : ` ` The King was in the countinghouse , counting all his money ' ' ?"
+p1130
+aS'What was the name of the US helicopter pilot shot down over North Korea ?'
+p1131
+aS'Who was the actor who played Sam in the movie Casablanca ?'
+p1132
+aS'What ethnic group introduced the idea of potlatch ?'
+p1133
+aS"Which company that manufactures video-game hardware sells the ` ` super system ' ' ?"
+p1134
+aS"Who invented ` ` The Muppets ' ' ?"
+p1135
+aS'Who was Maria Theresa ?'
+p1136
+aS'What kind of women gave Sigmund Freud erotic dreams ?'
+p1137
+aS'What new middle school was built in Philadelphia , Pennsylvania last year ?'
+p1138
+aS'What are names of two old men who appear in the serial tv Muppets Show ?'
+p1139
+aS'What costume designer decided that Michael Jackson should only wear one glove ?'
+p1140
+aS"What 's the most common surname in America ?"
+p1141
+aS'Who made the musical plea Be True to Your School ?'
+p1142
+aS'Who was the lawyer who represented Randy Steven Craft ?'
+p1143
+aS'Who told all in Ball Four ?'
+p1144
+aS'Who famously rode to warn the people of Massachusetts that the British were coming ?'
+p1145
+aS'What engineer invented the pull-tab can ?'
+p1146
+aS'What is the name of the firm that makes Spumante ?'
+p1147
+aS'Who was Whitcomb Judson ?'
+p1148
+aS"Who was actress June Havoc 's legendary sister ?"
+p1149
+aS"Which of the following did not receive a 1983 ` ` Outstanding Mother Award ' ' from the National Mother 's Day Committee ?"
+p1150
+aS"Who directed ` ` Jaws ' ' ?"
+p1151
+aS'What college did Joe Namath play football for ?'
+p1152
+aS"What was Thatcher 's first name ?"
+p1153
+aS'What police force did Mack Sennett create ?'
+p1154
+aS"Who is the author of the book , ` ` The Iron Lady : A Biography of Margaret Thatcher ' ' ?"
+p1155
+aS"What is Michael Jackson 's father 's name ?"
+p1156
+aS'Who is the fastest swimmer in the world ?'
+p1157
+aS'Who shot and killed himself while painting Wheatfield with Crows ?'
+p1158
+aS'Name one of the major gods of Hinduism .'
+p1159
+aS'What English queen had seventeen children ?'
+p1160
+aS"Who was Samuel Johnsons 's friend and biographer ?"
+p1161
+aS'What cheery fellow got the ZIP code 9971 from the U.S. Postal Service in 1963 ?'
+p1162
+aS'What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars ?'
+p1163
+aS'What comedian has a legendary reputation for stealing jokes ?'
+p1164
+aS'What is the most common name ?'
+p1165
+aS'What Cruise Line does Kathie Lee Gifford advertise for ?'
+p1166
+aS'What NFL team did Vince Lombardi end his coaching career with ?'
+p1167
+aS'Who played Al Jolson in the Jolson Story ?'
+p1168
+aS'What famous soldier was born in Europe , died in Asia , and was laid to rest in Africa ?'
+p1169
+aS'What Hall of Fame pitcher started three World Series Games for the New York Yankees in 1962 ?'
+p1170
+aS'What are the top ten most common girl names in the US ?'
+p1171
+aS'What role do fruits play in the survival of plants ?'
+p1172
+aS'Who are the top 10 richest people in the world ?'
+p1173
+aS'Name the Four Horsemen of the Apocalypse .'
+p1174
+aS'Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?'
+p1175
+aS"Who are cartoondom 's Super Six ?"
+p1176
+aS'Who is Edmund Kemper ?'
+p1177
+aS"Who wrote the song , ` ` Stardust ' ' ?"
+p1178
+aS'Who wrote The Red Badge of Courage ?'
+p1179
+aS"What did Andy Hardy 's father do for a living ?"
+p1180
+aS'What court does Bob Woodward describe in The Brethren ?'
+p1181
+aS'Who did Sara Jane Moore try to assassinate ?'
+p1182
+aS'Who first broke the sound barrier ?'
+p1183
+aS"Who declared : ` ` I think I 'll go out and milk the elk ' ' ?"
+p1184
+aS'What was the infamous pseudonym of Peter Sutcliffe ?'
+p1185
+aS'Who is Ishmael in Moby Dick ?'
+p1186
+aS'Who invented the vacuum cleaner ?'
+p1187
+aS"What 's the most common name in nursery rhymes ?"
+p1188
+aS'Who is considered The First Lady of the American Stage ?'
+p1189
+aS"What company named one of its pens ` ` The Banana ' ' ?"
+p1190
+aS"Whose old London come-on was : ` ` Buy my sweet lavender ' ' ?"
+p1191
+aS'Who was Quetzalcoatl ?'
+p1192
+aS'What famous film and TV cowboy lent his name to a fast food chain ?'
+p1193
+aS'Who was the first black golfer to tee off in the Masters ?'
+p1194
+aS'Who invented the process to make condensed milk ?'
+p1195
+aS'Whose kidnaping was termed The Crime of the Century ?'
+p1196
+aS'Who murdered Leno and Rosemary LaBianca on August 1'
+p1197
+aS"Name Dondi 's adoptive grandfather ."
+p1198
+aS"Name of heroine in ` ` Scruples ' ' ?"
+p1199
+aS"What is the world 's largest distilling company ?"
+p1200
+aS'What Louisiana Senator won a seat that had been held by his father and mother ?'
+p1201
+aS'Who shared a New York City apartment with Roger Maris the year he hit 61 home runs ?'
+p1202
+aS'Who invented the road traffic cone ?'
+p1203
+aS'Who invented baseball ?'
+p1204
+aS'Whose image is alleged to be on The Shroud of Turin ?'
+p1205
+aS"What Frenchman claimed the following ? If God did not exist , it would be necessary to invent him . ' '"
+p1206
+aS'Who created Maudie Frickett ?'
+p1207
+aS'Who did Jackie Kennedy commission to write The Death of a President ?'
+p1208
+aS'Who was Damocles ?'
+p1209
+aS"Who wrote ` The Pines of Rome ' ?"
+p1210
+aS'What barroom judge called himself The Law West of the Pecos ?'
+p1211
+aS'Who was with Patricia Hearst the night she was kidnaped ?'
+p1212
+aS'What British prime minister and U.S. president were seventh cousins once-removed ?'
+p1213
+aS"What is Nathan Hamill 's role in the new Star Wars prequel ?"
+p1214
+aS'What U.S. President was the first to breed mules ?'
+p1215
+aS'Who wrote Sons and Lovers ?'
+p1216
+aS"Who said ` ` Give me liberty or give me death ' ' ?"
+p1217
+aS'Which college did Dikembe Mutombo play basketball at ?'
+p1218
+aS'What Catch-22 character is elected mayor of half a dozen Italian cities ?'
+p1219
+aS'Who portrayed portly criminologist Carl Hyatt on Checkmate ?'
+p1220
+aS"Which Ventura County police department seized the largest cocaine shipment in it 's history ?"
+p1221
+aS'Who was the first Taiwanese President ?'
+p1222
+aS'What well-known TV talk show host was a lay preacher by the time he was seventeen ?'
+p1223
+aS'What group included Abbey Hoffman , Jerry Rubin , and Tom Hayden ?'
+p1224
+aS"Who gave us the ` ` Rolling Writer ' ' ?"
+p1225
+aS'Who played Lucas McCain on The Rifleman ?'
+p1226
+aS'Who does data collection in tourism ?'
+p1227
+aS'Who is the richest person in the world , without owning a business ?'
+p1228
+aS'What Asian leader was known as The Little Brown Saint ?'
+p1229
+asS'target'
+p1230
+cnumpy.core.multiarray
+_reconstruct
+p1231
+(cnumpy
+ndarray
+p1232
+(I0
+tp1233
+S'b'
+p1234
+tp1235
+Rp1236
+(I1
+(I1223
+tp1237
+cnumpy
+dtype
+p1238
+(S'i8'
+p1239
+I0
+I1
+tp1240
+Rp1241
+(I3
+S'<'
+p1242
+NNNI-1
+I-1
+I0
+tp1243
+bI00
+S'\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00'
+p1244
+tp1245
+bsS'target_names'
+p1246
+(lp1247
+S'desc'
+p1248
+aS'gr'
+p1249
+aS'ind'
+p1250
+aS'title'
+p1251
+asS'filenames'
+p1252
+g1231
+(g1232
+(I0
+tp1253
+g1234
+tp1254
+Rp1255
+(I1
+(I1223
+tp1256
+g1238
+(S'S18'
+p1257
+I0
+I1
+tp1258
+Rp1259
+(I3
+S'|'
+p1260
+NNNI18
+I1
+I0
+tp1261
+bI00
+S'HUM/ind/3196.txt\x00\x00HUM/gr/5435.txt\x00\x00\x00HUM/gr/3744.txt\x00\x00\x00HUM/ind/3264.txt\x00\x00HUM/ind/4471.txt\x00\x00HUM/gr/4218.txt\x00\x00\x00HUM/ind/5425.txt\x00\x00HUM/gr/2747.txt\x00\x00\x00HUM/ind/2975.txt\x00\x00HUM/ind/2637.txt\x00\x00HUM/ind/4028.txt\x00\x00HUM/ind/1747.txt\x00\x00HUM/ind/346.txt\x00\x00\x00HUM/ind/2943.txt\x00\x00HUM/gr/2523.txt\x00\x00\x00HUM/ind/2842.txt\x00\x00HUM/ind/4419.txt\x00\x00HUM/ind/1644.txt\x00\x00HUM/ind/3444.txt\x00\x00HUM/ind/3026.txt\x00\x00HUM/ind/1648.txt\x00\x00HUM/ind/3519.txt\x00\x00HUM/desc/659.txt\x00\x00HUM/ind/3268.txt\x00\x00HUM/ind/4905.txt\x00\x00HUM/ind/1360.txt\x00\x00HUM/ind/1609.txt\x00\x00HUM/ind/524.txt\x00\x00\x00HUM/ind/4161.txt\x00\x00HUM/ind/1226.txt\x00\x00HUM/ind/205.txt\x00\x00\x00HUM/ind/5378.txt\x00\x00HUM/ind/2872.txt\x00\x00HUM/ind/3616.txt\x00\x00HUM/title/707.txt\x00HUM/ind/4469.txt\x00\x00HUM/desc/633.txt\x00\x00HUM/ind/3668.txt\x00\x00HUM/gr/4968.txt\x00\x00\x00HUM/ind/2964.txt\x00\x00HUM/ind/431.txt\x00\x00\x00HUM/ind/2010.txt\x00\x00HUM/ind/2958.txt\x00\x00HUM/ind/3413.txt\x00\x00HUM/ind/426.txt\x00\x00\x00HUM/ind/3568.txt\x00\x00HUM/ind/486.txt\x00\x00\x00HUM/ind/1724.txt\x00\x00HUM/ind/4845.txt\x00\x00HUM/ind/973.txt\x00\x00\x00HUM/ind/4468.txt\x00\x00HUM/gr/2422.txt\x00\x00\x00HUM/ind/275.txt\x00\x00\x00HUM/ind/1328.txt\x00\x00HUM/gr/1740.txt\x00\x00\x00HUM/gr/175.txt\x00\x00\x00\x00HUM/gr/900.txt\x00\x00\x00\x00HUM/ind/3023.txt\x00\x00HUM/ind/2639.txt\x00\x00HUM/ind/2214.txt\x00\x00HUM/ind/1206.txt\x00\x00HUM/ind/3081.txt\x00\x00HUM/ind/1252.txt\x00\x00HUM/gr/1053.txt\x00\x00\x00HUM/ind/5126.txt\x00\x00HUM/gr/3098.txt\x00\x00\x00HUM/ind/1914.txt\x00\x00HUM/ind/5317.txt\x00\x00HUM/ind/3682.txt\x00\x00HUM/ind/463.txt\x00\x00\x00HUM/ind/725.txt\x00\x00\x00HUM/ind/4451.txt\x00\x00HUM/ind/5062.txt\x00\x00HUM/gr/1643.txt\x00\x00\x00HUM/title/4502.txtHUM/desc/3447.txt\x00HUM/ind/2868.txt\x00\x00HUM/gr/3045.txt\x00\x00\x00HUM/gr/1308.txt\x00\x00\x00HUM/ind/3024.txt\x00\x00HUM/ind/4627.txt\x00\x00HUM/ind/1526.txt\x00\x00HUM/gr/1799.txt\x00\x00\x00HUM/ind/4074.txt\x00\x00HUM/ind/583.txt\x00\x00\x00HUM/ind/1730.txt\x00\x00HUM/ind/3771.txt\x00\x00HUM/ind/594.txt\x00\x00\x00HUM/ind/1418.txt\x00\x00HUM/ind/2711.txt\x00\x00HUM/ind/4198.txt\x00\x00HUM/ind/4606.txt\x00\x00HUM/ind/3222.txt\x00\x00HUM/gr/1122.txt\x00\x00\x00HUM/ind/1440.txt\x00\x00HUM/ind/3955.txt\x00\x00HUM/gr/5252.txt\x00\x00\x00HUM/ind/2541.txt\x00\x00HUM/title/5158.txtHUM/ind/4683.txt\x00\x00HUM/gr/4264.txt\x00\x00\x00HUM/ind/3633.txt\x00\x00HUM/gr/1233.txt\x00\x00\x00HUM/ind/805.txt\x00\x00\x00HUM/ind/3238.txt\x00\x00HUM/ind/45.txt\x00\x00\x00\x00HUM/gr/128.txt\x00\x00\x00\x00HUM/gr/1910.txt\x00\x00\x00HUM/ind/4798.txt\x00\x00HUM/ind/944.txt\x00\x00\x00HUM/gr/2608.txt\x00\x00\x00HUM/ind/4382.txt\x00\x00HUM/ind/940.txt\x00\x00\x00HUM/ind/4197.txt\x00\x00HUM/ind/4754.txt\x00\x00HUM/ind/273.txt\x00\x00\x00HUM/ind/2267.txt\x00\x00HUM/ind/3836.txt\x00\x00HUM/ind/2043.txt\x00\x00HUM/ind/3266.txt\x00\x00HUM/ind/2246.txt\x00\x00HUM/ind/1173.txt\x00\x00HUM/ind/4777.txt\x00\x00HUM/ind/196.txt\x00\x00\x00HUM/ind/2670.txt\x00\x00HUM/ind/3161.txt\x00\x00HUM/ind/4064.txt\x00\x00HUM/ind/1402.txt\x00\x00HUM/ind/3563.txt\x00\x00HUM/ind/2221.txt\x00\x00HUM/ind/172.txt\x00\x00\x00HUM/ind/2844.txt\x00\x00HUM/ind/450.txt\x00\x00\x00HUM/ind/4042.txt\x00\x00HUM/ind/1317.txt\x00\x00HUM/ind/5049.txt\x00\x00HUM/ind/372.txt\x00\x00\x00HUM/ind/105.txt\x00\x00\x00HUM/ind/336.txt\x00\x00\x00HUM/ind/4838.txt\x00\x00HUM/ind/2917.txt\x00\x00HUM/gr/4402.txt\x00\x00\x00HUM/ind/4925.txt\x00\x00HUM/ind/986.txt\x00\x00\x00HUM/ind/1861.txt\x00\x00HUM/ind/4563.txt\x00\x00HUM/ind/4306.txt\x00\x00HUM/ind/3440.txt\x00\x00HUM/ind/890.txt\x00\x00\x00HUM/ind/4378.txt\x00\x00HUM/gr/5203.txt\x00\x00\x00HUM/ind/2777.txt\x00\x00HUM/ind/1069.txt\x00\x00HUM/gr/3553.txt\x00\x00\x00HUM/ind/3900.txt\x00\x00HUM/ind/4711.txt\x00\x00HUM/ind/730.txt\x00\x00\x00HUM/ind/4397.txt\x00\x00HUM/ind/1385.txt\x00\x00HUM/ind/3487.txt\x00\x00HUM/ind/3467.txt\x00\x00HUM/ind/3262.txt\x00\x00HUM/ind/1207.txt\x00\x00HUM/ind/5179.txt\x00\x00HUM/ind/4404.txt\x00\x00HUM/ind/1322.txt\x00\x00HUM/ind/1923.txt\x00\x00HUM/ind/4516.txt\x00\x00HUM/gr/3330.txt\x00\x00\x00HUM/ind/3504.txt\x00\x00HUM/gr/4936.txt\x00\x00\x00HUM/ind/4365.txt\x00\x00HUM/ind/1480.txt\x00\x00HUM/gr/3858.txt\x00\x00\x00HUM/gr/344.txt\x00\x00\x00\x00HUM/ind/353.txt\x00\x00\x00HUM/ind/1792.txt\x00\x00HUM/ind/754.txt\x00\x00\x00HUM/ind/3159.txt\x00\x00HUM/ind/4690.txt\x00\x00HUM/ind/2988.txt\x00\x00HUM/ind/1590.txt\x00\x00HUM/ind/728.txt\x00\x00\x00HUM/ind/4550.txt\x00\x00HUM/ind/1018.txt\x00\x00HUM/ind/2077.txt\x00\x00HUM/gr/4815.txt\x00\x00\x00HUM/gr/5377.txt\x00\x00\x00HUM/gr/4577.txt\x00\x00\x00HUM/title/4607.txtHUM/ind/3595.txt\x00\x00HUM/gr/3997.txt\x00\x00\x00HUM/ind/2020.txt\x00\x00HUM/ind/4773.txt\x00\x00HUM/gr/3763.txt\x00\x00\x00HUM/ind/1513.txt\x00\x00HUM/ind/5359.txt\x00\x00HUM/ind/1616.txt\x00\x00HUM/ind/3120.txt\x00\x00HUM/gr/499.txt\x00\x00\x00\x00HUM/ind/13.txt\x00\x00\x00\x00HUM/ind/4788.txt\x00\x00HUM/ind/2171.txt\x00\x00HUM/ind/136.txt\x00\x00\x00HUM/ind/2810.txt\x00\x00HUM/ind/4974.txt\x00\x00HUM/ind/1472.txt\x00\x00HUM/ind/5331.txt\x00\x00HUM/gr/5218.txt\x00\x00\x00HUM/ind/2919.txt\x00\x00HUM/ind/2718.txt\x00\x00HUM/ind/861.txt\x00\x00\x00HUM/ind/1634.txt\x00\x00HUM/ind/1562.txt\x00\x00HUM/ind/4873.txt\x00\x00HUM/ind/287.txt\x00\x00\x00HUM/ind/5368.txt\x00\x00HUM/ind/2596.txt\x00\x00HUM/gr/2197.txt\x00\x00\x00HUM/ind/3242.txt\x00\x00HUM/ind/4246.txt\x00\x00HUM/gr/4481.txt\x00\x00\x00HUM/desc/3970.txt\x00HUM/ind/1050.txt\x00\x00HUM/ind/4574.txt\x00\x00HUM/ind/204.txt\x00\x00\x00HUM/ind/1821.txt\x00\x00HUM/ind/2389.txt\x00\x00HUM/ind/4270.txt\x00\x00HUM/gr/866.txt\x00\x00\x00\x00HUM/ind/1496.txt\x00\x00HUM/gr/1926.txt\x00\x00\x00HUM/ind/4939.txt\x00\x00HUM/ind/1336.txt\x00\x00HUM/ind/2971.txt\x00\x00HUM/ind/1680.txt\x00\x00HUM/ind/5226.txt\x00\x00HUM/ind/150.txt\x00\x00\x00HUM/ind/3496.txt\x00\x00HUM/ind/5028.txt\x00\x00HUM/ind/2936.txt\x00\x00HUM/ind/2632.txt\x00\x00HUM/title/4811.txtHUM/ind/2330.txt\x00\x00HUM/ind/1661.txt\x00\x00HUM/ind/2880.txt\x00\x00HUM/ind/4759.txt\x00\x00HUM/desc/1967.txt\x00HUM/ind/2492.txt\x00\x00HUM/ind/2014.txt\x00\x00HUM/ind/3732.txt\x00\x00HUM/gr/1369.txt\x00\x00\x00HUM/ind/5306.txt\x00\x00HUM/gr/1468.txt\x00\x00\x00HUM/ind/2321.txt\x00\x00HUM/ind/2042.txt\x00\x00HUM/ind/806.txt\x00\x00\x00HUM/ind/3304.txt\x00\x00HUM/ind/1438.txt\x00\x00HUM/ind/974.txt\x00\x00\x00HUM/ind/3793.txt\x00\x00HUM/ind/1657.txt\x00\x00HUM/ind/796.txt\x00\x00\x00HUM/ind/1256.txt\x00\x00HUM/ind/3060.txt\x00\x00HUM/gr/1833.txt\x00\x00\x00HUM/gr/319.txt\x00\x00\x00\x00HUM/ind/5344.txt\x00\x00HUM/title/3847.txtHUM/ind/4621.txt\x00\x00HUM/ind/22.txt\x00\x00\x00\x00HUM/ind/1174.txt\x00\x00HUM/ind/2717.txt\x00\x00HUM/ind/2856.txt\x00\x00HUM/ind/4871.txt\x00\x00HUM/ind/88.txt\x00\x00\x00\x00HUM/gr/3437.txt\x00\x00\x00HUM/ind/600.txt\x00\x00\x00HUM/gr/3458.txt\x00\x00\x00HUM/ind/2820.txt\x00\x00HUM/ind/1895.txt\x00\x00HUM/ind/5113.txt\x00\x00HUM/gr/3439.txt\x00\x00\x00HUM/ind/1751.txt\x00\x00HUM/ind/4313.txt\x00\x00HUM/gr/6.txt\x00\x00\x00\x00\x00\x00HUM/ind/1554.txt\x00\x00HUM/ind/1241.txt\x00\x00HUM/ind/1354.txt\x00\x00HUM/ind/1887.txt\x00\x00HUM/ind/2953.txt\x00\x00HUM/ind/4685.txt\x00\x00HUM/ind/719.txt\x00\x00\x00HUM/ind/525.txt\x00\x00\x00HUM/ind/3353.txt\x00\x00HUM/ind/666.txt\x00\x00\x00HUM/ind/489.txt\x00\x00\x00HUM/ind/2965.txt\x00\x00HUM/ind/2396.txt\x00\x00HUM/ind/2358.txt\x00\x00HUM/ind/3004.txt\x00\x00HUM/ind/1901.txt\x00\x00HUM/ind/5145.txt\x00\x00HUM/ind/4319.txt\x00\x00HUM/ind/4452.txt\x00\x00HUM/desc/5022.txt\x00HUM/desc/3928.txt\x00HUM/ind/104.txt\x00\x00\x00HUM/ind/2233.txt\x00\x00HUM/gr/3340.txt\x00\x00\x00HUM/ind/4967.txt\x00\x00HUM/ind/2635.txt\x00\x00HUM/desc/1365.txt\x00HUM/ind/4068.txt\x00\x00HUM/ind/3038.txt\x00\x00HUM/ind/5209.txt\x00\x00HUM/ind/704.txt\x00\x00\x00HUM/ind/4225.txt\x00\x00HUM/title/3987.txtHUM/ind/2383.txt\x00\x00HUM/ind/1457.txt\x00\x00HUM/ind/4676.txt\x00\x00HUM/ind/1469.txt\x00\x00HUM/ind/2062.txt\x00\x00HUM/ind/4571.txt\x00\x00HUM/desc/1442.txt\x00HUM/gr/2391.txt\x00\x00\x00HUM/ind/3391.txt\x00\x00HUM/ind/2569.txt\x00\x00HUM/ind/581.txt\x00\x00\x00HUM/title/3022.txtHUM/ind/1527.txt\x00\x00HUM/ind/3445.txt\x00\x00HUM/ind/2074.txt\x00\x00HUM/gr/654.txt\x00\x00\x00\x00HUM/ind/1645.txt\x00\x00HUM/ind/2688.txt\x00\x00HUM/ind/831.txt\x00\x00\x00HUM/ind/350.txt\x00\x00\x00HUM/gr/1485.txt\x00\x00\x00HUM/gr/1518.txt\x00\x00\x00HUM/ind/3453.txt\x00\x00HUM/gr/5259.txt\x00\x00\x00HUM/desc/2196.txt\x00HUM/ind/2567.txt\x00\x00HUM/ind/3248.txt\x00\x00HUM/ind/1367.txt\x00\x00HUM/ind/2118.txt\x00\x00HUM/ind/383.txt\x00\x00\x00HUM/ind/5371.txt\x00\x00HUM/ind/4820.txt\x00\x00HUM/ind/3018.txt\x00\x00HUM/ind/808.txt\x00\x00\x00HUM/ind/4133.txt\x00\x00HUM/ind/2694.txt\x00\x00HUM/ind/2339.txt\x00\x00HUM/ind/737.txt\x00\x00\x00HUM/ind/2921.txt\x00\x00HUM/ind/2324.txt\x00\x00HUM/ind/1237.txt\x00\x00HUM/ind/1802.txt\x00\x00HUM/ind/1000.txt\x00\x00HUM/ind/2087.txt\x00\x00HUM/desc/1170.txt\x00HUM/desc/1520.txt\x00HUM/ind/1444.txt\x00\x00HUM/ind/5151.txt\x00\x00HUM/ind/4194.txt\x00\x00HUM/ind/2488.txt\x00\x00HUM/ind/3073.txt\x00\x00HUM/gr/5292.txt\x00\x00\x00HUM/ind/504.txt\x00\x00\x00HUM/desc/3610.txt\x00HUM/ind/9.txt\x00\x00\x00\x00\x00HUM/ind/5351.txt\x00\x00HUM/ind/5318.txt\x00\x00HUM/ind/4003.txt\x00\x00HUM/ind/2387.txt\x00\x00HUM/ind/3151.txt\x00\x00HUM/ind/3701.txt\x00\x00HUM/ind/5352.txt\x00\x00HUM/ind/1613.txt\x00\x00HUM/ind/645.txt\x00\x00\x00HUM/ind/4881.txt\x00\x00HUM/ind/1128.txt\x00\x00HUM/ind/1327.txt\x00\x00HUM/desc/3571.txt\x00HUM/ind/1533.txt\x00\x00HUM/ind/200.txt\x00\x00\x00HUM/gr/1004.txt\x00\x00\x00HUM/ind/1467.txt\x00\x00HUM/gr/2484.txt\x00\x00\x00HUM/ind/4101.txt\x00\x00HUM/gr/1239.txt\x00\x00\x00HUM/ind/2673.txt\x00\x00HUM/gr/5276.txt\x00\x00\x00HUM/gr/2946.txt\x00\x00\x00HUM/ind/4938.txt\x00\x00HUM/ind/3711.txt\x00\x00HUM/ind/2646.txt\x00\x00HUM/gr/1698.txt\x00\x00\x00HUM/ind/3041.txt\x00\x00HUM/ind/5432.txt\x00\x00HUM/ind/4395.txt\x00\x00HUM/ind/2146.txt\x00\x00HUM/ind/460.txt\x00\x00\x00HUM/ind/4020.txt\x00\x00HUM/ind/2849.txt\x00\x00HUM/ind/2882.txt\x00\x00HUM/ind/2212.txt\x00\x00HUM/ind/2525.txt\x00\x00HUM/ind/1482.txt\x00\x00HUM/ind/2617.txt\x00\x00HUM/ind/4751.txt\x00\x00HUM/ind/1460.txt\x00\x00HUM/ind/3125.txt\x00\x00HUM/ind/4275.txt\x00\x00HUM/ind/2704.txt\x00\x00HUM/ind/3434.txt\x00\x00HUM/ind/5133.txt\x00\x00HUM/ind/5146.txt\x00\x00HUM/ind/4215.txt\x00\x00HUM/gr/1371.txt\x00\x00\x00HUM/ind/380.txt\x00\x00\x00HUM/gr/209.txt\x00\x00\x00\x00HUM/ind/4797.txt\x00\x00HUM/ind/2040.txt\x00\x00HUM/ind/1601.txt\x00\x00HUM/ind/4784.txt\x00\x00HUM/ind/1267.txt\x00\x00HUM/ind/2577.txt\x00\x00HUM/ind/2056.txt\x00\x00HUM/ind/1635.txt\x00\x00HUM/ind/4764.txt\x00\x00HUM/ind/2836.txt\x00\x00HUM/ind/4308.txt\x00\x00HUM/ind/3405.txt\x00\x00HUM/ind/3680.txt\x00\x00HUM/ind/3659.txt\x00\x00HUM/gr/4567.txt\x00\x00\x00HUM/ind/3223.txt\x00\x00HUM/ind/4755.txt\x00\x00HUM/gr/2655.txt\x00\x00\x00HUM/ind/1671.txt\x00\x00HUM/ind/1013.txt\x00\x00HUM/ind/355.txt\x00\x00\x00HUM/ind/3168.txt\x00\x00HUM/ind/3017.txt\x00\x00HUM/gr/5130.txt\x00\x00\x00HUM/ind/4143.txt\x00\x00HUM/ind/1195.txt\x00\x00HUM/ind/2611.txt\x00\x00HUM/ind/3628.txt\x00\x00HUM/ind/1546.txt\x00\x00HUM/ind/3356.txt\x00\x00HUM/ind/4237.txt\x00\x00HUM/title/3845.txtHUM/gr/4568.txt\x00\x00\x00HUM/gr/3399.txt\x00\x00\x00HUM/ind/925.txt\x00\x00\x00HUM/ind/3731.txt\x00\x00HUM/ind/3176.txt\x00\x00HUM/gr/1795.txt\x00\x00\x00HUM/ind/5143.txt\x00\x00HUM/ind/4322.txt\x00\x00HUM/ind/4004.txt\x00\x00HUM/desc/3853.txt\x00HUM/title/7.txt\x00\x00\x00HUM/gr/4090.txt\x00\x00\x00HUM/ind/1085.txt\x00\x00HUM/ind/1405.txt\x00\x00HUM/ind/3879.txt\x00\x00HUM/ind/2354.txt\x00\x00HUM/ind/1567.txt\x00\x00HUM/ind/153.txt\x00\x00\x00HUM/ind/1296.txt\x00\x00HUM/ind/4858.txt\x00\x00HUM/gr/2203.txt\x00\x00\x00HUM/ind/246.txt\x00\x00\x00HUM/ind/5220.txt\x00\x00HUM/ind/4709.txt\x00\x00HUM/ind/3454.txt\x00\x00HUM/ind/3428.txt\x00\x00HUM/ind/3938.txt\x00\x00HUM/ind/5229.txt\x00\x00HUM/ind/4092.txt\x00\x00HUM/ind/3451.txt\x00\x00HUM/gr/148.txt\x00\x00\x00\x00HUM/ind/3184.txt\x00\x00HUM/ind/3769.txt\x00\x00HUM/ind/2925.txt\x00\x00HUM/ind/5412.txt\x00\x00HUM/ind/637.txt\x00\x00\x00HUM/ind/1381.txt\x00\x00HUM/ind/1112.txt\x00\x00HUM/ind/4891.txt\x00\x00HUM/ind/5326.txt\x00\x00HUM/ind/1446.txt\x00\x00HUM/ind/375.txt\x00\x00\x00HUM/gr/5440.txt\x00\x00\x00HUM/ind/232.txt\x00\x00\x00HUM/ind/1783.txt\x00\x00HUM/gr/96.txt\x00\x00\x00\x00\x00HUM/ind/4181.txt\x00\x00HUM/ind/2510.txt\x00\x00HUM/ind/3573.txt\x00\x00HUM/ind/1395.txt\x00\x00HUM/ind/695.txt\x00\x00\x00HUM/ind/5355.txt\x00\x00HUM/ind/620.txt\x00\x00\x00HUM/ind/483.txt\x00\x00\x00HUM/ind/810.txt\x00\x00\x00HUM/ind/1092.txt\x00\x00HUM/ind/3838.txt\x00\x00HUM/gr/165.txt\x00\x00\x00\x00HUM/gr/2177.txt\x00\x00\x00HUM/ind/3220.txt\x00\x00HUM/desc/4058.txt\x00HUM/ind/391.txt\x00\x00\x00HUM/ind/2119.txt\x00\x00HUM/ind/2107.txt\x00\x00HUM/ind/4245.txt\x00\x00HUM/ind/2986.txt\x00\x00HUM/ind/343.txt\x00\x00\x00HUM/gr/1749.txt\x00\x00\x00HUM/gr/1862.txt\x00\x00\x00HUM/ind/2780.txt\x00\x00HUM/gr/1832.txt\x00\x00\x00HUM/ind/2188.txt\x00\x00HUM/ind/3722.txt\x00\x00HUM/ind/2064.txt\x00\x00HUM/ind/4651.txt\x00\x00HUM/ind/664.txt\x00\x00\x00HUM/ind/1856.txt\x00\x00HUM/ind/5242.txt\x00\x00HUM/ind/3063.txt\x00\x00HUM/ind/3251.txt\x00\x00HUM/gr/2479.txt\x00\x00\x00HUM/ind/4808.txt\x00\x00HUM/ind/3054.txt\x00\x00HUM/gr/1414.txt\x00\x00\x00HUM/ind/1268.txt\x00\x00HUM/ind/4771.txt\x00\x00HUM/ind/1005.txt\x00\x00HUM/gr/577.txt\x00\x00\x00\x00HUM/gr/3523.txt\x00\x00\x00HUM/ind/733.txt\x00\x00\x00HUM/ind/1695.txt\x00\x00HUM/gr/2867.txt\x00\x00\x00HUM/ind/4122.txt\x00\x00HUM/ind/1099.txt\x00\x00HUM/ind/897.txt\x00\x00\x00HUM/desc/1957.txt\x00HUM/ind/2120.txt\x00\x00HUM/ind/4475.txt\x00\x00HUM/ind/1787.txt\x00\x00HUM/ind/315.txt\x00\x00\x00HUM/ind/4638.txt\x00\x00HUM/ind/2748.txt\x00\x00HUM/ind/2205.txt\x00\x00HUM/title/879.txt\x00HUM/gr/3517.txt\x00\x00\x00HUM/ind/2413.txt\x00\x00HUM/ind/840.txt\x00\x00\x00HUM/ind/2641.txt\x00\x00HUM/gr/4456.txt\x00\x00\x00HUM/ind/909.txt\x00\x00\x00HUM/ind/610.txt\x00\x00\x00HUM/ind/3695.txt\x00\x00HUM/title/4992.txtHUM/desc/1570.txt\x00HUM/ind/4814.txt\x00\x00HUM/ind/4348.txt\x00\x00HUM/ind/1633.txt\x00\x00HUM/ind/151.txt\x00\x00\x00HUM/ind/3533.txt\x00\x00HUM/ind/4357.txt\x00\x00HUM/ind/1153.txt\x00\x00HUM/ind/4462.txt\x00\x00HUM/ind/4598.txt\x00\x00HUM/ind/3950.txt\x00\x00HUM/ind/4935.txt\x00\x00HUM/ind/4295.txt\x00\x00HUM/ind/2563.txt\x00\x00HUM/ind/4203.txt\x00\x00HUM/ind/5305.txt\x00\x00HUM/ind/3812.txt\x00\x00HUM/ind/829.txt\x00\x00\x00HUM/ind/2078.txt\x00\x00HUM/ind/2604.txt\x00\x00HUM/ind/4902.txt\x00\x00HUM/gr/702.txt\x00\x00\x00\x00HUM/ind/5227.txt\x00\x00HUM/gr/5275.txt\x00\x00\x00HUM/gr/1766.txt\x00\x00\x00HUM/gr/3576.txt\x00\x00\x00HUM/ind/3008.txt\x00\x00HUM/ind/4464.txt\x00\x00HUM/ind/3000.txt\x00\x00HUM/gr/3286.txt\x00\x00\x00HUM/ind/4005.txt\x00\x00HUM/ind/1886.txt\x00\x00HUM/ind/5263.txt\x00\x00HUM/ind/2468.txt\x00\x00HUM/ind/4799.txt\x00\x00HUM/ind/2443.txt\x00\x00HUM/ind/339.txt\x00\x00\x00HUM/ind/1569.txt\x00\x00HUM/ind/1781.txt\x00\x00HUM/desc/1091.txt\x00HUM/ind/1637.txt\x00\x00HUM/ind/802.txt\x00\x00\x00HUM/ind/2307.txt\x00\x00HUM/ind/3953.txt\x00\x00HUM/ind/419.txt\x00\x00\x00HUM/gr/4317.txt\x00\x00\x00HUM/ind/2136.txt\x00\x00HUM/gr/306.txt\x00\x00\x00\x00HUM/ind/4241.txt\x00\x00HUM/ind/26.txt\x00\x00\x00\x00HUM/gr/2050.txt\x00\x00\x00HUM/ind/929.txt\x00\x00\x00HUM/gr/4557.txt\x00\x00\x00HUM/ind/4314.txt\x00\x00HUM/ind/1918.txt\x00\x00HUM/ind/1103.txt\x00\x00HUM/gr/1592.txt\x00\x00\x00HUM/gr/3272.txt\x00\x00\x00HUM/ind/1377.txt\x00\x00HUM/title/1024.txtHUM/ind/149.txt\x00\x00\x00HUM/ind/998.txt\x00\x00\x00HUM/ind/2400.txt\x00\x00HUM/ind/5399.txt\x00\x00HUM/ind/473.txt\x00\x00\x00HUM/ind/239.txt\x00\x00\x00HUM/ind/1545.txt\x00\x00HUM/ind/4912.txt\x00\x00HUM/gr/4008.txt\x00\x00\x00HUM/desc/3667.txt\x00HUM/ind/2495.txt\x00\x00HUM/gr/4844.txt\x00\x00\x00HUM/title/4412.txtHUM/ind/4389.txt\x00\x00HUM/gr/4243.txt\x00\x00\x00HUM/ind/3551.txt\x00\x00HUM/gr/4333.txt\x00\x00\x00HUM/ind/251.txt\x00\x00\x00HUM/ind/4732.txt\x00\x00HUM/ind/3524.txt\x00\x00HUM/ind/2384.txt\x00\x00HUM/gr/1713.txt\x00\x00\x00HUM/ind/5003.txt\x00\x00HUM/ind/2902.txt\x00\x00HUM/gr/903.txt\x00\x00\x00\x00HUM/gr/5290.txt\x00\x00\x00HUM/ind/4843.txt\x00\x00HUM/gr/3277.txt\x00\x00\x00HUM/ind/3952.txt\x00\x00HUM/ind/370.txt\x00\x00\x00HUM/ind/52.txt\x00\x00\x00\x00HUM/gr/4659.txt\x00\x00\x00HUM/desc/5419.txt\x00HUM/gr/253.txt\x00\x00\x00\x00HUM/ind/4373.txt\x00\x00HUM/ind/2825.txt\x00\x00HUM/ind/3433.txt\x00\x00HUM/ind/5063.txt\x00\x00HUM/ind/889.txt\x00\x00\x00HUM/ind/234.txt\x00\x00\x00HUM/ind/2249.txt\x00\x00HUM/desc/3452.txt\x00HUM/ind/4442.txt\x00\x00HUM/ind/4846.txt\x00\x00HUM/ind/3817.txt\x00\x00HUM/ind/5061.txt\x00\x00HUM/ind/166.txt\x00\x00\x00HUM/ind/4324.txt\x00\x00HUM/ind/5282.txt\x00\x00HUM/ind/1754.txt\x00\x00HUM/ind/2174.txt\x00\x00HUM/ind/1205.txt\x00\x00HUM/ind/4434.txt\x00\x00HUM/ind/5.txt\x00\x00\x00\x00\x00HUM/ind/2095.txt\x00\x00HUM/ind/1805.txt\x00\x00HUM/ind/3745.txt\x00\x00HUM/gr/4453.txt\x00\x00\x00HUM/desc/2499.txt\x00HUM/ind/3538.txt\x00\x00HUM/ind/4211.txt\x00\x00HUM/ind/2949.txt\x00\x00HUM/gr/1407.txt\x00\x00\x00HUM/ind/1234.txt\x00\x00HUM/ind/768.txt\x00\x00\x00HUM/ind/1260.txt\x00\x00HUM/ind/468.txt\x00\x00\x00HUM/ind/3359.txt\x00\x00HUM/ind/1663.txt\x00\x00HUM/ind/4564.txt\x00\x00HUM/ind/5243.txt\x00\x00HUM/ind/888.txt\x00\x00\x00HUM/title/1130.txtHUM/ind/3942.txt\x00\x00HUM/ind/2691.txt\x00\x00HUM/ind/4503.txt\x00\x00HUM/ind/3327.txt\x00\x00HUM/ind/4630.txt\x00\x00HUM/ind/2187.txt\x00\x00HUM/ind/1800.txt\x00\x00HUM/ind/326.txt\x00\x00\x00HUM/ind/5266.txt\x00\x00HUM/ind/4923.txt\x00\x00HUM/ind/1715.txt\x00\x00HUM/ind/1909.txt\x00\x00HUM/gr/1733.txt\x00\x00\x00HUM/ind/742.txt\x00\x00\x00HUM/ind/4432.txt\x00\x00HUM/ind/2401.txt\x00\x00HUM/ind/4111.txt\x00\x00HUM/ind/3009.txt\x00\x00HUM/gr/2772.txt\x00\x00\x00HUM/ind/1935.txt\x00\x00HUM/ind/2969.txt\x00\x00HUM/ind/2974.txt\x00\x00HUM/gr/1993.txt\x00\x00\x00HUM/ind/875.txt\x00\x00\x00HUM/ind/2399.txt\x00\x00HUM/ind/4485.txt\x00\x00HUM/ind/4534.txt\x00\x00HUM/ind/494.txt\x00\x00\x00HUM/desc/2125.txt\x00HUM/ind/1807.txt\x00\x00HUM/ind/3828.txt\x00\x00HUM/ind/2735.txt\x00\x00HUM/desc/5446.txt\x00HUM/gr/416.txt\x00\x00\x00\x00HUM/ind/1924.txt\x00\x00HUM/ind/2853.txt\x00\x00HUM/ind/1215.txt\x00\x00HUM/ind/4147.txt\x00\x00HUM/ind/2030.txt\x00\x00HUM/ind/3345.txt\x00\x00HUM/ind/2678.txt\x00\x00HUM/ind/752.txt\x00\x00\x00HUM/ind/3255.txt\x00\x00HUM/ind/3344.txt\x00\x00HUM/ind/773.txt\x00\x00\x00HUM/title/1021.txtHUM/gr/3901.txt\x00\x00\x00HUM/ind/454.txt\x00\x00\x00HUM/ind/1132.txt\x00\x00HUM/ind/1532.txt\x00\x00HUM/desc/2317.txt\x00HUM/ind/4649.txt\x00\x00HUM/ind/1481.txt\x00\x00HUM/ind/2981.txt\x00\x00HUM/ind/5288.txt\x00\x00HUM/ind/4094.txt\x00\x00HUM/gr/556.txt\x00\x00\x00\x00HUM/gr/4528.txt\x00\x00\x00HUM/gr/2385.txt\x00\x00\x00HUM/ind/3698.txt\x00\x00HUM/ind/2524.txt\x00\x00HUM/ind/3710.txt\x00\x00HUM/desc/3436.txt\x00HUM/ind/1620.txt\x00\x00HUM/ind/3540.txt\x00\x00HUM/ind/4903.txt\x00\x00HUM/ind/701.txt\x00\x00\x00HUM/ind/2995.txt\x00\x00HUM/ind/5093.txt\x00\x00HUM/ind/155.txt\x00\x00\x00HUM/ind/2046.txt\x00\x00HUM/ind/4009.txt\x00\x00HUM/gr/5375.txt\x00\x00\x00HUM/gr/5060.txt\x00\x00\x00HUM/ind/4657.txt\x00\x00HUM/ind/4747.txt\x00\x00HUM/gr/2139.txt\x00\x00\x00HUM/ind/954.txt\x00\x00\x00HUM/gr/1555.txt\x00\x00\x00HUM/ind/4608.txt\x00\x00HUM/ind/1288.txt\x00\x00HUM/ind/3363.txt\x00\x00HUM/gr/1877.txt\x00\x00\x00HUM/ind/2057.txt\x00\x00HUM/ind/4655.txt\x00\x00HUM/gr/3641.txt\x00\x00\x00HUM/gr/1736.txt\x00\x00\x00HUM/ind/74.txt\x00\x00\x00\x00HUM/ind/3851.txt\x00\x00HUM/ind/286.txt\x00\x00\x00HUM/ind/2115.txt\x00\x00HUM/ind/3401.txt\x00\x00HUM/gr/47.txt\x00\x00\x00\x00\x00HUM/ind/1227.txt\x00\x00HUM/ind/100.txt\x00\x00\x00HUM/ind/2362.txt\x00\x00HUM/ind/921.txt\x00\x00\x00HUM/ind/2776.txt\x00\x00HUM/gr/2860.txt\x00\x00\x00HUM/ind/3088.txt\x00\x00HUM/ind/5382.txt\x00\x00HUM/ind/3931.txt\x00\x00HUM/ind/365.txt\x00\x00\x00HUM/ind/2487.txt\x00\x00HUM/ind/3068.txt\x00\x00HUM/ind/5034.txt\x00\x00HUM/ind/5072.txt\x00\x00HUM/ind/4392.txt\x00\x00HUM/gr/3066.txt\x00\x00\x00HUM/ind/3854.txt\x00\x00HUM/gr/2783.txt\x00\x00\x00HUM/ind/2303.txt\x00\x00HUM/ind/359.txt\x00\x00\x00HUM/ind/5059.txt\x00\x00HUM/gr/1290.txt\x00\x00\x00HUM/ind/2973.txt\x00\x00HUM/ind/3832.txt\x00\x00HUM/ind/4953.txt\x00\x00HUM/ind/3173.txt\x00\x00HUM/ind/4650.txt\x00\x00HUM/ind/4743.txt\x00\x00HUM/gr/2482.txt\x00\x00\x00HUM/ind/3078.txt\x00\x00HUM/ind/1666.txt\x00\x00HUM/ind/1218.txt\x00\x00HUM/ind/3170.txt\x00\x00HUM/ind/4040.txt\x00\x00HUM/ind/4046.txt\x00\x00HUM/desc/846.txt\x00\x00HUM/ind/1587.txt\x00\x00HUM/ind/3770.txt\x00\x00HUM/gr/4879.txt\x00\x00\x00HUM/gr/2436.txt\x00\x00\x00HUM/desc/1399.txt\x00HUM/ind/3020.txt\x00\x00HUM/ind/2837.txt\x00\x00HUM/gr/1126.txt\x00\x00\x00HUM/ind/1203.txt\x00\x00HUM/ind/596.txt\x00\x00\x00HUM/ind/2093.txt\x00\x00HUM/ind/501.txt\x00\x00\x00HUM/ind/3827.txt\x00\x00HUM/ind/4132.txt\x00\x00HUM/ind/4363.txt\x00\x00HUM/ind/3348.txt\x00\x00HUM/ind/1393.txt\x00\x00HUM/ind/1553.txt\x00\x00HUM/ind/4457.txt\x00\x00HUM/ind/1452.txt\x00\x00HUM/gr/3588.txt\x00\x00\x00HUM/gr/3056.txt\x00\x00\x00HUM/ind/5333.txt\x00\x00HUM/ind/2847.txt\x00\x00HUM/ind/337.txt\x00\x00\x00HUM/ind/3210.txt\x00\x00HUM/gr/1101.txt\x00\x00\x00HUM/ind/4416.txt\x00\x00HUM/ind/3512.txt\x00\x00HUM/ind/3912.txt\x00\x00HUM/ind/4103.txt\x00\x00HUM/ind/1610.txt\x00\x00HUM/ind/882.txt\x00\x00\x00HUM/gr/3468.txt\x00\x00\x00HUM/ind/2257.txt\x00\x00HUM/ind/3163.txt\x00\x00HUM/ind/1824.txt\x00\x00HUM/ind/4629.txt\x00\x00HUM/ind/881.txt\x00\x00\x00HUM/ind/1470.txt\x00\x00HUM/desc/255.txt\x00\x00HUM/ind/3310.txt\x00\x00HUM/desc/432.txt\x00\x00HUM/ind/4066.txt\x00\x00HUM/ind/2458.txt\x00\x00HUM/ind/4075.txt\x00\x00HUM/ind/5356.txt\x00\x00HUM/ind/1875.txt\x00\x00HUM/ind/4023.txt\x00\x00HUM/ind/4304.txt\x00\x00HUM/ind/2638.txt\x00\x00HUM/ind/3699.txt\x00\x00HUM/ind/5354.txt\x00\x00HUM/ind/4602.txt\x00\x00HUM/desc/4901.txt\x00HUM/gr/4423.txt\x00\x00\x00HUM/ind/1056.txt\x00\x00HUM/ind/3995.txt\x00\x00HUM/ind/5415.txt\x00\x00HUM/ind/491.txt\x00\x00\x00HUM/ind/3829.txt\x00\x00HUM/title/3809.txtHUM/ind/2381.txt\x00\x00HUM/gr/3716.txt\x00\x00\x00HUM/ind/3089.txt\x00\x00HUM/ind/3198.txt\x00\x00HUM/ind/4226.txt\x00\x00HUM/ind/1301.txt\x00\x00HUM/ind/3036.txt\x00\x00HUM/ind/771.txt\x00\x00\x00HUM/ind/3315.txt\x00\x00HUM/ind/860.txt\x00\x00\x00HUM/ind/4473.txt\x00\x00HUM/ind/2829.txt\x00\x00HUM/ind/850.txt\x00\x00\x00HUM/ind/3549.txt\x00\x00HUM/ind/3867.txt\x00\x00HUM/desc/2457.txt\x00HUM/gr/3075.txt\x00\x00\x00HUM/ind/1478.txt\x00\x00HUM/ind/1121.txt\x00\x00HUM/ind/4819.txt\x00\x00HUM/title/1145.txtHUM/gr/4750.txt\x00\x00\x00HUM/gr/2779.txt\x00\x00\x00HUM/ind/988.txt\x00\x00\x00HUM/ind/5100.txt\x00\x00HUM/ind/2976.txt\x00\x00HUM/gr/4535.txt\x00\x00\x00HUM/ind/1380.txt\x00\x00HUM/ind/2395.txt\x00\x00HUM/ind/1572.txt\x00\x00HUM/ind/5219.txt\x00\x00HUM/desc/4536.txt\x00HUM/ind/3626.txt\x00\x00HUM/ind/5400.txt\x00\x00HUM/ind/4880.txt\x00\x00HUM/ind/2505.txt\x00\x00HUM/ind/1682.txt\x00\x00HUM/desc/772.txt\x00\x00HUM/ind/2310.txt\x00\x00HUM/gr/3773.txt\x00\x00\x00HUM/ind/5247.txt\x00\x00HUM/gr/4307.txt\x00\x00\x00HUM/desc/2409.txt\x00HUM/ind/2480.txt\x00\x00HUM/gr/1038.txt\x00\x00\x00HUM/gr/476.txt\x00\x00\x00\x00HUM/ind/269.txt\x00\x00\x00HUM/ind/2494.txt\x00\x00HUM/ind/5388.txt\x00\x00HUM/ind/4800.txt\x00\x00HUM/ind/4091.txt\x00\x00HUM/ind/856.txt\x00\x00\x00HUM/ind/2326.txt\x00\x00HUM/ind/785.txt\x00\x00\x00HUM/ind/1280.txt\x00\x00HUM/ind/5337.txt\x00\x00HUM/ind/3906.txt\x00\x00HUM/ind/4801.txt\x00\x00HUM/gr/609.txt\x00\x00\x00\x00HUM/desc/3605.txt\x00HUM/ind/127.txt\x00\x00\x00HUM/ind/876.txt\x00\x00\x00HUM/ind/2071.txt\x00\x00HUM/ind/957.txt\x00\x00\x00HUM/ind/1649.txt\x00\x00HUM/gr/789.txt\x00\x00\x00\x00HUM/desc/471.txt\x00\x00HUM/ind/3240.txt\x00\x00HUM/ind/3643.txt\x00\x00HUM/title/1379.txtHUM/ind/1699.txt\x00\x00HUM/ind/2250.txt\x00\x00HUM/ind/4358.txt\x00\x00HUM/ind/5137.txt\x00\x00HUM/title/183.txt\x00HUM/ind/3325.txt\x00\x00HUM/desc/4056.txt\x00HUM/ind/3091.txt\x00\x00HUM/ind/5223.txt\x00\x00HUM/gr/487.txt\x00\x00\x00\x00HUM/ind/672.txt\x00\x00\x00HUM/ind/71.txt\x00\x00\x00\x00HUM/ind/4863.txt\x00\x00HUM/ind/2439.txt\x00\x00HUM/ind/4487.txt\x00\x00HUM/ind/4975.txt\x00\x00HUM/title/3351.txtHUM/ind/570.txt\x00\x00\x00HUM/ind/3918.txt\x00\x00HUM/ind/2857.txt\x00\x00HUM/gr/3958.txt\x00\x00\x00HUM/ind/3269.txt\x00\x00HUM/ind/4725.txt\x00\x00HUM/ind/794.txt\x00\x00\x00HUM/gr/3989.txt\x00\x00\x00HUM/ind/4043.txt\x00\x00HUM/ind/3409.txt\x00\x00HUM/ind/5081.txt\x00\x00HUM/ind/4330.txt\x00\x00HUM/ind/4407.txt\x00\x00HUM/ind/4477.txt\x00\x00HUM/title/852.txt\x00HUM/gr/3622.txt\x00\x00\x00HUM/ind/853.txt\x00\x00\x00HUM/ind/507.txt\x00\x00\x00HUM/ind/2476.txt\x00\x00HUM/gr/2695.txt\x00\x00\x00HUM/gr/644.txt\x00\x00\x00\x00HUM/ind/5021.txt\x00\x00HUM/ind/4222.txt\x00\x00HUM/gr/2440.txt\x00\x00\x00HUM/ind/1981.txt\x00\x00HUM/ind/195.txt\x00\x00\x00HUM/ind/4761.txt\x00\x00HUM/ind/3033.txt\x00\x00HUM/ind/2896.txt\x00\x00HUM/ind/999.txt\x00\x00\x00HUM/ind/451.txt\x00\x00\x00HUM/ind/3249.txt\x00\x00HUM/gr/2888.txt\x00\x00\x00HUM/gr/1211.txt\x00\x00\x00HUM/gr/360.txt\x00\x00\x00\x00HUM/ind/1846.txt\x00\x00HUM/title/4069.txtHUM/gr/5195.txt\x00\x00\x00HUM/ind/804.txt\x00\x00\x00HUM/ind/3181.txt\x00\x00HUM/ind/618.txt\x00\x00\x00HUM/gr/867.txt\x00\x00\x00\x00HUM/desc/1697.txt\x00HUM/ind/4961.txt\x00\x00HUM/ind/2162.txt\x00\x00HUM/ind/1109.txt\x00\x00HUM/ind/4408.txt\x00\x00HUM/ind/5255.txt\x00\x00HUM/ind/4349.txt\x00\x00HUM/ind/950.txt\x00\x00\x00HUM/ind/303.txt\x00\x00\x00HUM/ind/1565.txt\x00\x00HUM/ind/5165.txt\x00\x00HUM/ind/12.txt\x00\x00\x00\x00HUM/gr/3597.txt\x00\x00\x00HUM/ind/2279.txt\x00\x00HUM/ind/3101.txt\x00\x00HUM/title/4185.txtHUM/ind/792.txt\x00\x00\x00HUM/ind/2706.txt\x00\x00HUM/ind/4587.txt\x00\x00HUM/ind/2366.txt\x00\x00HUM/ind/54.txt\x00\x00\x00\x00HUM/gr/3536.txt\x00\x00\x00HUM/ind/1845.txt\x00\x00HUM/ind/4713.txt\x00\x00HUM/ind/76.txt\x00\x00\x00\x00HUM/ind/3182.txt\x00\x00HUM/ind/2220.txt\x00\x00HUM/gr/4666.txt\x00\x00\x00HUM/ind/2985.txt\x00\x00HUM/gr/3472.txt\x00\x00\x00HUM/ind/3656.txt\x00\x00HUM/ind/4805.txt\x00\x00HUM/gr/4962.txt\x00\x00\x00HUM/ind/4362.txt\x00\x00HUM/ind/1262.txt\x00\x00HUM/ind/1334.txt\x00\x00HUM/ind/575.txt\x00\x00\x00HUM/ind/1826.txt\x00\x00HUM/gr/301.txt\x00\x00\x00\x00HUM/gr/5039.txt\x00\x00\x00HUM/ind/4119.txt\x00\x00HUM/ind/1057.txt\x00\x00HUM/ind/823.txt\x00\x00\x00HUM/ind/1764.txt\x00\x00HUM/ind/4231.txt\x00\x00HUM/gr/5396.txt\x00\x00\x00HUM/ind/311.txt\x00\x00\x00HUM/desc/1094.txt\x00HUM/gr/2700.txt\x00\x00\x00HUM/ind/3371.txt\x00\x00HUM/ind/4691.txt\x00\x00HUM/ind/5398.txt\x00\x00HUM/ind/2086.txt\x00\x00HUM/ind/3204.txt\x00\x00HUM/ind/611.txt\x00\x00\x00HUM/ind/1462.txt\x00\x00HUM/ind/3142.txt\x00\x00HUM/ind/3430.txt\x00\x00HUM/ind/4781.txt\x00\x00HUM/ind/3039.txt\x00\x00HUM/ind/3064.txt\x00\x00HUM/ind/978.txt\x00\x00\x00HUM/ind/678.txt\x00\x00\x00HUM/ind/390.txt\x00\x00\x00HUM/ind/3131.txt\x00\x00HUM/ind/4945.txt\x00\x00HUM/ind/274.txt\x00\x00\x00HUM/ind/328.txt\x00\x00\x00HUM/ind/2855.txt\x00\x00HUM/ind/2562.txt\x00\x00HUM/ind/5222.txt\x00\x00HUM/ind/2643.txt\x00\x00HUM/ind/3638.txt\x00\x00HUM/ind/690.txt\x00\x00\x00HUM/ind/2349.txt\x00\x00HUM/gr/219.txt\x00\x00\x00\x00HUM/ind/498.txt\x00\x00\x00HUM/ind/2785.txt\x00\x00HUM/ind/3604.txt\x00\x00HUM/ind/4273.txt\x00\x00HUM/ind/4393.txt\x00\x00HUM/ind/5077.txt\x00\x00HUM/gr/5187.txt\x00\x00\x00HUM/ind/1797.txt\x00\x00HUM/ind/3898.txt\x00\x00HUM/ind/4310.txt\x00\x00HUM/ind/182.txt\x00\x00\x00HUM/ind/3725.txt\x00\x00HUM/ind/64.txt\x00\x00\x00\x00HUM/ind/503.txt\x00\x00\x00HUM/ind/3116.txt\x00\x00HUM/ind/2999.txt\x00\x00HUM/ind/4740.txt\x00\x00HUM/ind/3505.txt\x00\x00HUM/ind/3305.txt\x00\x00HUM/gr/2360.txt\x00\x00\x00HUM/ind/3947.txt\x00\x00HUM/ind/1871.txt\x00\x00HUM/ind/2429.txt\x00\x00HUM/ind/5258.txt\x00\x00HUM/ind/5212.txt\x00\x00HUM/ind/4595.txt\x00\x00HUM/ind/3805.txt\x00\x00HUM/gr/4999.txt\x00\x00\x00HUM/gr/33.txt\x00\x00\x00\x00\x00HUM/ind/5159.txt\x00\x00HUM/desc/5153.txt\x00HUM/ind/4970.txt\x00\x00HUM/gr/830.txt\x00\x00\x00\x00HUM/ind/1725.txt\x00\x00HUM/ind/1304.txt\x00\x00HUM/ind/1945.txt\x00\x00HUM/ind/1796.txt\x00\x00HUM/ind/2931.txt\x00\x00HUM/ind/5342.txt\x00\x00HUM/ind/3138.txt\x00\x00HUM/ind/2516.txt\x00\x00HUM/gr/1476.txt\x00\x00\x00HUM/desc/2262.txt\x00HUM/ind/5239.txt\x00\x00HUM/ind/2386.txt\x00\x00HUM/ind/173.txt\x00\x00\x00HUM/gr/4667.txt\x00\x00\x00HUM/ind/3713.txt\x00\x00HUM/gr/5329.txt\x00\x00\x00HUM/ind/3857.txt\x00\x00HUM/ind/5304.txt\x00\x00HUM/ind/434.txt\x00\x00\x00HUM/ind/1542.txt\x00\x00HUM/ind/3462.txt\x00\x00HUM/ind/1351.txt\x00\x00HUM/ind/4969.txt\x00\x00HUM/ind/2175.txt\x00\x00HUM/ind/4019.txt\x00\x00HUM/ind/1219.txt\x00\x00HUM/ind/4872.txt\x00\x00HUM/gr/5005.txt\x00\x00\x00HUM/gr/3961.txt\x00\x00\x00HUM/ind/3525.txt\x00\x00HUM/ind/1830.txt\x00\x00HUM/ind/3392.txt\x00\x00HUM/ind/681.txt\x00\x00\x00HUM/ind/2801.txt\x00\x00HUM/ind/4994.txt\x00\x00HUM/ind/5015.txt\x00\x00HUM/ind/541.txt\x00\x00\x00HUM/gr/5162.txt\x00\x00\x00HUM/desc/4303.txt\x00HUM/ind/378.txt\x00\x00\x00HUM/ind/2469.txt\x00\x00HUM/title/3629.txtHUM/gr/2076.txt\x00\x00\x00HUM/ind/4409.txt\x00\x00HUM/ind/2793.txt\x00\x00HUM/ind/3780.txt\x00\x00HUM/ind/1022.txt\x00\x00HUM/desc/2224.txt\x00HUM/ind/1458.txt\x00\x00HUM/ind/2966.txt\x00\x00HUM/ind/1782.txt\x00\x00HUM/gr/4126.txt\x00\x00\x00HUM/ind/4145.txt\x00\x00HUM/desc/2956.txt\x00HUM/ind/3134.txt\x00\x00HUM/ind/800.txt\x00\x00\x00HUM/ind/4098.txt\x00\x00HUM/ind/2781.txt\x00\x00HUM/ind/975.txt\x00\x00\x00HUM/ind/3318.txt\x00\x00HUM/ind/4726.txt\x00\x00HUM/gr/4710.txt\x00\x00\x00HUM/ind/4793.txt\x00\x00HUM/ind/3383.txt\x00\x00HUM/ind/2478.txt\x00\x00HUM/ind/533.txt\x00\x00\x00HUM/ind/2305.txt\x00\x00HUM/ind/4238.txt\x00\x00HUM/ind/3635.txt\x00\x00HUM/ind/1105.txt\x00\x00HUM/desc/3316.txt\x00HUM/ind/2201.txt\x00\x00HUM/ind/938.txt\x00\x00\x00HUM/ind/1255.txt\x00\x00HUM/ind/4715.txt\x00\x00HUM/ind/1769.txt\x00\x00HUM/ind/3948.txt\x00\x00HUM/ind/1556.txt\x00\x00HUM/ind/3736.txt\x00\x00HUM/gr/3212.txt\x00\x00\x00HUM/ind/4312.txt\x00\x00HUM/ind/647.txt\x00\x00\x00HUM/gr/192.txt\x00\x00\x00\x00HUM/ind/1512.txt\x00\x00HUM/ind/2244.txt\x00\x00HUM/gr/2991.txt\x00\x00\x00HUM/ind/5131.txt\x00\x00HUM/ind/5369.txt\x00\x00HUM/ind/689.txt\x00\x00\x00HUM/ind/4250.txt\x00\x00HUM/ind/667.txt\x00\x00\x00'
+p1262
+tp1263
+bstp1264
+Rp1265
+g1265
+b.

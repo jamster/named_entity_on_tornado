@@ -1,0 +1,19 @@
+
+where was george washington born?
+
+en.lemma_split('where was george washington born?')
+(u'george washington born ', u'where was 1 2 3 4')
+
+answer type: entity/location
+search subject: entity/person = george washington
+search focus: born
+
+search regex over document
+
+
+'who is the father of george?'
+answer type: entity/person
+asubj = entity/person
+aobj = george
+arel = father of
+

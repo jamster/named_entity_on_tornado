@@ -1,14 +1,9 @@
-import os.path, re,  csv,  pickle
+import os.path, re,  csv
 import tornado.web, tornado.ioloop
 from tornado.options import define, options
 import nltk.probability,  nltk.classify,  nltk.tokenize,  nltk.chunk,  nltk.tree,  nltk.sem.relextract
 import pickle
 
-from sklearn.datasets import load_files
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.svm.sparse import LinearSVC
-from sklearn.pipeline import Pipeline
 
 class doc():
     pass
@@ -16,80 +11,19 @@ class doc():
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
         self.render("home_get.html")
-        
-class QuestionAnswerHandler(tornado.web.RequestHandler):
-    def post(self):
-        question = [self.get_argument("pastequestion")]
-        os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
-        #os.chdir('/home/ubuntu/www/static/pickles')
-        categories = ['HUM', 'LOC', 'NUM', 'ENTY', 'DESC', 'ABBR']
-        fine_categories = dict(HUM=['desc',  'gr',  'ind',  'title'], 
-                               LOC=['city',  'country',  'mount',  'other',  'state'], 
-                               NUM=['code',  'count',  'date',  'dist',  'money', 'ord',  'other',  'perc',  'period', 
-                      'speed',  'temp',  'volsize',  'weight'], 
-                                ABBR=['abb',  'exp'], 
-                                DESC=['def' , 'desc',  'manner',  'reason'], 
-                                ENTY=['animal', 'body',  'color',  'cremat',  'currency',  'dismed',  'event',  'food',  'instru',  
-            'lang', 'letter',  'other',  'plant',  'product',  'religion',  'sport',  'substance',  'symbol', 
-            'techmeth',  'termeq',  'veh',  'word']
-            )
-        # open train_coarse pickle
-        data_pickle = open('pickle_training_coarse.pkl', 'rb')
-        train_coarse = pickle.load(data_pickle)
-        data_pickle.close()
-        # open text_clf pickle
-        training_pickle = open('pickle_clf_coarse.pkl', 'rb')
-        text_clf = pickle.load(training_pickle)
-        training_pickle.close()
-
-        #def coarse_classify(questions):
-        predicted = text_clf.predict(question)
-        for doc, category in zip(question, predicted):
-            coarse_category = train_coarse.target_names[category]
-            print '%r => %s' % (doc, coarse_category)
-            
-            categories = fine_categories[coarse_category]
-            print categories
-            
-            os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
-            # open fine data pickle
-            print 'opening data pickle: ' + 'pickle_training_%s.pkl' % coarse_category
-            data_pickle = open('pickle_training_%s.pkl' % coarse_category,  'rb')
-            train_data= pickle.load(data_pickle)
-            data_pickle.close()
-            
-            # open text_clf pickle
-            print 'opening training pickle: ' + 'pickle_clf_%s.pkl' % coarse_category
-            training_pickle = open('pickle_clf_%s.pkl' % coarse_category, 'rb')
-            text_clf_fine = pickle.load(training_pickle)
-            training_pickle.close()
-            
-            # fine prediction
-            print 'prediction for: ' + doc
-            fine_predicted = text_clf_fine.predict(question)
-            print train_data.target_names[fine_predicted[0]]
-            answer_type_fine = train_data.target_names[fine_predicted[0]]
-        
-        self.render("question_analysis_post.html", 
-                    question=question,  
-                    answer_type_coarse=coarse_category,  
-                    answer_type_fine=answer_type_fine, )
-                    
-    def get(self):
-        self.render("question_analysis_get.html")
 
 class SingleTweetAnalysisHandler(tornado.web.RequestHandler):
     def post(self):
         # load classifier
-        f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
-        #f = open('twitter_classifier_1.pickle')
+        #f = open('/home/ubuntu/www/twitter_classifier_2.pickle')
+        f = open('twitter_classifier_2.pickle')
         classifier = pickle.load(f)
         f.close()
         
         # load features
         word_features = []
-        csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
-        #csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
+        #csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_2.csv","rb"))
+        csv_reader = csv.reader(open("sentiment_features_2.csv","rb"))
         for row in csv_reader:
             word_features.extend(row)
                 
@@ -116,15 +50,15 @@ class TopicAnalysisHandler(tornado.web.RequestHandler):
 consumer_secret='mWIam6qsGVoiFfh9MGTUboA8G1EyRk8IFUvmzSWMunk', access_token_key='14103281-uirUc767UEjO6pSToRqbvi6byNJKGppVqaf3BJv0k', access_token_secret='WwtwNwDyjnDeGlaPnokWxChR4rIocA5RQI5xIlAOM')
 
         # load classifier
-        f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
-        #f = open('twitter_classifier_1.pickle')
+        #f = open('/home/ubuntu/www/twitter_classifier_1.pickle')
+        f = open('twitter_classifier_2.pickle')
         classifier = pickle.load(f)
         f.close()
         
         # load features
         word_features = []
-        csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
-        #csv_reader = csv.reader(open("sentiment_features_1_1.csv","rb"))
+        #csv_reader = csv.reader(open("/home/ubuntu/www/sentiment_features_1_1.csv","rb"))
+        csv_reader = csv.reader(open("sentiment_features_2.csv","rb"))
         for row in csv_reader:
             word_features.extend(row)
         
@@ -195,8 +129,7 @@ handlers = [
             (r"/", MainHandler), 
             (r"/extractor",  EntityRelationExtractorHandler), 
             (r"/tweetanalysis",  SingleTweetAnalysisHandler), 
-            (r"/gathertweetsanalysis",  TopicAnalysisHandler), 
-            (r"/questionansweranalysis",  QuestionAnswerHandler)]
+            (r"/gathertweetsanalysis",  TopicAnalysisHandler), ]
             
 settings = dict(template_path=os.path.join(os.path.dirname(__file__), "templates"))
 application = tornado.web.Application(handlers, **settings)

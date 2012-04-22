@@ -1,0 +1,2421 @@
+ccopy_reg
+_reconstructor
+p0
+(csklearn.datasets.base
+Bunch
+p1
+c__builtin__
+dict
+p2
+(dp3
+S'DESCR'
+p4
+NsS'data'
+p5
+(lp6
+S'What is a bone marrow transplant meant for ?'
+p7
+aS'What is a courier ?'
+p8
+aS'Why did the Aztecs first think the Spanish were Gods ?'
+p9
+aS"What is the origin of ` ` barbeque ' ' ?"
+p10
+aS'How does rabies spread ?'
+p11
+aS'How did the bikini bathing suite get its name ?'
+p12
+aS'How do you reference a website ?'
+p13
+aS'What is La Nina ?'
+p14
+aS'What is the poetic meter of blank verse ?'
+p15
+aS'What happens to used motor oil ?'
+p16
+aS'What is hebephrenia ?'
+p17
+aS'Why do eyes sometimes look red in photographs ?'
+p18
+aS'Why are peanut butter cookies topped with crisscrosses ?'
+p19
+aS'What is an Angelus ?'
+p20
+aS'What is a urologist ?'
+p21
+aS"Where did the term ` ` 86ed ' ' come from ?"
+p22
+aS'What is multimedia ?'
+p23
+aS'What is yohimbine ?'
+p24
+aS'How do you get bubblegum out of carpet ?'
+p25
+aS'How does blood clot ?'
+p26
+aS"What was the ` ` Dead Man 's Hand ' ' ?"
+p27
+aS'How do I give a good massage ?'
+p28
+aS'How do you clean up a cache ?'
+p29
+aS'How do you determine if a computer monitor has an SVGA adapter ?'
+p30
+aS'What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition ?'
+p31
+aS'What are the seven deadly sins ?'
+p32
+aS'What is pandoro ?'
+p33
+aS"Why do people in the upper peninsula of Michagin say ` ` eh ? ' ' ?"
+p34
+aS'What nuclear process takes place in an H-bomb ?'
+p35
+aS"What caused Harry Houdini 's death ?"
+p36
+aS"What 's a male ` ` cuckquean ' ' ?"
+p37
+aS'Why does the sun shine only a short time in Alaska ?'
+p38
+aS'What is a caul ?'
+p39
+aS'What is the difference between a bottle and a jar ?'
+p40
+aS'What does the dot on the letter i mean ?'
+p41
+aS'What does a red flag mean in auto racing ?'
+p42
+aS'Why do pharmacists work on raised floors ?'
+p43
+aS"How is it correct to say ` qigong ' ?"
+p44
+aS'How can I register my website in Yahoo for free ?'
+p45
+aS"What does the name ` ` Justin ' ' mean ?"
+p46
+aS'What are my legal rights in an automobile repossession in California ?'
+p47
+aS'What can be done about snoring ?'
+p48
+aS'How is Paraguay for vacations ?'
+p49
+aS'What are the benefits of home school ?'
+p50
+aS'What is the origin of the candy cane at Christmas ?'
+p51
+aS'How do I check if my modem is v.9 compatible ?'
+p52
+aS"What does the term ` ` spaghetti western ' ' mean ?"
+p53
+aS"What is the history of Valentine 's Day cards ?"
+p54
+aS'Where do chihuahuas come from ?'
+p55
+aS'What is the origin of the Christmas tree ?'
+p56
+aS'What is fiber in food ?'
+p57
+aS'How is Abigail Arcane related to the villainous opponent of the Swamp Thing ?'
+p58
+aS'How is energy created ?'
+p59
+aS'How do they produce vitamins ?'
+p60
+aS'How do I find a snowboarding website ?'
+p61
+aS'How can I give myself a French manicure ?'
+p62
+aS'How do I install a tile floor ?'
+p63
+aS'What is an example of an actual case of using the Fourteenth Amendment ?'
+p64
+aS'How do you fix squeaky floors ?'
+p65
+aS'What is real time processing ?'
+p66
+aS'What is the Milky Way ?'
+p67
+aS'For what reason did the Shea & Gould law firm close their L.A. office ?'
+p68
+aS'What is the hair style called that new military recruits receive ?'
+p69
+aS'What would happen to Canada if Quebec separated ?'
+p70
+aS'How do I get a complete list of all the people that are living with the last name Kilvington ?'
+p71
+aS'How do I know how much money to save for retirement ?'
+p72
+aS"What did Delilah do to Samson 's hair ?"
+p73
+aS'What are the environmental influences on plant genetics ?'
+p74
+aS'How do I contact Answers.com direct ?'
+p75
+aS'What are Maid-Rites ?'
+p76
+aS'What makes you fat ?'
+p77
+aS'What is the use of a 24-hour clock instead of a 12-hour clock ?'
+p78
+aS'What are the living conditions in Cuba ?'
+p79
+aS'What did the only repealed amendment to the U.S. Constitution deal with ?'
+p80
+aS"What is the origin of the word ` ` tampon ' ' ?"
+p81
+aS'What is the orgin of xoxoxox ?'
+p82
+aS'How did P.T. Barnum bill the diminutive Charles S. Stratton ?'
+p83
+aS'How do I know if I am pregnant ?'
+p84
+aS'What does laser stand for ?'
+p85
+aS'What is the purpose of a car bra ?'
+p86
+aS'What caused Shea & Gould to close their L.A. office ?'
+p87
+aS'What is digitalis ?'
+p88
+aS'What is film noir ?'
+p89
+aS'What was the rallying cry of the early American revolutionaries ?'
+p90
+aS'What is viscosity ?'
+p91
+aS'What was the outcome of the 1945 Yalta Conference ?'
+p92
+aS'How do you do a topic outline ?'
+p93
+aS'What is fellatio ?'
+p94
+aS'What was the importance of Magellan ?'
+p95
+aS'What caused the Lynmouth floods ?'
+p96
+aS'What is a multiplexer ?'
+p97
+aS'Where did the energy for the Big Bang come from ?'
+p98
+aS'How can scientists predict weather by observing clouds ?'
+p99
+aS'What is the historical relationship of Catholic Church and bingo ?'
+p100
+aS'What do Caroll Baker , Tammy Grimes , Debbie Reynolds , and Judy Garland all have in common ?'
+p101
+aS'What is proposition 98 about ?'
+p102
+aS'What is witch hazel ?'
+p103
+aS"Why do we ask for the ` ` check ' ' and not the bill at a restaurant ?"
+p104
+aS'What do Hank Aaron , Jimmy Stewart , and Howard K. Smith have in common ?'
+p105
+aS"What does ` ` E Pluribus Unum ' ' on the penny mean ?"
+p106
+aS"What is the ` ` 7-minute cigarette ' ' ?"
+p107
+aS'Why did the Shea & Gould law firm leave Los Angeles ?'
+p108
+aS"What does the name ` ` Sheri ' ' mean ?"
+p109
+aS'What are the words to the Canadian National anthem ?'
+p110
+aS'What does the number 33 on the Rolling Rock beer bottle mean ?'
+p111
+aS'How can I find out what year a Beanie Baby was introduced ?'
+p112
+aS'What have you not let a tennis ball do if you volley ?'
+p113
+aS'Why is the development of space so important ?'
+p114
+aS'What is a nanometer ?'
+p115
+aS'What is the difference between hair and fur ?'
+p116
+aS'What is the proof that houseplants metabolize carcinogens ?'
+p117
+aS'What are Cobol , Fortran , and Pascal ?'
+p118
+aS"What is meant by the term ` ` yield to maturity ' ' in reference to bonds ?"
+p119
+aS'What did Mighty Mouse always sing as he went into action ?'
+p120
+aS'What are Bellworts ?'
+p121
+aS'What are pomegranates ?'
+p122
+aS'How was Teddy Roosevelt related to FDR ?'
+p123
+aS"What is a person 's socioeconomic position ?"
+p124
+aS'What is the difference between a fruit and a vegetable ?'
+p125
+aS"Where does the expression ` ` cloud nine ' ' come from ?"
+p126
+aS"What causes ` ` rolling thunder ' ' ?"
+p127
+aS'How can I find out how much it costs to raise a baby for six months ?'
+p128
+aS"What is the origin of the word ` ` Teddy bear ' ' ?"
+p129
+aS"What 's the staff of life mentioned in the Lord 's Prayer ?"
+p130
+aS'What does Tiffany mean ?'
+p131
+aS'What is osmosis ?'
+p132
+aS'What incident caused the canning of a summit conference between Eisenhower and Khrushchev ?'
+p133
+aS"What do you do when your mouse is n't working as fast as it 's supposed to ?"
+p134
+aS'Why do some jets have a vapor trail , and others do not ?'
+p135
+aS'How do you look up criminal records on the Internet ?'
+p136
+aS'Why is Thanksgiving on a Thursday ?'
+p137
+aS"What is the ` ` Global Economy ' ' ?"
+p138
+aS'How did Asia get its name ?'
+p139
+aS'What is an aortic abdominal aneurysm ?'
+p140
+aS'What causes blue balls ?'
+p141
+aS'What does Inuit and Eskimo mean ?'
+p142
+aS'Why is Chicago named Chicago ?'
+p143
+aS'What do the names Neil , Mary , and Anthony mean ?'
+p144
+aS'How can you become an FBI agent ?'
+p145
+aS'What should you do for an ankle sprain ?'
+p146
+aS'What is troilism ?'
+p147
+aS'What is Head Start ?'
+p148
+aS'How did the war of 1812 affect Delaware ?'
+p149
+aS'What is infomatics ?'
+p150
+aS"How does the Nintendo ` ` Zapper ' ' work ?"
+p151
+aS'How do you clean an LCD monitor screen ?'
+p152
+aS'What are people doing to help prevent the extinction of birds ?'
+p153
+aS'What is the origin of music ?'
+p154
+aS'How can I find out my Moon sign ?'
+p155
+aS'What motto ended Merrie Melodies cartoons ?'
+p156
+aS"What does ` ` extended definition ' ' mean and how would one write a paper on it ?"
+p157
+aS'What is goulash ?'
+p158
+aS'What is the Order of the Arrow in Boy Scouts ?'
+p159
+aS'How is the element strontium purified ?'
+p160
+aS'What were the first words spoken on a film sound track ?'
+p161
+aS'What is Win Rah ?'
+p162
+aS'What is the origin of the word assassinate ?'
+p163
+aS'What is the medical condition of hypertension ?'
+p164
+aS'What will a compass do in outer space ?'
+p165
+aS'Where did the term fireplug come from ?'
+p166
+aS'How can I get my product licensed by the NBA ?'
+p167
+aS'Why are the U.S. presidential elections held in November ?'
+p168
+aS'How do you exterminate bees that are in the walls of your home ? Will bee eggs remain over winter ?'
+p169
+aS"What was the proper Laugh-In respones to : ` ` Say goodnight , Dick ' ' ?"
+p170
+aS'How do I sing like Elvis Presley ?'
+p171
+aS"What 's the Red Planet ?"
+p172
+aS'What is D.B. Cooper known for ?'
+p173
+aS'What do you need to do to marry someone in jail ?'
+p174
+aS"Why doesn 't www.answers.com have any answers to my questions ?"
+p175
+aS'Why was the zipper invented ?'
+p176
+aS'What happened in dogtown in 1899 to make that year remembered ?'
+p177
+aS'How did the tradition of best man start ?'
+p178
+aS'What is the spectrum of a sine wave ?'
+p179
+aS'Why were people recruited for the Vietnam War ?'
+p180
+aS'What is the Golden Rule ?'
+p181
+aS'How do microwaves work ?'
+p182
+aS'How can I enforce new rules to a group of youngsters who have been allowed to do as they please .'
+p183
+aS'What does gringo mean ?'
+p184
+aS'How can I find out my biorhythm ?'
+p185
+aS'What is a Guild ?'
+p186
+aS"What is a ` ` repeating voter ' ' ?"
+p187
+aS"What 's distinctive about a palmiped 's feet ?"
+p188
+aS'How is plastic made ?'
+p189
+aS'What are the distinct physical characterstics of the Arabian horse ?'
+p190
+aS'What are the Poconos ?'
+p191
+aS'What is the difference between a college and a university ?'
+p192
+aS'What is the difference between a generator and an alternator ?'
+p193
+aS'What do Christian Scientists believe in ?'
+p194
+aS'What is a hydrogen bond ?'
+p195
+aS'Hazmat stands for what ?'
+p196
+aS'Why do airliners crash vs. gliding down ?'
+p197
+aS'Why are eggs supposed to be stored small end down ?'
+p198
+aS'What is the difference between jazz and blues ?'
+p199
+aS'What is an urban legend ?'
+p200
+aS'What is the Amish religion ?'
+p201
+aS'How do you convert foot-pounds to foot-inches ?'
+p202
+aS'What is humidity ?'
+p203
+aS"What is the definition of the term ` ` weapons system ' ' ?"
+p204
+aS'What makes salt ?'
+p205
+aS"How can I get someone 's phone number if I only have their screen name ?"
+p206
+aS'What is the root of all evil ?'
+p207
+aS"How do you pronounce ` ` Tzimisce ' ' ?"
+p208
+aS"What is the origin of ` ` Beauty is in the eye of the beholder ' ' ?"
+p209
+aS"What 's the last line of Dickens 's A Christmas Carol ?"
+p210
+aS'What type of childhood did Jules Verne have ?'
+p211
+aS'What is porphyria ?'
+p212
+aS'How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?'
+p213
+aS'What is e-commerce ?'
+p214
+aS"What is ` ` cat scratch fever ' ' ?"
+p215
+aS'How does a glacier form ?'
+p216
+aS'What is an isthmus ?'
+p217
+aS'What are differences between 1980 and 1990 ?'
+p218
+aS'What are amaretto biscuits ?'
+p219
+aS'What effect does LSD have on the brain ?'
+p220
+aS"What is a ` ` False Moon ' ' ?"
+p221
+aS"How does light travel through the void of space if there is no medium for it to ` wave ' or ` pulse ' ."
+p222
+aS'What is Olestra ?'
+p223
+aS'Why do recipe books recommend starting with cold water when you boil something ?'
+p224
+aS'What is object-oriented design ?'
+p225
+aS'How do you find the area of a circle ?'
+p226
+aS'What is the C programming language ?'
+p227
+aS'What is the Home Rule Act ?'
+p228
+aS'How has TV affected our society ?'
+p229
+aS'What is crabgrass ?'
+p230
+aS'What is commonly considered the fifth sense ?'
+p231
+aS'How was Lawrence'
+p232
+aS'How can I find a list of , fax and or email , addresses for human resource departments in Massachusetts ?'
+p233
+aS"What is the meaning of ` ` subaru ? ' '"
+p234
+aS'How do you ask a total stranger out on a date ?'
+p235
+aS"Why didn 't European colonial rule spread until after the first and second industrial revolutions ?"
+p236
+aS'What is Colin Powell best known for ?'
+p237
+aS'Why do rooftops give off steam after a big rainstorm ?'
+p238
+aS'What is a pyrotechnic display ?'
+p239
+aS'What is a virtual IP address ?'
+p240
+aS'What according to the Kinsey Institute , is the sexual preference of four percent of American males ?'
+p241
+aS'What does the term glory hole mean ?'
+p242
+aS'What is Black Hills , South Dakota most famous for ?'
+p243
+aS'How do I contact answers.com ?'
+p244
+aS'How does salt melt ice and snow ?'
+p245
+aS'How does a submarine operate ?'
+p246
+aS'How do you get a girl to have sex with you ?'
+p247
+aS'What are shooting stars ?'
+p248
+aS'How do you get a broken cork out of a bottle ?'
+p249
+aS'How do you measure the heat of the sun ?'
+p250
+aS'What are hook worms ?'
+p251
+aS'What are Cushman and Wakefield known for ?'
+p252
+aS'What is agent orange ?'
+p253
+aS'How can people from Ireland come to the U.S. , work , and then return to Ireland ?'
+p254
+aS'What is the largest variety of cactus ?'
+p255
+aS'What are binomial coefficients ?'
+p256
+aS'What are field effect transistors ?'
+p257
+aS'What happened to Moon Maiden ?'
+p258
+aS'What is the chemiosmotic theory ?'
+p259
+aS'What is a storm surge ?'
+p260
+aS'What happened to Pompeii ?'
+p261
+aS'Where did marijuana come from ?'
+p262
+aS'How did names come about ?'
+p263
+aS"What 's the distinction of U.S. Supreme Court Justice Thurgood Marshall ?"
+p264
+aS'What is deconstructionism ?'
+p265
+aS'What is the difference between Neoclassical art and Romanticism art ?'
+p266
+aS'What does Choo Choo Charlie say ?'
+p267
+aS'What is a biologist ?'
+p268
+aS'How can I get started in writing for television ?'
+p269
+aS'What is the difference between molecules and compounds ?'
+p270
+aS'What do players try to do when the music stops in a game of musical chairs ?'
+p271
+aS'What is Toulmin logic ?'
+p272
+aS'What is a dangling participle ?'
+p273
+aS'How does the speed the magnet spins in a generator affect the output of the generator ?'
+p274
+aS'How do storms form ?'
+p275
+aS'What are the Urals ?'
+p276
+aS"What is the origin of the term ` ` The Brooklyn Side ' ' in bowling ?"
+p277
+aS'What happened in the city of Dogtown in 1899 ?'
+p278
+aS'What is nuclear proliferation ?'
+p279
+aS'How can you stop the itch from poison ivy ?'
+p280
+aS"What are the medical purposes of ` ` clitoridectomy ' ' ?"
+p281
+aS'What was the Long March in China ?'
+p282
+aS'What are the seven virtues ?'
+p283
+aS'What was the effect of the Yalta Conference ?'
+p284
+aS"What 's the meaning of the name Tatiana ?"
+p285
+aS'How do you write a correct critical analysis of a poem ?'
+p286
+aS'Why is black the color of mourning in the West ?'
+p287
+aS'Colin Powell is most famous for what ?'
+p288
+aS'What is the song Stairway to Heaven by Led Zeppelin about ?'
+p289
+aS'What does appropriates money mean ?'
+p290
+aS'Where did Indian Pudding come from ?'
+p291
+aS"What is the definition of the Scrabble word ` syzygy ' ?"
+p292
+aS"What was unusual about Alexandra 's appearance in Josie and the Pussycats ?"
+p293
+aS'What is Candlemas Day ?'
+p294
+aS'What does Elysium mean ?'
+p295
+aS'How can I find a phone number of someone if I only know their email address ?'
+p296
+aS'What causes the body to shiver in cold temperatures ?'
+p297
+aS"What is ` ` the only cigarette made with no leftovers ' ' ?"
+p298
+aS'What is software piracy ?'
+p299
+aS'How does marl form and what mineral does it contain ?'
+p300
+aS'What is the daily requirement of folic acid for an expectant mother ?'
+p301
+aS'Why does tuberculosis afflict people ?'
+p302
+aS'How can I find online spelling ?'
+p303
+aS'What is the origin of blue for boys and pink for girls ?'
+p304
+aS'How do you recognize anorexia ?'
+p305
+aS'How does a bill become law ?'
+p306
+aS'Why are there olives in martinis ?'
+p307
+aS"How do you solve ` ` Rubik 's Cube ' ' ?"
+p308
+aS'What is the function of the appendix ?'
+p309
+aS'What is ethology ?'
+p310
+aS'What is a plant supplement ?'
+p311
+aS'What does seccession mean ?'
+p312
+aS'Define cosmology .'
+p313
+aS'What are geckos ?'
+p314
+aS'What is the circumorbital hematoma ?'
+p315
+aS'What is a Jake brake ?'
+p316
+aS'What is a bourdon tube ?'
+p317
+aS'What are you hearing when you put a seashell to your ear ?'
+p318
+aS'What is the feudal system ?'
+p319
+aS'What is narcolepsy ?'
+p320
+aS"What is the origin of the proverb ` ` A stitch in time saves nine ' ' ?"
+p321
+aS'How do I start a web based business ?'
+p322
+aS'What effects do nitrates have on the environment ?'
+p323
+aS'What is a gas release event ?'
+p324
+aS'How can I gain access to a spy satelite ?'
+p325
+aS'How did serfdom develop in and then leave Russia ?'
+p326
+aS"What is the origin of the word ` ` attic ' ' ?"
+p327
+aS'What is idealab ! ?'
+p328
+aS'What is the secret of the universe ?'
+p329
+aS"What 's new in the postal world in 1999 ?"
+p330
+aS"How can I get someone 's email address ?"
+p331
+aS'What does a nihilist believe in ?'
+p332
+aS'What are the Greek numerals ?'
+p333
+aS"How is Easter Sunday 's date determined ?"
+p334
+aS'How can I get a CCT diagram ?'
+p335
+aS"What is Megan 's law ?"
+p336
+aS"Why do we call someone ` ` honey ' ' ?"
+p337
+aS'Why was the L.A. office of Shea and Gould closed ?'
+p338
+aS'What did John F. Kennedy consider his greatest blunder in office ?'
+p339
+aS"How do I increase my biceps ' size ?"
+p340
+aS'Why did Egyptians shave their eyebrows ?'
+p341
+aS'What is the purpose of the SysRq key on my computer keyboard ?'
+p342
+aS'What is saltpeter ?'
+p343
+aS'How do I tie dye clothes ?'
+p344
+aS'What is ethylene ?'
+p345
+aS'What is the function of RAM ?'
+p346
+aS'How do clouds form ?'
+p347
+aS'How do you make a million bucks ?'
+p348
+aS'What is power steering ?'
+p349
+aS'What is a horologist ?'
+p350
+aS'How do you buy stocks ?'
+p351
+aS'What was archy , and mehitabel ?'
+p352
+aS'Where do rocks come from ?'
+p353
+aS'What is Java ?'
+p354
+aS"What are the rules to ` ` snow golf ' ' ?"
+p355
+aS'How do you do a bibliography page ?'
+p356
+aS"What are ` ` inkhorn terms ' ' ?"
+p357
+aS'How do websites like Yahoo and Excite make money ?'
+p358
+aS'What is the difference between the Koran and The Bible ?'
+p359
+aS'How do I do this ?'
+p360
+aS'What are some chemical properties of mendelevium ?'
+p361
+aS'Why are ice cream sundaes called sundaes ?'
+p362
+aS'What is the difference between microprocessors & microcontrollers ?'
+p363
+aS'What is the definition of a witch ?'
+p364
+aS'What is Australia Day ?'
+p365
+aS"What was the V-8 Juice slogan : ` ` the tastebud ' ' ?"
+p366
+aS'What is federal income tax ?'
+p367
+aS'How can I call a friend in another country when I do not know the telephone number ?'
+p368
+aS'How do you get silly putty out of fabric ?'
+p369
+aS'What causes someone to be ticklish ?'
+p370
+aS'What is The Gay Science ?'
+p371
+aS'How can I search for a word within my own webpage ?'
+p372
+aS'What did John Hinckley do to impress Jodie Foster ?'
+p373
+aS"Why does it say on children 's cough syrup not to drive while using this medication ?"
+p374
+aS"Why can 't you taste anything when you have a cold ?"
+p375
+aS'How did Lee Harvey Oswald purchase his rifle ?'
+p376
+aS'What causes rust ?'
+p377
+aS'What is the half-life of P-32 ?'
+p378
+aS'What is a green bog ?'
+p379
+aS'What does the donation process entail ?'
+p380
+aS'What does verdandi mean ?'
+p381
+aS'What was The Living Room War ?'
+p382
+aS"What was an ` ` Asiento ' ' ?"
+p383
+aS'What does the name Jenna mean ?'
+p384
+aS'What ever happened to the once popular Yale Lock Company ?'
+p385
+aS'How do you dunk ?'
+p386
+aS"How do I know if I 'm jealous of someone ?"
+p387
+aS"How do I get another city 's newspaper ?"
+p388
+aS"How can your school march in the Macy 's Thanksgiving Parade ?"
+p389
+aS'How does a copier work ?'
+p390
+aS'How you can raise your IQ ?'
+p391
+aS'How do they raise the cranes when building high-rise buildings ?'
+p392
+aS'How do you address a Chinese person ?'
+p393
+aS'What causes tuberculosis ?'
+p394
+aS'What is a Devo hat ?'
+p395
+aS'How does a small businessman contact the Good Humor Ice Cream company to do business with them ?'
+p396
+aS"What is the origin of the first name ` Breony ' ?"
+p397
+aS'Why is poop sometimes different colors ?'
+p398
+aS'How do I log on to home page at Headquarters U.S. European Command ?'
+p399
+aS'What does the word terrorism mean ?'
+p400
+aS'How do you get a pointsettia to turn red ?'
+p401
+aS'What are Fortune 500 companies ?'
+p402
+aS'What must a Las Vegas blackjack dealer do when he reaches 16 ?'
+p403
+aS'What is a pig in a poke ?'
+p404
+aS'What is white chocolate ?'
+p405
+aS"What does it mean ` ` Rupee Depreciates ' ' ?"
+p406
+aS'How can you tell if someone is lying ?'
+p407
+aS'What do a diamond and lump of coal have in common ?'
+p408
+aS'What are boxcars ?'
+p409
+aS"Why is Microsoft 's Windows 3 such a successful computer program ?"
+p410
+aS"What is the history of ` ` the toast ' ' ?"
+p411
+aS'How do plants make food ?'
+p412
+aS'Why should cigarette smoking be banned ?'
+p413
+aS'How can you define time ?'
+p414
+aS'How do you send a movie transcript to Hollywood so that it can be produced into a film ?'
+p415
+aS"What is the origin of the word ` ` sideburns ' ' ?"
+p416
+aS'What is Nitrox diving ?'
+p417
+aS'What is a gandy dancer ?'
+p418
+aS"What 's the Olympic motto ?"
+p419
+aS'What is gymnophobia ?'
+p420
+aS"How does the car in ` ` Christine ' ' become possessed ?"
+p421
+aS'What is the origin of gametophytic tissue ?'
+p422
+aS'What is office automation ?'
+p423
+aS'What is splatterpunk ?'
+p424
+aS'What happened to Phillip Taylor Kramer ?'
+p425
+aS'How can I find online spelling , and punctuation drills for my 6th grader ?'
+p426
+aS'What effect does friction have on perpetual motion ?'
+p427
+aS'Define Sinn Fein .'
+p428
+aS'What is a neurosurgeon ?'
+p429
+aS'What is tumbled marble ?'
+p430
+aS'What is the difference between a bachelor and a 1 bedroom apartment ?'
+p431
+aS'What are snowballs to a hot-rodder ?'
+p432
+aS'Colin Powell is best known for what achievement ?'
+p433
+aS'What do Mormons believe ?'
+p434
+aS'How do they type Chinese characters on a keyboard ?'
+p435
+aS'Why does a wheel , e.g. a car tire , appear to spin in the opposite direction as it slows down ?'
+p436
+aS'What is the Motto for the State of Maryland ?'
+p437
+aS'What is the cause of endangered species ?'
+p438
+aS"What is ` ` the computer for the rest of us ' ' ?"
+p439
+aS'What is a hormone ?'
+p440
+aS'What is the difference between the anus and the rectum ?'
+p441
+aS'What is a hyperlink ?'
+p442
+aS'What are Maid-Rites ?'
+p443
+aS'What is Spumante ?'
+p444
+aS'Why was Muhammad Ali stripped of his title and barred from boxing in 1967 ?'
+p445
+aS'What is the history of Buffalo chicken wings ?'
+p446
+aS'What is a heuristic ?'
+p447
+aS'What is a wart ?'
+p448
+aS'Why is Indiglo called Indiglo ?'
+p449
+aS'How do you become a dentist ?'
+p450
+aS'How can a foreigner get a U.S. Social Security card ?'
+p451
+aS'What are tannins ?'
+p452
+aS"What are the limits to ` ` self-defense ? ' '"
+p453
+aS'How do you determine heating requirements for your home ?'
+p454
+aS'What is a Cartesian Diver ?'
+p455
+aS'What is a turnkey contract ?'
+p456
+aS'What is the origin of the surname of Braun ?'
+p457
+aS'What is lung cancer ?'
+p458
+aS'What will the weather be today ?'
+p459
+aS'What are the Low Countries ?'
+p460
+aS'How does ultraviolet light damage the DNA of skin cells ?'
+p461
+aS"What 's the meaning of the Latin battle cry : Ad arma , ad arma ."
+p462
+aS'What made the short-lived Star Hawks strip so unique ?'
+p463
+aS'What causes asthma ?'
+p464
+aS'What information can you get me on Fairground Park in St. Louis'
+p465
+aS'What is the filmmakers collabrative ?'
+p466
+aS'How do I impress a guy ?'
+p467
+aS"What is the origin of U.S. Army sergeant 's stripes ?"
+p468
+aS'What is a nematode ?'
+p469
+aS'What are those little blue reflectors in the middle of the road for ?'
+p470
+aS'What does the name Billie mean ?'
+p471
+aS'What is the definition of cecum ?'
+p472
+aS'What is an arab strap ?'
+p473
+aS'What is the origin of the word , JJ .'
+p474
+aS'What is the nursery rhyme Rock-a-by Baby about ?'
+p475
+aS'What is form drag ?'
+p476
+aS'What is a swatch ?'
+p477
+aS'How do you get to the top of the Eiffel Tower ?'
+p478
+aS'What does the double-O indicate in 007 ?'
+p479
+aS'What are manifest and latent function theories ?'
+p480
+aS'What does the name Gina mean ?'
+p481
+aS'What are the short- and long-term effects of underage drinking ?'
+p482
+aS'What do you say to a friend who ignores you for other friends ?'
+p483
+aS'How does a rainbow form ?'
+p484
+aS'What is the difference between khaki and chino ?'
+p485
+aS'What causes the redness in your cheeks when you blush ?'
+p486
+aS'What exactly is radiation ?'
+p487
+aS"Where does ` ` bovine ' ' come from ?"
+p488
+aS"What did n't Rocky Marciano do in his pro boxing career ?"
+p489
+aS'What is Smartnet ?'
+p490
+aS'What features of the African elephant are larger than those of the Indian elephant ?'
+p491
+aS'How is a hydrogen bomb different from a nuclear bomb ?'
+p492
+aS"What is June 's birthstone ?"
+p493
+aS'How was the element calcium named ?'
+p494
+aS'What are bear and bull markets ?'
+p495
+aS"What was Suzy Parker doing to earn $ 1 , 000 in the early 1950 's ?"
+p496
+aS'What is a portal ?'
+p497
+aS"Why was Henry Ford 's first automobile calleda Model T & his second type of automobile , introduced in 1928 , called a Model A ?"
+p498
+aS'How do wasps make their nests ?'
+p499
+aS"What is the distinction of Erle Stanley Gardner 's The Case of the Terrified Typist ?"
+p500
+aS'What is a transistor ?'
+p501
+aS'What is a conifer ?'
+p502
+aS'Why is the grass green ?'
+p503
+aS'What causes an earthquake ?'
+p504
+aS'What is the definition of hazmat ?'
+p505
+aS'How do I love thee ?'
+p506
+aS'What is hydrogen ?'
+p507
+aS'What is the recommended daily requirement for folic acid for pregnant women ?'
+p508
+aS'Why are electric cars less efficient in the northeast than in California ?'
+p509
+aS'What is Shalom ?'
+p510
+aS'How do I find out the exact time of a sunset for a particular day ?'
+p511
+aS'What else has the swastika stood for ?'
+p512
+aS'How is water treated to make it safe to drink ?'
+p513
+aS'How do companies cut paper so thin ?'
+p514
+aS"What does the word ` ` opera ' ' mean ?"
+p515
+aS"Where did the term ` ` 69 ' ' come from ?"
+p516
+aS"How did ` stat ' come to be used as an expression for quickly ?"
+p517
+aS'What is barnstorming ?'
+p518
+aS"What is ` ` Chicago Hope ' ' ?"
+p519
+aS'What do economists do ?'
+p520
+aS'How does marijuana lead to other drugs ?'
+p521
+aS'What is a drought ?'
+p522
+aS"Why shouldn 't you remove a bee stinger with tweezers ?"
+p523
+aS'How can anyone tell if a female had sexual intercourse ?'
+p524
+aS"Where did the saying ` ` rule of thumb ' ' come from ?"
+p525
+aS'How do I stop background noise in a car stereo ?'
+p526
+aS'How does an ion drive work ?'
+p527
+aS'What revelation did Alexander Butterfield make to the Senate Watergate committee ?'
+p528
+aS'How do I know someone is truly in love with me ?'
+p529
+aS'What currents affect the area of the Shetland Islands and Orkney Islands in the North Sea ?'
+p530
+aS'What is the difference between New York-style and Chicago-style pizza ?'
+p531
+aS"How can I get in touch with Michael Moore of ` ` Roger & Me ' ' ?"
+p532
+aS'What does idle mean ?'
+p533
+aS'Why does it snow ?'
+p534
+aS'What are vermicilli , rigati , zitoni , and tubetti ?'
+p535
+aS'What is an annotated bibliography ?'
+p536
+aS'What is goldenseal ?'
+p537
+aS"What is the origin of the word ` ` amen ' ' ?"
+p538
+aS"What is main reason for that electric vehicles can 't be popular nowadays ?"
+p539
+aS"What is ` ` Vocal Sampling ' ' ?"
+p540
+aS'How would I find the price of different organs that have been donated ?'
+p541
+aS'What is a rhomboideus minor ?'
+p542
+aS"What 's the motto of the Boy Scouts ?"
+p543
+aS'What is the origin of the word trigonometry ?'
+p544
+aS'How is bubble wrap made ?'
+p545
+aS'What do Japanese school uniforms look like ?'
+p546
+aS'What is the history of Spartacus , the Roman slave and gladiator ?'
+p547
+aS'What is dextropropoxyphen napsylate ?'
+p548
+aS'What causes pneumonia ?'
+p549
+aS"What is ` ` the washed vodka ' ' ?"
+p550
+aS'What is an aurora ?'
+p551
+aS'Why did Europeans first come to Australia and Oceania ?'
+p552
+aS"What 's the setting of John Le Carre 's A Small Town in Germany ?"
+p553
+aS'How can someone become a federal agent ?'
+p554
+aS'How can I get a comic character I made copyrighted and published ?'
+p555
+aS'What is a virtual IP address ?'
+p556
+aS"What is the origin of the midwest slang , ` you 're darn tootin ' ?"
+p557
+aS'What is e-commerce ?'
+p558
+aS'What are the side effects of mevacor ?'
+p559
+aS'What happens to the female body with lack of sleep and food ?'
+p560
+aS"What is Eagle 's syndrome styloid process ?"
+p561
+aS'Why do girls have to wear training bras ?'
+p562
+aS'What is the HIGHEST Roman numeral ?'
+p563
+aS'What is the origin of the word Marijuana ?'
+p564
+aS'How did Edith Bunker die ?'
+p565
+aS"What is the meaning of ` ` CPR ' ' ?"
+p566
+aS"What is ` ` Nine Inch Nails ' ' ?"
+p567
+aS'What is hypnotherapy ?'
+p568
+aS'What is object-oriented design ?'
+p569
+aS'What is Remembrance Day all about ?'
+p570
+aS'What is tyvek ?'
+p571
+aS"How can I look up someone 's E-mail address on the Internet ?"
+p572
+aS'What do I need to learn to design web pages ?'
+p573
+aS'What is the origin of infinity ?'
+p574
+aS'How does food color affect how you think it will taste ?'
+p575
+aS'What is the difference between terry cloth and French terry ?'
+p576
+aS'What is habeas corpus ?'
+p577
+aS'How do you make a computer chip ?'
+p578
+aS'What is recruitment interview technique ?'
+p579
+aS'What is a stratocaster ?'
+p580
+aS"What is Franz Kafka 's short story ` ` A Country Doctor ' ' trying to tell us ?"
+p581
+aS'What is mandibulofacial dysostosis ?'
+p582
+aS'How does Belle describe her life in Beauty and the Beast ?'
+p583
+aS'What does camera-ready art mean ?'
+p584
+aS'How do I find out what cities are in a certain area code ?'
+p585
+aS'What was the Vietnam War ?'
+p586
+aS'What is the origin of the name Katie ?'
+p587
+aS'Why are there Braille things on the ATM machines that people drive through ?'
+p588
+aS'Where did the marriage ceremony come from ?'
+p589
+aS'What is the design of the ship Titanic ?'
+p590
+aS"What does ` ` Semper Fidelis ' ' mean ?"
+p591
+aS'How did the months of the year get there name ?'
+p592
+aS'What is the VDRL test of blood ?'
+p593
+aS'What do pointed letters mean to a handwriting analyst ?'
+p594
+aS'Why do movie and TV stars get paid so much ?'
+p595
+aS"What is the biblical meaning of ` stones ' ?"
+p596
+aS'What is the history of skateboarding ?'
+p597
+aS"How is the word ` qigong ' pronounced ?"
+p598
+aS'What is literary criticism ?'
+p599
+aS'What is the meaning of the name Ella ?'
+p600
+aS'What is dew point ?'
+p601
+aS'How do you handle a hungry man ?'
+p602
+aS'What effect does a prism have on light ?'
+p603
+aS'Why is hockey so violent ?'
+p604
+aS'How do you ask questions ?'
+p605
+aS'What exactly is the purpose of the anteater ?'
+p606
+aS'What did FCC chairman Newton Minow declare TV to be on May 9 , 1961 ?'
+p607
+aS'What happened in the Long March ?'
+p608
+aS'What was a Mae West on a World War II battleship ?'
+p609
+aS"What characteristics contribute to its ` ` intelligence ' ' ?"
+p610
+aS'How can you prevent it ?'
+p611
+aS"How do you get dates with the ` ` Hooters ' ' girls ?"
+p612
+aS'In My Antonia , how is Mr. Shimerda out of place on the farm ?'
+p613
+aS'What is probability theory ?'
+p614
+aS'What is Archimedes famous for ?'
+p615
+aS"What 's the proud claim to fame of the young women who formed Kappa Alpha Theta ?"
+p616
+aS"What is the ` ` coppertop ' ' battery ?"
+p617
+aS"What are Christopher Marlowe 's and Shakespeare 's literary contributions to English literature ?"
+p618
+aS"What does ` ` intractable plantar keratoma ' ' mean ?"
+p619
+aS'How is the election of a new Pope announced to the world ?'
+p620
+aS'How did Super President gain his powers on the animated series ?'
+p621
+aS"What is the origin of the ethnic category ` ` caucasian ' ' ?"
+p622
+aS'What does the Latin ante mortem mean ?'
+p623
+aS'What is the difference between a median and a mean ?'
+p624
+aS'What does Aaron mean ?'
+p625
+aS'What is the highest Roman numeral ?'
+p626
+aS'How can you get rust stains out of clothing ?'
+p627
+aS'How can I trace my family roots ?'
+p628
+aS'What is the difference between fatalism and determinism ?'
+p629
+aS"What is the definition of ` graphic details ' ?"
+p630
+aS'What is a disaccharide ?'
+p631
+aS"In the song ` ` Yankee Doodle , ' ' why did Yankee Doodle stick a feather in his cap and call it macaroni ?"
+p632
+aS'What is a wet dream ?'
+p633
+aS'How do I change a file from an ART file to a JPEG or Bitmap file ?'
+p634
+aS"What does ` ` Janelle ' ' mean ?"
+p635
+aS'How is silk screening done ?'
+p636
+aS"How did the jack-o '-lantern get it 's name ?"
+p637
+aS'How is the element strontium purified ?'
+p638
+aS'What does Freddy Freeman say to become Captain Marvel Jr. ?'
+p639
+aS'How do I find if my relatives were on the Trail of Tears ?'
+p640
+aS'How come a doughnut has a hole in it ?'
+p641
+aS"What is the origin of the word ` posh ' ?"
+p642
+aS'What is Bombay duck ?'
+p643
+aS'How successful is arometherapy ?'
+p644
+aS'How effective are condoms in protecting against AIDS ?'
+p645
+aS'What is a wop ?'
+p646
+aS"What is ` ` dew point ' ' ?"
+p647
+aS'What is the 401 , K , plan ?'
+p648
+aS'What did Cool Hand Luke go to jail for ?'
+p649
+aS'How do birds have sex ?'
+p650
+aS"What 's the difference and advantages of selecting a Super VHS VCR over plain VHS model ?"
+p651
+aS'How do you stop junk snail mail ?'
+p652
+aS'What did the Confederate Constitution say about slavery ?'
+p653
+aS'What is carpal tunnel syndrome ?'
+p654
+aS'What is the AIM-54C Phoenix ?'
+p655
+aS'What is the history of the hairdryer ?'
+p656
+aS'What is the history of Hot Wheels cars , and how are they produced ?'
+p657
+aS'What is the meaning of thalassemia ?'
+p658
+aS'Why are there letters on the telephone ? Why are there no Q or Z ?'
+p659
+aS'What baseball expression came from the nautical term for ships sailing between the Atlantic and Pacific before the Panama Canal ?'
+p660
+aS'How is digital audio used ?'
+p661
+aS'What are the factors leading to the high teen pregnancy rate in Spartanburg , South Carolina ?'
+p662
+aS"How did the Great Depression affect Japan 's history ?"
+p663
+aS'What is a handheld PC ?'
+p664
+aS'What does the name Shawn mean ?'
+p665
+aS'What function does homeostasis have on the existence of an organism ?'
+p666
+aS'What was Nine Tailors , the television show from 1974 , about ?'
+p667
+aS'What is the virus HIV ?'
+p668
+aS'How is thalassemia defined ?'
+p669
+aS'What does the word camaro mean , from the GM car the Camaro ?'
+p670
+aS"What are the words to the cd Eminem 's , or slim shady , ` ` My Name Is ' ' ?"
+p671
+aS'What causes canker sores in the mouth ?'
+p672
+aS'How is Answers.com different from KnowPost.com ?'
+p673
+aS'What is the origin of thank you notes ?'
+p674
+aS'What is he doing now ?'
+p675
+aS'Give a reason for American Indians oftentimes dropping out of school .'
+p676
+aS"Why is it called ` ` hamburger ' ' if there is no ham in it ?"
+p677
+aS'What is in baby powder and baby lotion that makes it smell the way it does ?'
+p678
+aS'How does it make its colors ?'
+p679
+aS'How did U.S.A become involved in the Barbary Wars'
+p680
+aS'What is an ecological niche ?'
+p681
+aS'Define Spumante .'
+p682
+aS"What does the Georgetown ` ` Hoya ' ' mean ?"
+p683
+aS'How is an executioner determined ?'
+p684
+aS"What is meant by ` ` capital market ' ' ?"
+p685
+aS'What caused the Titanic to sink ?'
+p686
+aS'Why do magnets attract ?'
+p687
+aS'Why are haunted houses popular ?'
+p688
+aS'What is a cullion ?'
+p689
+aS'What is chromatology ?'
+p690
+aS'What does storm wave mean in Japanese ?'
+p691
+aS'What happens when a body part falls asleep ?'
+p692
+aS'What is graduate school ?'
+p693
+aS'What is the English meaning of caliente ?'
+p694
+aS"How is ` qigong ' properly pronounced ?"
+p695
+aS'Why was Washington , DC originally called District of Columbia ?'
+p696
+aS'What is the cultural origin of the ceremony of potlatch ?'
+p697
+aS'How do anti-locking brakes work ?'
+p698
+aS'What is a common dolphin ?'
+p699
+aS"What was the first Funk 'N Lata , Brazilian group , success ?"
+p700
+aS'What causes panic attacks ?'
+p701
+aS'What is thermal equilibrium ?'
+p702
+aS'What is hydroelectricity ?'
+p703
+aS'What do I have to do to get good grades in school ?'
+p704
+aS'What is deadrise , nautical , ?'
+p705
+aS'What made Jane Goodall famous ?'
+p706
+aS'What is moxie ?'
+p707
+aS'How do you find out what is allowed to claim as a contibution for income tax purposes ?'
+p708
+aS"What is ` ` alternative ' ' anymore ?"
+p709
+aS'How do I find out about jobs ?'
+p710
+aS'What are the Valdez Principles ?'
+p711
+aS"What is the origin of the word ` ` mind ' ' ?"
+p712
+aS'How can I easily remove red wine stains from t-shirts ?'
+p713
+aS'What is a Canada two-penny black ?'
+p714
+aS'What is pasta ?'
+p715
+aS'What makes a clitoris sensitive ?'
+p716
+aS'What is the origin of Boxing Day ?'
+p717
+aS'What is the economic impact of unemployment on the economy ?'
+p718
+aS'How do you make panoramic sugar eggs for Easter - the ones with the scene inside ?'
+p719
+aS'What is a tonne ?'
+p720
+aS'What is the definition of spamming ?'
+p721
+aS'What is a leaky heart valve ?'
+p722
+aS'What is the difference between a preface and a foreword ?'
+p723
+aS'What is Margaret Thatcher known for ?'
+p724
+aS'What is the difference between a classical and an acoustic guitar ?'
+p725
+aS'What is hypertext ?'
+p726
+aS'Why do pressure cookers save time in the kitchen ?'
+p727
+aS'Why did the Globe Theatre burn down ?'
+p728
+aS'What clause in the U.S. Constitution may not be changed , altered or amended ?'
+p729
+aS'What is the weather like on the moon ?'
+p730
+aS'How do I write to my Congressman ?'
+p731
+aS'How do I legally make my own will and testament ?'
+p732
+aS'How do you box train a cat ?'
+p733
+aS'What does the Greek word polis mean , as in Minneapolis ?'
+p734
+aS'What is the Socratic method ?'
+p735
+aS'What is the origin of a.m. and p.m. ?'
+p736
+aS'How is saline used in medicine ?'
+p737
+aS"What are a baseball team 's firemen ?"
+p738
+aS"What was the infamous feat of Germany 's U-2 submarine ?"
+p739
+aS'How can I determine the radius of an ellipse ?'
+p740
+aS'What does Esa-Pekka Salonen look like ?'
+p741
+aS'How do doctors diagnose bone cancer ?'
+p742
+aS"Why do roosters sing at five o 'clock in the morning ?"
+p743
+aS"What is ` ` snoogans ' ' ?"
+p744
+aS'What is the origin of the term soda jerk ?'
+p745
+aS'What is platinum ?'
+p746
+aS'What is ouzo ?'
+p747
+aS'What kind of greeting is appropriate to send on Yom Kippur ?'
+p748
+aS"What 's the meaning of UOL ?"
+p749
+aS'What does Robert mean ?'
+p750
+aS'What is Boston Kreme ?'
+p751
+aS'What does e = mc2 mean ?'
+p752
+aS'What is Plc ?'
+p753
+aS'What are the current immigration laws in US ?'
+p754
+aS'How does General Mills manufacture Cheerios ?'
+p755
+aS'For what reason did some San Diego schools stop serving apples ?'
+p756
+aS'What is dry ice ?'
+p757
+aS'Why do horseshoes bring luck ?'
+p758
+aS"Describe the Finnish music personality Salonen 's appearance ."
+p759
+aS'How does color affect a person psychologically ?'
+p760
+aS"How do you use ` ` farther ' ' as opposed to ` ` further ' ' ?"
+p761
+aS'What is Garry Kasparov famous for ?'
+p762
+aS'What is a glory hole ?'
+p763
+aS'What do the red-and-white stripes on a barbershop pole stand for ?'
+p764
+aS'How do movie blues screens work ?'
+p765
+aS'What is the Peloponnesian League ?'
+p766
+aS'What is the Lost Colony ?'
+p767
+aS'What is hyperopia ?'
+p768
+aS'What is Jane Goodall famous for ?'
+p769
+aS"What is the origin of the term ` ` buffalo wings ' ' that is used as a menu item in bars across the nation for chicken wings in a spicey sauce ?"
+p770
+aS'How can I find out how much income tax is paid on Social Security income on the 1998 income tax ?'
+p771
+aS"What is the origin of the term ` ` blue moon , ' ' and how often do they occur ?"
+p772
+aS'What is a dental root canal ?'
+p773
+aS'How would someone go about becoming an organ donor ?'
+p774
+aS"What does ` ` Philebus-like ' ' mean ?"
+p775
+aS'What caused the death of Bob Marley ?'
+p776
+aS'What does caliente mean , in English ?'
+p777
+aS'What is the history of yo-yos ?'
+p778
+aS'What was the verdict in the 1925 trial of John T. Scopes ?'
+p779
+aS'What is prepared mustard ?'
+p780
+aS'How do you calculate the change in enthalpy of a chemical reaction ?'
+p781
+aS'What is an auto-commentary ?'
+p782
+aS'What does Venus Retrograde mean ?'
+p783
+aS'What happened during the Blackhawk Indian war of 1832 ?'
+p784
+aS'What is a phalanx ?'
+p785
+aS"What are the words to the song sung by ` ` Banana in Pajamas ' ' ?"
+p786
+aS'What was Al Capone finally imprisoned for , in 1931 ?'
+p787
+aS"What does the name ` ` Anthony ' ' mean ?"
+p788
+aS'What is different about the red and black fox ?'
+p789
+aS'How can I find out which cities have cable-modem access ?'
+p790
+aS'Why do people get goosebumps when they have something emotional happen to them , like when they hear a beautiful piece of music , or see something beautiful , or get aroused by someone they love ?'
+p791
+aS'Why do USA fax machines not work in UK , NNP ?'
+p792
+aS'What is cache memory ?'
+p793
+aS'What is meant by blood SED rate ?'
+p794
+aS'What does the name Calder mean ?'
+p795
+aS'What was the reason for the partition of the Anglican and Vatican churches ?'
+p796
+aS'How can SQL queries be improved ?'
+p797
+aS'How do telephones work ?'
+p798
+aS'Why do men snore ?'
+p799
+aS"In Waugh 's ` ` A Handful of Dust , ' ' what does the mad old man force the hero to do every afternoon ?"
+p800
+aS'What is Zionism ?'
+p801
+aS'What good are mosquitoes ?'
+p802
+aS'What do you know about multicultural and multilingual schools ?'
+p803
+aS"What is a ` ` node ' ' in computer terms ?"
+p804
+aS"What 's the state motto of California ?"
+p805
+aS'What is Jane Goodall known for ?'
+p806
+aS"What 's the origin of the word ` news ' ?"
+p807
+aS'How did Bob Marley die ?'
+p808
+aS"What are some children 's rights ?"
+p809
+aS'What are tonsils for ?'
+p810
+aS"How does one correctly pronounce ` qigong ' ?"
+p811
+aS'How do you identify prime numbers ?'
+p812
+aS'What are the Twin Cities ?'
+p813
+aS"What is the literal meaning of ` ` D-DAY ' ' ?"
+p814
+aS'What is the Internet2 ?'
+p815
+aS'What does N est-ce pas mean ?'
+p816
+aS'How do they find an epicenter ?'
+p817
+aS"Why are sometimes your hands cold , but the rest of you isn 't ?"
+p818
+aS'What is false consciousness ?'
+p819
+aS'What does palindromic mean ?'
+p820
+aS'What causes headaches ?'
+p821
+aS'How does an abacus work ?'
+p822
+aS'What happened to Pepsi Clear ?'
+p823
+aS'What are Kythnos , Siphnos , Seriphos and Mykonos ?'
+p824
+aS'What does Melissa mean ?'
+p825
+aS"Why is Microsoft 's Windows 3 software so successful ?"
+p826
+aS'Why do we have to go to school ?'
+p827
+aS'How do fuel injectors work ?'
+p828
+aS'How do I keep cats out of my flower garden for good ?'
+p829
+aS"How can I find a list of celebrities ' real names ?"
+p830
+aS'How is carbon dioxide removed from natural gas ?'
+p831
+aS'What are the lyrics to the Star Spangled Banner ?'
+p832
+aS'What are chloroplasts ?'
+p833
+aS'What is the theory of equivalence states ?'
+p834
+aS'What does an echidna look like ?'
+p835
+aS'What is the classic definition of tragic hero ?'
+p836
+aS'What were the causes of the Civil War ?'
+p837
+aS'What is Cabarnet Sauvignon ?'
+p838
+aS'What is typhoid fever ?'
+p839
+aS'What is the difference between optical and digital video ?'
+p840
+aS"What does the name ` ` Sabrina ' ' mean ?"
+p841
+aS'What is a First World country ?'
+p842
+aS'What is it like to experience a near death episode ?'
+p843
+aS'What is the difference between college and graduate school ?'
+p844
+aS'How do Ouija Boards work ?'
+p845
+aS'What causes rust ?'
+p846
+aS'How close a cousin was Franklin D. to Theodore Roosevelt ?'
+p847
+aS'How can you tell when figs are ripe ?'
+p848
+aS'What are the Arabic Numerals from 1 to 10 ?'
+p849
+aS"What is the ` ` fourth dimension ' ' ?"
+p850
+aS'What makes thunder ?'
+p851
+aS'How does a hurricane form ?'
+p852
+aS'How was the Kennedy money made ?'
+p853
+aS"What are the ` ` Star Wars ' ' satellites ?"
+p854
+aS'What are amicable numbers ?'
+p855
+aS'What is InterLata Internet service ?'
+p856
+aS'What makes sperm ?'
+p857
+aS"What 's the difference between sleet and freezing rain ?"
+p858
+aS'What is the S&P 500 used for ?'
+p859
+aS'What do the figures represent on the Easter Island ?'
+p860
+aS'What is a serigraph ?'
+p861
+aS'What is a meerkat ?'
+p862
+aS'What is the origin of thank you notes ?'
+p863
+aS'How do you write a book report ?'
+p864
+aS'Why are the ears your center of balance ?'
+p865
+aS'What is the nature of learning ?'
+p866
+aS'What were the three prophecies the witches make to Macbeth ?'
+p867
+aS'Why did several San Diego schools stop serving apples to students ?'
+p868
+aS"What is the origin of the expression ` ` tout de suite ' ' ?"
+p869
+aS'What are equity securities ?'
+p870
+aS'How were the days of the week named ?'
+p871
+aS'How do you find oxidation numbers ?'
+p872
+aS'What is Butterfield 8 in Butterfield 8 ?'
+p873
+aS'Why do oceans contain salt water instead of fresh water ?'
+p874
+aS'Why were red M&Ms discontinued then brought back ?'
+p875
+aS"What is the origin of the name ` Scarlett ' ?"
+p876
+aS'How does a parachute work ?'
+p877
+aS'What makes a tornado turn ?'
+p878
+aS"Why is the word ` ` abbreviation ' ' so long ?"
+p879
+aS'How is cologne made ?'
+p880
+aS'What do insects do through their spiracles ?'
+p881
+aS"What is a Chinese ` ` spouting ' ' bowl ?"
+p882
+aS'What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ?'
+p883
+aS'Why do they call a hamburger a hamburger when there is no ham ?'
+p884
+aS'What is molybdenum ?'
+p885
+aS'How do hermit crabs reproduce ?'
+p886
+aS'How do you tell your parents you are dating an older man ?'
+p887
+aS'How did water appear on the earth ?'
+p888
+aS'How does James Bond like his martinis ?'
+p889
+aS'Why did the world enter a global depression in 1929 ?'
+p890
+aS"What is the definition of ` ` chancery ' ' file in real estate ?"
+p891
+aS'How does Cos Cob , CT get its name ?'
+p892
+aS'What makes Black Hills , South Dakota a tourist attraction ?'
+p893
+aS'What caused an adjournment of the 25th anniversary session of the United Nations General Assembly ?'
+p894
+aS'What does hazmat stand for ?'
+p895
+aS'What is a philanthropist ?'
+p896
+aS'How does a hydroelectric dam work ?'
+p897
+aS'How do I get my LAN card activated so that it can hook up to another computer without using a HUB ?'
+p898
+aS'What do the number 1 , 2 , and 4 mean on Dr. Pepper bottles ?'
+p899
+aS"Where did the term ` ` 86 ' ' come from ?"
+p900
+aS'What is the definition of a cascade ?'
+p901
+aS"Why do some clothing labels say ` ` Use a nonchlorine bleach ' ' ?"
+p902
+aS"What facial feature did Walt Disney sport that none of Disney 's employees is allowed to ?"
+p903
+aS"What 's the claim to fame of night watchman Frank Wills ?"
+p904
+aS'Describe the Long March .'
+p905
+aS'What is Greek pita ?'
+p906
+aS'What are perfect tenses ?'
+p907
+aS'What is amezaiku ?'
+p908
+aS"What is the meaning of W.B. Yeat 's poem , ` ` The Three Hermits ? ' '"
+p909
+aS'Why did the chicken cross the road ?'
+p910
+aS'What is idealab ! ?'
+p911
+aS'What problems contributed to the high failure rate of Plains farmers in the 1800s ?'
+p912
+aS'What do I need to do to take my dog with me to live in Dominica , West Indies for a year ?'
+p913
+aS'From what cause does tuberculosis stem ?'
+p914
+aS'Why do some people have two different color eyes ?'
+p915
+aS'What is the executor in a will ?'
+p916
+aS"What 's a water funnel ?"
+p917
+aS'What is God ?'
+p918
+aS'What is the origin of the atom ?'
+p919
+aS'What happened to Answers.com ?'
+p920
+aS'What does the word affiant mean ?'
+p921
+aS'What are values ?'
+p922
+aS'How do they get Teflon to stick to the pan ?'
+p923
+aS"Why can 't women serve in the Navy on board submarines ?"
+p924
+aS'How does a chick breathe inside an egg ?'
+p925
+aS"What is the origin of the typing practice sentence ` ` Now is the time for all good men to come to the aid of their country ' ' ?"
+p926
+aS"What is the origin of the rock band Led Zeppelin 's name ?"
+p927
+aS'How do you tell somebody you like them ?'
+p928
+aS'How do I make fuel bricks from recycled newspaper ?'
+p929
+aS'How do you make the color purple ?'
+p930
+aS'What are the cookies in Internet ?'
+p931
+aS'What is the difference between a board of directors and an advisory board ?'
+p932
+aS'What does the name Melissa mean ?'
+p933
+aS'What was the Chivington Massacre ?'
+p934
+aS'What is Tetrinet ?'
+p935
+aS"What is the origin of ` ` jiggy ' ' as in getting jiggy with it ?"
+p936
+aS'How do windmills work ?'
+p937
+aS'What do bee hives do in cranberry bogs ?'
+p938
+aS'What was the claim to fame of King Camp Gillette ?'
+p939
+aS'Why is the mile 528 feet ?'
+p940
+aS'What is difference between a poster and a print ?'
+p941
+aS'What personality traits are Capricorns said to have ?'
+p942
+aS'How does the chain of command work inside an US army Apache helicopter ?'
+p943
+aS'How do you use an intranet ?'
+p944
+aS'What happens when lightning strikes a body of water ?'
+p945
+aS'How does the Elongated Man know a mystery is afoot ?'
+p946
+aS'How do chickens have baby chicks ?'
+p947
+aS'What made the Finger Lakes in western New York state ?'
+p948
+aS"What 's a short ton ?"
+p949
+aS'What is diabetes ?'
+p950
+aS"Why is the universe flat , if it started by an explosion , shouldn 't it be a sphere ?"
+p951
+aS"What are faults in the earth 's crust ?"
+p952
+aS'Why are there 12 people on a jury in criminal cases ?'
+p953
+aS'How do I find a web address for a company ?'
+p954
+aS'What was the claim to fame of Explorer I , launched February 1 , 1958 ?'
+p955
+aS"What 's the difference between TFT and dual-scan display ?"
+p956
+aS'How does the tail affect the flight of a kite ?'
+p957
+aS'What is Srpska Krajina ?'
+p958
+aS'What should you yell to hail a taxi in Madrid ?'
+p959
+aS"What 's a ` ` coup de poing ' ' to a French boxer ?"
+p960
+aS'What does the term 3 mean to a newspaper editor ?'
+p961
+aS"What 's the meaning of the zoological term ruminant ?"
+p962
+aS'Why does a woman have to be a virgin to be a nun ?'
+p963
+aS'What are some interesting facts and information about dogsledding ?'
+p964
+aS'What is thalassemia ?'
+p965
+aS'How do birds find their way back to the same place every year ?'
+p966
+aS'What is the claim to fame of Agra , India ?'
+p967
+aS'How can I stop or slow down aging ?'
+p968
+aS'What does Ouija mean ?'
+p969
+aS"What is the origin of the expression ` ` four-letter word ' ' ?"
+p970
+aS'How did the Hohenzollerns build their power around 17 ?'
+p971
+aS'How do you make dumplings ?'
+p972
+aS'What is a Mexican hairless ?'
+p973
+aS'What is sound ?'
+p974
+aS'Why is the moon different sizes and colors ?'
+p975
+aS"What does ` ` antidisestablishmentarianism ' ' mean ?"
+p976
+aS'What is leukemia ?'
+p977
+aS'What is a mathematical factor ?'
+p978
+aS'What is home banking ?'
+p979
+aS'What are the major differences in the Catholic and Methodist religions ?'
+p980
+aS'How did Peabody and Sherman travel through time ?'
+p981
+aS'What is cunnilingus ?'
+p982
+aS'What is the meaning of Jesus ?'
+p983
+aS'Why are organ transplants more successful today ?'
+p984
+aS'What is Betsy Ross famous for ?'
+p985
+aS"What 's nature 's purpose for tornadoes ?"
+p986
+aS'Why does cotton get caught in belly buttons ?'
+p987
+aS'What do the names Andrew and Christina mean ?'
+p988
+aS'What is the contents of proposition 98 ?'
+p989
+aS'What is the difference between ninjitsu and kung fu ?'
+p990
+aS'What is measured in curies ?'
+p991
+aS'What is color ?'
+p992
+aS'Why did David Koresh ask the FBI for a word processor ?'
+p993
+aS'How does psorisis disappear ?'
+p994
+aS'How do you clean badly tarnished brass ?'
+p995
+aS'What makes popcorn pop ?'
+p996
+aS'What is Doegs ?'
+p997
+aS'What did Lenny Bruce say that got him arrested ?'
+p998
+aS'What is the Immaculate Conception ?'
+p999
+aS'Why does a candle need a wick ?'
+p1000
+aS'How does Zatanna perform her magic in DC comics ?'
+p1001
+aS'What is the definition of cosmology ?'
+p1002
+aS'How can I get some free technical information on Electric Vehicle ?'
+p1003
+aS'Where did the name root beer come from ?'
+p1004
+aS'What are the most common causes of death in the U.S. ?'
+p1005
+aS'What makes hamburgers taste like steakburgers ?'
+p1006
+aS'What is titanium ?'
+p1007
+aS'Why do people get calluses ?'
+p1008
+aS'How was the ACLU formed ?'
+p1009
+aS"What are the powers and weaknesses of Green Lantern 's ring ?"
+p1010
+aS"What does ` ` saute ' ' mean ?"
+p1011
+aS"Why were the American soldiers in WWI called ` ` Doughboys ' '"
+p1012
+aS"What are the words to ` ` My Way ' ' written by Paul Anka ?"
+p1013
+aS'What is the difference between pop music and rock and roll ?'
+p1014
+aS'How do boats float ?'
+p1015
+aS"What is ` ` bloodhound ' ' ?"
+p1016
+aS'What excuse did the NATO people give for hitting the Chinese embassy ?'
+p1017
+aS'What is endometriosis ?'
+p1018
+aS"What 's the mystery of the Bermuda Triangle ?"
+p1019
+aS'What is the difference between classical conditioning and operant conditioning ?'
+p1020
+aS'What is the history of the soft drink Mr. Pibb ?'
+p1021
+aS'What is the meaning of caliente , in English , ?'
+p1022
+aS'How do you match a name to a social security number ?'
+p1023
+aS'Why do heavier objects travel downhill faster ?'
+p1024
+aS"What is the origin of U.S. Army sergeant 's stripes ?"
+p1025
+aS'What was the claim to fame of the football game that saw Fordham defeat Waynesburg State 12601 on September 3 , 1939 ?'
+p1026
+aS'What is a geoscientist ?'
+p1027
+aS'How did the 7th inning stretch get started ?'
+p1028
+aS'What is a leper ?'
+p1029
+aS'What is the origin of the word , magic ?'
+p1030
+aS'What is usenet for the Internet ?'
+p1031
+aS'What can I do to get into an Ivy League school ?'
+p1032
+aS'How is the new Ford Econoline van F25 V1 engine ?'
+p1033
+aS'Why did several San Diego schools remove apples from students menus ?'
+p1034
+aS'What is the nature of snow and how is the formation of snow different from that of ice ?'
+p1035
+aS"What is ` Last Chance for Animals ' ?"
+p1036
+aS'Why was Curious George curious ?'
+p1037
+aS'How does hair curl ?'
+p1038
+aS'What is the difference between love and infatuation ?'
+p1039
+aS'Why do they sterilize the needle for lethal injection ?'
+p1040
+aS'What steps can be taken to prevent diabetes ?'
+p1041
+aS"What is the origin and the meaning of the name , ` ` Hajo ? ' '"
+p1042
+aS'What exactly , specifically does sleep do for you ?'
+p1043
+aS'What does an emperor do ?'
+p1044
+aS"What is the origin of the word ` ` mushroom ' ' ?"
+p1045
+aS'How do I find a city if I have the area code ?'
+p1046
+aS'Why are so many umbrellas black ?'
+p1047
+aS"What is the origin of the word ` ` pallbearer ? ' '"
+p1048
+aS"What 's the rathaus in Frankfurt ?"
+p1049
+aS'Shea and Gould closed their Los Angeles office for what reason ?'
+p1050
+aS'What are the requirements for becoming a citizen of Australia ?'
+p1051
+aS'How do you write MLA style bibliographies for an Internet source ?'
+p1052
+aS'How do cameras take pictures ?'
+p1053
+aS'How do they find or choose witnesses to an execution ?'
+p1054
+aS'How come light bulbs go out ?'
+p1055
+aS'What is a cake of soap ?'
+p1056
+aS'What are amphibians ?'
+p1057
+aS'How do I find info about rice importers in the world ?'
+p1058
+aS'How did former WWF wrestler Rick Rude die ?'
+p1059
+aS'What is being done about the millennium bug ?'
+p1060
+aS"How do you correctly say the word ` qigong ' ?"
+p1061
+aS"Why do they call it a ` ` funny bone ' ' ?"
+p1062
+aS'Why is Jane Goodall famous ?'
+p1063
+aS'What is the text of the Fifth Amendment ?'
+p1064
+aS'What is the origin of the word nevermind ?'
+p1065
+aS'How do I start a bank ?'
+p1066
+aS'How can you be happy ?'
+p1067
+aS'What facial feature typically contains about 55 hairs ?'
+p1068
+aS'What is spaceball played on ?'
+p1069
+aS'How do I tie a tie ?'
+p1070
+aS'What is a Certified Nurse Midwife ?'
+p1071
+aS'What was the verdict in the trial of Lizzie Borden ?'
+p1072
+aS'What is the purpose of BIOS ?'
+p1073
+aS'How is Answers.com funded ?'
+p1074
+aS'How did Rocky Marciano die ?'
+p1075
+aS'What does the theory of quantum leaps mean in simpler terms ?'
+p1076
+aS'What is paracetamol ?'
+p1077
+aS'Why does sound travel quicker through water than air ?'
+p1078
+aS"What is a ` borrow pit ' ?"
+p1079
+aS'Why are the rooftops in Canada green ?'
+p1080
+aS'Define the Pheonix Club ?'
+p1081
+aS"What 's an auberge in France ?"
+p1082
+aS'What is Linux ?'
+p1083
+aS'What is the definition of low island ?'
+p1084
+aS'What is a caldera ?'
+p1085
+aS"What does Lloyd 's Lutine Bell announce ?"
+p1086
+aS"What 's the difference between carelessness and carefreeness ?"
+p1087
+aS'What is so powerful about Power Bars ?'
+p1088
+aS'What is magnetar ?'
+p1089
+aS'What was the filling in the first golf balls ?'
+p1090
+aS'Why do people shake hands to show friendliness ?'
+p1091
+aS"What is the origin of the city ` ` Corpus Christi ' ' ?"
+p1092
+aS'What is the Kashmir issue ?'
+p1093
+aS'What is limbo ?'
+p1094
+aS'How do I register a trade name in North Carolina ?'
+p1095
+aS'What is the meaning of the name Kathryn ?'
+p1096
+aS'How does lightning travel ?'
+p1097
+aS'Why does a candle go out when we blow on it ?'
+p1098
+aS'How did Socrates die ?'
+p1099
+aS'What is cosmology ?'
+p1100
+aS'How do I e-mail someone at aol.com from yahoo.com ?'
+p1101
+aS'What are the Baltic States ?'
+p1102
+aS"Why can 't ostriches fly ?"
+p1103
+aS'What will happen when sodium is put in water ?'
+p1104
+aS'How do you throw a housewarming party ?'
+p1105
+aS'What is making love ?'
+p1106
+aS'Why did the Anglican church split from the Vatican ?'
+p1107
+aS'What is a bone marrow transplant ?'
+p1108
+aS'What do the 12 days of Christmas mean ?'
+p1109
+aS'How does a scientific calculator work ?'
+p1110
+aS'What are liver enzymes ?'
+p1111
+aS'How do you get rid on woodpeckers ?'
+p1112
+aS'What is the origin of the name Igor ?'
+p1113
+aS"Why are lions called ` ` King of the Jungle ' ' ?"
+p1114
+aS'Why do the chickenpoxs last so long ?'
+p1115
+aS"Why is Rush 's 2112 called 2112 ?"
+p1116
+aS'What is time ?'
+p1117
+aS'What does the name Kelly mean ?'
+p1118
+aS'How did the U.S. come into the possession of an empire in the wake of the Spanish-American War ?'
+p1119
+aS"What is Compaq 's mission statement ?"
+p1120
+aS"Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?"
+p1121
+aS'What are the alveoli ?'
+p1122
+aS'How does crosstalk relate to InSb thickness in infrared detectors ?'
+p1123
+aS'What is the main application of sodium hydrosulfite ?'
+p1124
+aS'How did people respond to the idea of the first millenium ?'
+p1125
+aS'What is osteichthyes ?'
+p1126
+aS'What is the Hub of London ?'
+p1127
+aS'What is Sinn Fein ?'
+p1128
+aS'What qualifications are there for individuals donating blood ?'
+p1129
+aS'What is artificial intelligence ?'
+p1130
+aS"What is Occam 's Razor ?"
+p1131
+aS'How do you select wine ?'
+p1132
+aS'What does Las Vegas mean ?'
+p1133
+aS'What are the benefits of a rowing machine ?'
+p1134
+aS'How do you build a solar car for a high school experiment ?'
+p1135
+aS"What are the lyrics to ` ` Smelly Cat ' ' ?"
+p1136
+aS'What caused the division between the Anglicans and the Vatican ?'
+p1137
+aS'What is the origin of head lice ?'
+p1138
+aS'How can I transport files from one computer to another ?'
+p1139
+aS'What is the Bernoulli Principle ?'
+p1140
+aS"What prompted the co-pilot of the Enola Gay to enter only ` ` My God ' ' in his log ?"
+p1141
+aS'How do you make a paintball ?'
+p1142
+aS'What are some fun things to do in Cozumel , Mexico for teenagers ?'
+p1143
+aS'Why do many Native American students not complete college ?'
+p1144
+aS'What is the origin of the word Ozymandias ?'
+p1145
+aS'How do ants have sex ?'
+p1146
+aS'How did Jayne Mansfield die ?'
+p1147
+aS'What is capitalism according to Max Weber ?'
+p1148
+aS"What does the word ` ` meta ' ' mean ?"
+p1149
+aS"What 's the difference between J.D. and LL.M. ?"
+p1150
+aS'What are dingoes ?'
+p1151
+aS'How can you contact play producers and promoters on-line ?'
+p1152
+aS'What is a Jellicle Cat ?'
+p1153
+aS'How do I find the balance of my social security account ?'
+p1154
+aS'What is a specimen of basidiomycetes ?'
+p1155
+aS'How do you do a bibliography with an unknown author ?'
+p1156
+aS'What is swap math ?'
+p1157
+aS'How can I get rich quick ?'
+p1158
+aS'What causes a person to have constantly sweaty hands and feet ?'
+p1159
+aS"What is ` ` flintknapping ' ' ?"
+p1160
+aS'What is a firewall ?'
+p1161
+aS'What is the origin of the peace symbol ?'
+p1162
+aS"What does the name ` Alexandra ' mean ?"
+p1163
+aS'Why are there no white lines on pro footballs ?'
+p1164
+aS"What function does a community 's water tower serve ?"
+p1165
+aS"Why do you say ` ` God bless you ' ' when people sneeze ?"
+p1166
+aS'How do vending machines tell if your dollar is a 1 or a 5 ?'
+p1167
+aS'Colin Powell is famous for what ?'
+p1168
+asS'target'
+p1169
+cnumpy.core.multiarray
+_reconstruct
+p1170
+(cnumpy
+ndarray
+p1171
+(I0
+tp1172
+S'b'
+p1173
+tp1174
+Rp1175
+(I1
+(I1162
+tp1176
+cnumpy
+dtype
+p1177
+(S'i8'
+p1178
+I0
+I1
+tp1179
+Rp1180
+(I3
+S'<'
+p1181
+NNNI-1
+I-1
+I0
+tp1182
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00'
+p1183
+tp1184
+bsS'target_names'
+p1185
+(lp1186
+S'def'
+p1187
+aS'desc'
+p1188
+aS'manner'
+p1189
+aS'reason'
+p1190
+asS'filenames'
+p1191
+g1170
+(g1171
+(I0
+tp1192
+g1173
+tp1193
+Rp1194
+(I1
+(I1162
+tp1195
+g1177
+(S'S20'
+p1196
+I0
+I1
+tp1197
+Rp1198
+(I3
+S'|'
+p1199
+NNNI20
+I1
+I0
+tp1200
+bI00
+S'DESC/def/3734.txt\x00\x00\x00DESC/def/2130.txt\x00\x00\x00DESC/reason/4034.txtDESC/desc/3781.txt\x00\x00DESC/manner/2106.txtDESC/manner/1324.txtDESC/manner/1277.txtDESC/def/2862.txt\x00\x00\x00DESC/def/5376.txt\x00\x00\x00DESC/desc/3171.txt\x00\x00DESC/def/1589.txt\x00\x00\x00DESC/reason/2644.txtDESC/reason/4062.txtDESC/def/4717.txt\x00\x00\x00DESC/def/4065.txt\x00\x00\x00DESC/desc/53.txt\x00\x00\x00\x00DESC/def/2229.txt\x00\x00\x00DESC/def/4958.txt\x00\x00\x00DESC/manner/4769.txtDESC/manner/3013.txtDESC/def/5076.txt\x00\x00\x00DESC/manner/1900.txtDESC/manner/1939.txtDESC/manner/2830.txtDESC/def/4979.txt\x00\x00\x00DESC/desc/4578.txt\x00\x00DESC/def/1278.txt\x00\x00\x00DESC/reason/1137.txtDESC/desc/3887.txt\x00\x00DESC/reason/233.txt\x00DESC/def/4596.txt\x00\x00\x00DESC/reason/3011.txtDESC/def/3221.txt\x00\x00\x00DESC/desc/2760.txt\x00\x00DESC/def/4731.txt\x00\x00\x00DESC/def/3677.txt\x00\x00\x00DESC/reason/4184.txtDESC/manner/411.txt\x00DESC/manner/40.txt\x00\x00DESC/def/603.txt\x00\x00\x00\x00DESC/desc/5441.txt\x00\x00DESC/desc/2997.txt\x00\x00DESC/manner/5307.txtDESC/desc/3871.txt\x00\x00DESC/desc/3155.txt\x00\x00DESC/manner/2537.txtDESC/def/2833.txt\x00\x00\x00DESC/desc/290.txt\x00\x00\x00DESC/desc/110.txt\x00\x00\x00DESC/desc/2821.txt\x00\x00DESC/def/5135.txt\x00\x00\x00DESC/manner/2905.txtDESC/manner/406.txt\x00DESC/manner/3594.txtDESC/manner/4294.txtDESC/manner/3637.txtDESC/manner/1283.txtDESC/desc/997.txt\x00\x00\x00DESC/manner/4766.txtDESC/def/1528.txt\x00\x00\x00DESC/def/4876.txt\x00\x00\x00DESC/reason/2758.txtDESC/def/1812.txt\x00\x00\x00DESC/desc/4671.txt\x00\x00DESC/manner/5332.txtDESC/manner/4730.txtDESC/desc/102.txt\x00\x00\x00DESC/desc/2245.txt\x00\x00DESC/manner/4995.txtDESC/def/1596.txt\x00\x00\x00DESC/reason/4204.txtDESC/desc/389.txt\x00\x00\x00DESC/desc/884.txt\x00\x00\x00DESC/desc/16.txt\x00\x00\x00\x00DESC/desc/3835.txt\x00\x00DESC/desc/3271.txt\x00\x00DESC/manner/4179.txtDESC/manner/4532.txtDESC/def/3130.txt\x00\x00\x00DESC/reason/844.txt\x00DESC/reason/1386.txtDESC/def/1964.txt\x00\x00\x00DESC/def/1615.txt\x00\x00\x00DESC/desc/3721.txt\x00\x00DESC/def/557.txt\x00\x00\x00\x00DESC/desc/1968.txt\x00\x00DESC/manner/3681.txtDESC/def/5127.txt\x00\x00\x00DESC/desc/3546.txt\x00\x00DESC/reason/481.txt\x00DESC/def/2542.txt\x00\x00\x00DESC/desc/5176.txt\x00\x00DESC/manner/4232.txtDESC/desc/125.txt\x00\x00\x00DESC/desc/1614.txt\x00\x00DESC/def/3982.txt\x00\x00\x00DESC/def/4830.txt\x00\x00\x00DESC/reason/2566.txtDESC/desc/3874.txt\x00\x00DESC/def/5163.txt\x00\x00\x00DESC/def/224.txt\x00\x00\x00\x00DESC/reason/3516.txtDESC/def/2416.txt\x00\x00\x00DESC/desc/1375.txt\x00\x00DESC/def/2199.txt\x00\x00\x00DESC/manner/266.txt\x00DESC/desc/2657.txt\x00\x00DESC/reason/2873.txtDESC/def/528.txt\x00\x00\x00\x00DESC/desc/4889.txt\x00\x00DESC/desc/1113.txt\x00\x00DESC/def/2073.txt\x00\x00\x00DESC/def/2666.txt\x00\x00\x00DESC/desc/2910.txt\x00\x00DESC/def/1364.txt\x00\x00\x00DESC/def/4183.txt\x00\x00\x00DESC/manner/2683.txtDESC/def/5000.txt\x00\x00\x00DESC/desc/1947.txt\x00\x00DESC/desc/4006.txt\x00\x00DESC/reason/1917.txtDESC/manner/2156.txtDESC/desc/4752.txt\x00\x00DESC/def/3702.txt\x00\x00\x00DESC/def/1999.txt\x00\x00\x00DESC/def/4569.txt\x00\x00\x00DESC/reason/2066.txtDESC/desc/2054.txt\x00\x00DESC/reason/5138.txtDESC/manner/995.txt\x00DESC/reason/2572.txtDESC/def/3219.txt\x00\x00\x00DESC/manner/4915.txtDESC/def/5416.txt\x00\x00\x00DESC/reason/4647.txtDESC/def/444.txt\x00\x00\x00\x00DESC/reason/4833.txtDESC/def/1135.txt\x00\x00\x00DESC/manner/5173.txtDESC/desc/3464.txt\x00\x00DESC/def/2689.txt\x00\x00\x00DESC/def/1636.txt\x00\x00\x00DESC/manner/2668.txtDESC/def/3507.txt\x00\x00\x00DESC/manner/4320.txtDESC/manner/2622.txtDESC/desc/4299.txt\x00\x00DESC/desc/4454.txt\x00\x00DESC/manner/1851.txtDESC/desc/2846.txt\x00\x00DESC/def/61.txt\x00\x00\x00\x00\x00DESC/def/4613.txt\x00\x00\x00DESC/def/5244.txt\x00\x00\x00DESC/manner/3442.txtDESC/desc/3206.txt\x00\x00DESC/def/3338.txt\x00\x00\x00DESC/desc/1958.txt\x00\x00DESC/def/3482.txt\x00\x00\x00DESC/desc/2521.txt\x00\x00DESC/desc/3855.txt\x00\x00DESC/manner/3421.txtDESC/reason/2352.txtDESC/manner/1175.txtDESC/desc/1410.txt\x00\x00DESC/manner/1931.txtDESC/def/1943.txt\x00\x00\x00DESC/reason/845.txt\x00DESC/desc/3706.txt\x00\x00DESC/reason/449.txt\x00DESC/reason/1285.txtDESC/desc/1683.txt\x00\x00DESC/manner/320.txt\x00DESC/def/4998.txt\x00\x00\x00DESC/reason/865.txt\x00DESC/def/4489.txt\x00\x00\x00DESC/manner/2940.txtDESC/manner/5225.txtDESC/def/188.txt\x00\x00\x00\x00DESC/manner/2438.txtDESC/def/2512.txt\x00\x00\x00DESC/def/4172.txt\x00\x00\x00DESC/desc/4610.txt\x00\x00DESC/manner/3789.txtDESC/desc/542.txt\x00\x00\x00DESC/def/2545.txt\x00\x00\x00DESC/desc/3418.txt\x00\x00DESC/desc/405.txt\x00\x00\x00DESC/desc/1342.txt\x00\x00DESC/def/2529.txt\x00\x00\x00DESC/def/334.txt\x00\x00\x00\x00DESC/reason/4856.txtDESC/reason/5407.txtDESC/desc/1455.txt\x00\x00DESC/def/3362.txt\x00\x00\x00DESC/def/607.txt\x00\x00\x00\x00DESC/manner/2309.txtDESC/def/4950.txt\x00\x00\x00DESC/def/1515.txt\x00\x00\x00DESC/reason/3992.txtDESC/manner/4588.txtDESC/desc/2448.txt\x00\x00DESC/manner/2373.txtDESC/desc/2736.txt\x00\x00DESC/desc/2754.txt\x00\x00DESC/desc/3562.txt\x00\x00DESC/def/3002.txt\x00\x00\x00DESC/manner/621.txt\x00DESC/def/2884.txt\x00\x00\x00DESC/def/3907.txt\x00\x00\x00DESC/manner/2258.txtDESC/def/814.txt\x00\x00\x00\x00DESC/desc/2835.txt\x00\x00DESC/def/1892.txt\x00\x00\x00DESC/desc/5289.txt\x00\x00DESC/def/4148.txt\x00\x00\x00DESC/manner/1953.txtDESC/def/779.txt\x00\x00\x00\x00DESC/reason/1019.txtDESC/def/3766.txt\x00\x00\x00DESC/manner/5070.txtDESC/def/1456.txt\x00\x00\x00DESC/def/1362.txt\x00\x00\x00DESC/manner/4565.txtDESC/def/2497.txt\x00\x00\x00DESC/def/1606.txt\x00\x00\x00DESC/manner/4531.txtDESC/manner/1773.txtDESC/def/3612.txt\x00\x00\x00DESC/manner/48.txt\x00\x00DESC/reason/3043.txtDESC/reason/799.txt\x00DESC/reason/1701.txtDESC/def/1036.txt\x00\x00\x00DESC/def/732.txt\x00\x00\x00\x00DESC/desc/3263.txt\x00\x00DESC/def/3700.txt\x00\x00\x00DESC/reason/983.txt\x00DESC/manner/2149.txtDESC/manner/3128.txtDESC/manner/5302.txtDESC/manner/2132.txtDESC/def/653.txt\x00\x00\x00\x00DESC/manner/765.txt\x00DESC/manner/2088.txtDESC/def/163.txt\x00\x00\x00\x00DESC/reason/69.txt\x00\x00DESC/def/4418.txt\x00\x00\x00DESC/manner/4946.txtDESC/def/1694.txt\x00\x00\x00DESC/def/4698.txt\x00\x00\x00DESC/def/4828.txt\x00\x00\x00DESC/desc/1160.txt\x00\x00DESC/def/2124.txt\x00\x00\x00DESC/def/2806.txt\x00\x00\x00DESC/desc/3934.txt\x00\x00DESC/desc/1070.txt\x00\x00DESC/manner/2382.txtDESC/desc/1291.txt\x00\x00DESC/def/4851.txt\x00\x00\x00DESC/desc/972.txt\x00\x00\x00DESC/desc/2181.txt\x00\x00DESC/def/4337.txt\x00\x00\x00DESC/manner/4343.txtDESC/desc/3949.txt\x00\x00DESC/desc/680.txt\x00\x00\x00DESC/def/1758.txt\x00\x00\x00DESC/def/1761.txt\x00\x00\x00DESC/manner/2859.txtDESC/manner/1398.txtDESC/def/1162.txt\x00\x00\x00DESC/desc/1041.txt\x00\x00DESC/desc/4080.txt\x00\x00DESC/def/5152.txt\x00\x00\x00DESC/manner/1163.txtDESC/reason/2803.txtDESC/def/5274.txt\x00\x00\x00DESC/def/891.txt\x00\x00\x00\x00DESC/desc/5294.txt\x00\x00DESC/def/4539.txt\x00\x00\x00DESC/manner/2536.txtDESC/reason/682.txt\x00DESC/reason/4139.txtDESC/desc/2728.txt\x00\x00DESC/def/4142.txt\x00\x00\x00DESC/desc/176.txt\x00\x00\x00DESC/def/3639.txt\x00\x00\x00DESC/desc/1155.txt\x00\x00DESC/def/1031.txt\x00\x00\x00DESC/def/1074.txt\x00\x00\x00DESC/manner/676.txt\x00DESC/reason/91.txt\x00\x00DESC/desc/4941.txt\x00\x00DESC/def/3425.txt\x00\x00\x00DESC/manner/3709.txtDESC/desc/223.txt\x00\x00\x00DESC/reason/4911.txtDESC/manner/1819.txtDESC/desc/1182.txt\x00\x00DESC/manner/1691.txtDESC/manner/4136.txtDESC/reason/1208.txtDESC/manner/790.txt\x00DESC/reason/1670.txtDESC/def/51.txt\x00\x00\x00\x00\x00DESC/def/3842.txt\x00\x00\x00DESC/def/4472.txt\x00\x00\x00DESC/def/1295.txt\x00\x00\x00DESC/def/5016.txt\x00\x00\x00DESC/def/1551.txt\x00\x00\x00DESC/def/2185.txt\x00\x00\x00DESC/def/1611.txt\x00\x00\x00DESC/desc/1487.txt\x00\x00DESC/def/3382.txt\x00\x00\x00DESC/def/2334.txt\x00\x00\x00DESC/desc/2570.txt\x00\x00DESC/manner/199.txt\x00DESC/desc/1814.txt\x00\x00DESC/def/1838.txt\x00\x00\x00DESC/manner/3753.txtDESC/manner/0.txt\x00\x00\x00DESC/desc/101.txt\x00\x00\x00DESC/def/5183.txt\x00\x00\x00DESC/desc/1922.txt\x00\x00DESC/desc/2509.txt\x00\x00DESC/manner/4176.txtDESC/desc/692.txt\x00\x00\x00DESC/def/989.txt\x00\x00\x00\x00DESC/manner/657.txt\x00DESC/manner/3837.txtDESC/def/4824.txt\x00\x00\x00DESC/reason/2698.txtDESC/reason/761.txt\x00DESC/desc/1983.txt\x00\x00DESC/manner/1568.txtDESC/reason/1125.txtDESC/reason/3375.txtDESC/def/1641.txt\x00\x00\x00DESC/manner/447.txt\x00DESC/def/2021.txt\x00\x00\x00DESC/reason/384.txt\x00DESC/manner/1332.txtDESC/manner/4097.txtDESC/def/4271.txt\x00\x00\x00DESC/def/5293.txt\x00\x00\x00DESC/manner/4141.txtDESC/def/933.txt\x00\x00\x00\x00DESC/desc/553.txt\x00\x00\x00DESC/def/2963.txt\x00\x00\x00DESC/desc/4035.txt\x00\x00DESC/manner/3846.txtDESC/def/2235.txt\x00\x00\x00DESC/manner/3592.txtDESC/desc/5178.txt\x00\x00DESC/manner/4749.txtDESC/desc/3118.txt\x00\x00DESC/reason/4600.txtDESC/desc/1108.txt\x00\x00DESC/def/3944.txt\x00\x00\x00DESC/def/947.txt\x00\x00\x00\x00DESC/desc/4200.txt\x00\x00DESC/def/5038.txt\x00\x00\x00DESC/manner/4446.txtDESC/manner/3289.txtDESC/reason/1008.txtDESC/def/2502.txt\x00\x00\x00DESC/manner/5427.txtDESC/desc/1144.txt\x00\x00DESC/reason/4499.txtDESC/reason/2552.txtDESC/manner/1930.txtDESC/reason/1131.txtDESC/def/1338.txt\x00\x00\x00DESC/def/566.txt\x00\x00\x00\x00DESC/def/2788.txt\x00\x00\x00DESC/def/3777.txt\x00\x00\x00DESC/def/4699.txt\x00\x00\x00DESC/def/5104.txt\x00\x00\x00DESC/def/5006.txt\x00\x00\x00DESC/desc/1732.txt\x00\x00DESC/manner/4286.txtDESC/manner/4210.txtDESC/manner/539.txt\x00DESC/manner/822.txt\x00DESC/manner/368.txt\x00DESC/manner/146.txt\x00DESC/manner/2714.txtDESC/manner/2001.txtDESC/reason/1618.txtDESC/def/1743.txt\x00\x00\x00DESC/manner/2117.txtDESC/desc/2733.txt\x00\x00DESC/reason/312.txt\x00DESC/manner/78.txt\x00\x00DESC/def/3831.txt\x00\x00\x00DESC/manner/4352.txtDESC/def/4757.txt\x00\x00\x00DESC/desc/1707.txt\x00\x00DESC/def/3526.txt\x00\x00\x00DESC/def/642.txt\x00\x00\x00\x00DESC/def/363.txt\x00\x00\x00\x00DESC/manner/2109.txtDESC/desc/5287.txt\x00\x00DESC/def/4681.txt\x00\x00\x00DESC/reason/3979.txtDESC/desc/1117.txt\x00\x00DESC/manner/4288.txtDESC/reason/4525.txtDESC/def/3784.txt\x00\x00\x00DESC/manner/1180.txtDESC/desc/3121.txt\x00\x00DESC/def/1815.txt\x00\x00\x00DESC/def/2055.txt\x00\x00\x00DESC/desc/23.txt\x00\x00\x00\x00DESC/def/138.txt\x00\x00\x00\x00DESC/manner/3649.txtDESC/desc/2877.txt\x00\x00DESC/def/3896.txt\x00\x00\x00DESC/def/3270.txt\x00\x00\x00DESC/desc/2817.txt\x00\x00DESC/manner/913.txt\x00DESC/desc/3021.txt\x00\x00DESC/def/5338.txt\x00\x00\x00DESC/def/1890.txt\x00\x00\x00DESC/def/1949.txt\x00\x00\x00DESC/desc/2070.txt\x00\x00DESC/def/1911.txt\x00\x00\x00DESC/reason/4514.txtDESC/desc/35.txt\x00\x00\x00\x00DESC/manner/3823.txtDESC/reason/5160.txtDESC/desc/658.txt\x00\x00\x00DESC/reason/4739.txtDESC/desc/3886.txt\x00\x00DESC/def/5125.txt\x00\x00\x00DESC/desc/2511.txt\x00\x00DESC/def/1068.txt\x00\x00\x00DESC/def/474.txt\x00\x00\x00\x00DESC/def/812.txt\x00\x00\x00\x00DESC/reason/1384.txtDESC/desc/4949.txt\x00\x00DESC/def/2159.txt\x00\x00\x00DESC/def/2104.txt\x00\x00\x00DESC/reason/2839.txtDESC/manner/2223.txtDESC/manner/3689.txtDESC/def/4778.txt\x00\x00\x00DESC/desc/3420.txt\x00\x00DESC/manner/767.txt\x00DESC/def/1677.txt\x00\x00\x00DESC/def/4298.txt\x00\x00\x00DESC/desc/945.txt\x00\x00\x00DESC/def/4007.txt\x00\x00\x00DESC/desc/4476.txt\x00\x00DESC/def/3652.txt\x00\x00\x00DESC/manner/2393.txtDESC/def/257.txt\x00\x00\x00\x00DESC/reason/5269.txtDESC/reason/2152.txtDESC/desc/920.txt\x00\x00\x00DESC/def/231.txt\x00\x00\x00\x00DESC/manner/2004.txtDESC/desc/3981.txt\x00\x00DESC/def/3797.txt\x00\x00\x00DESC/reason/4857.txtDESC/def/433.txt\x00\x00\x00\x00DESC/def/4746.txt\x00\x00\x00DESC/def/1119.txt\x00\x00\x00DESC/desc/144.txt\x00\x00\x00DESC/desc/2874.txt\x00\x00DESC/def/4624.txt\x00\x00\x00DESC/def/3199.txt\x00\x00\x00DESC/manner/293.txt\x00DESC/def/5411.txt\x00\x00\x00DESC/def/1906.txt\x00\x00\x00DESC/def/649.txt\x00\x00\x00\x00DESC/desc/3727.txt\x00\x00DESC/desc/5001.txt\x00\x00DESC/manner/330.txt\x00DESC/desc/4508.txt\x00\x00DESC/reason/358.txt\x00DESC/def/3665.txt\x00\x00\x00DESC/desc/2215.txt\x00\x00DESC/desc/1664.txt\x00\x00DESC/def/3366.txt\x00\x00\x00DESC/desc/5364.txt\x00\x00DESC/manner/708.txt\x00DESC/def/2564.txt\x00\x00\x00DESC/manner/126.txt\x00DESC/def/92.txt\x00\x00\x00\x00\x00DESC/desc/4703.txt\x00\x00DESC/def/3580.txt\x00\x00\x00DESC/reason/3883.txtDESC/manner/3922.txtDESC/desc/3069.txt\x00\x00DESC/def/131.txt\x00\x00\x00\x00DESC/def/2881.txt\x00\x00\x00DESC/reason/496.txt\x00DESC/reason/4022.txtDESC/def/2489.txt\x00\x00\x00DESC/manner/4687.txtDESC/def/2782.txt\x00\x00\x00DESC/desc/2947.txt\x00\x00DESC/reason/878.txt\x00DESC/def/1076.txt\x00\x00\x00DESC/manner/4898.txtDESC/def/2660.txt\x00\x00\x00DESC/manner/2528.txtDESC/manner/3884.txtDESC/def/5168.txt\x00\x00\x00DESC/desc/3028.txt\x00\x00DESC/manner/1289.txtDESC/def/3544.txt\x00\x00\x00DESC/def/4959.txt\x00\x00\x00DESC/desc/513.txt\x00\x00\x00DESC/manner/2357.txtDESC/def/3870.txt\x00\x00\x00DESC/reason/4422.txtDESC/manner/1579.txtDESC/desc/3214.txt\x00\x00DESC/manner/554.txt\x00DESC/manner/2126.txtDESC/desc/4338.txt\x00\x00DESC/manner/3048.txtDESC/reason/4628.txtDESC/desc/1251.txt\x00\x00DESC/manner/4369.txtDESC/def/3600.txt\x00\x00\x00DESC/reason/2462.txtDESC/def/3369.txt\x00\x00\x00DESC/def/19.txt\x00\x00\x00\x00\x00DESC/def/2603.txt\x00\x00\x00DESC/desc/3080.txt\x00\x00DESC/reason/2506.txtDESC/def/2464.txt\x00\x00\x00DESC/manner/1714.txtDESC/def/857.txt\x00\x00\x00\x00DESC/desc/4591.txt\x00\x00DESC/desc/2473.txt\x00\x00DESC/manner/2962.txtDESC/desc/2424.txt\x00\x00DESC/desc/4619.txt\x00\x00DESC/def/5107.txt\x00\x00\x00DESC/reason/186.txt\x00DESC/def/1014.txt\x00\x00\x00DESC/def/5267.txt\x00\x00\x00DESC/reason/4424.txtDESC/desc/1920.txt\x00\x00DESC/manner/1647.txtDESC/manner/1062.txtDESC/def/2851.txt\x00\x00\x00DESC/desc/1451.txt\x00\x00DESC/def/2380.txt\x00\x00\x00DESC/desc/4512.txt\x00\x00DESC/desc/2764.txt\x00\x00DESC/def/201.txt\x00\x00\x00\x00DESC/reason/5007.txtDESC/def/2951.txt\x00\x00\x00DESC/desc/4394.txt\x00\x00DESC/manner/5009.txtDESC/def/3798.txt\x00\x00\x00DESC/def/18.txt\x00\x00\x00\x00\x00DESC/def/2431.txt\x00\x00\x00DESC/def/4622.txt\x00\x00\x00DESC/desc/4877.txt\x00\x00DESC/def/4913.txt\x00\x00\x00DESC/manner/5348.txtDESC/desc/2285.txt\x00\x00DESC/desc/4509.txt\x00\x00DESC/manner/3775.txtDESC/desc/2231.txt\x00\x00DESC/def/5026.txt\x00\x00\x00DESC/manner/4406.txtDESC/def/2786.txt\x00\x00\x00DESC/def/1315.txt\x00\x00\x00DESC/desc/2515.txt\x00\x00DESC/def/3135.txt\x00\x00\x00DESC/manner/2272.txtDESC/def/2814.txt\x00\x00\x00DESC/manner/2773.txtDESC/def/2861.txt\x00\x00\x00DESC/desc/252.txt\x00\x00\x00DESC/reason/1521.txtDESC/desc/5087.txt\x00\x00DESC/desc/220.txt\x00\x00\x00DESC/def/1848.txt\x00\x00\x00DESC/manner/4662.txtDESC/def/3624.txt\x00\x00\x00DESC/def/3398.txt\x00\x00\x00DESC/reason/4297.txtDESC/def/2435.txt\x00\x00\x00DESC/desc/73.txt\x00\x00\x00\x00DESC/manner/4158.txtDESC/def/3050.txt\x00\x00\x00DESC/def/1473.txt\x00\x00\x00DESC/def/2219.txt\x00\x00\x00DESC/manner/2636.txtDESC/desc/3423.txt\x00\x00DESC/reason/3631.txtDESC/manner/5170.txtDESC/reason/4835.txtDESC/desc/1995.txt\x00\x00DESC/desc/1817.txt\x00\x00DESC/def/1294.txt\x00\x00\x00DESC/reason/5128.txtDESC/manner/1598.txtDESC/manner/1060.txtDESC/manner/4886.txtDESC/def/5341.txt\x00\x00\x00DESC/reason/3754.txtDESC/reason/1988.txtDESC/def/612.txt\x00\x00\x00\x00DESC/desc/1516.txt\x00\x00DESC/def/398.txt\x00\x00\x00\x00DESC/manner/122.txt\x00DESC/manner/4639.txtDESC/desc/1314.txt\x00\x00DESC/def/749.txt\x00\x00\x00\x00DESC/desc/922.txt\x00\x00\x00DESC/def/2878.txt\x00\x00\x00DESC/def/1216.txt\x00\x00\x00DESC/manner/2116.txtDESC/manner/2127.txtDESC/desc/3963.txt\x00\x00DESC/def/1667.txt\x00\x00\x00DESC/def/4138.txt\x00\x00\x00DESC/reason/4261.txtDESC/def/4216.txt\x00\x00\x00DESC/manner/2514.txtDESC/def/538.txt\x00\x00\x00\x00DESC/manner/324.txt\x00DESC/manner/2163.txtDESC/manner/1571.txtDESC/desc/3058.txt\x00\x00DESC/manner/3493.txtDESC/reason/3933.txtDESC/desc/1578.txt\x00\x00DESC/def/726.txt\x00\x00\x00\x00DESC/manner/366.txt\x00DESC/manner/4436.txtDESC/def/552.txt\x00\x00\x00\x00DESC/def/94.txt\x00\x00\x00\x00\x00DESC/def/185.txt\x00\x00\x00\x00DESC/reason/4199.txtDESC/manner/2794.txtDESC/desc/2296.txt\x00\x00DESC/manner/3241.txtDESC/desc/4425.txt\x00\x00DESC/def/2251.txt\x00\x00\x00DESC/def/959.txt\x00\x00\x00\x00DESC/desc/4077.txt\x00\x00DESC/desc/4163.txt\x00\x00DESC/def/2002.txt\x00\x00\x00DESC/reason/4707.txtDESC/desc/2269.txt\x00\x00DESC/manner/2954.txtDESC/reason/4597.txtDESC/manner/3107.txtDESC/def/1143.txt\x00\x00\x00DESC/def/750.txt\x00\x00\x00\x00DESC/reason/4556.txtDESC/desc/3192.txt\x00\x00DESC/def/1502.txt\x00\x00\x00DESC/def/2804.txt\x00\x00\x00DESC/def/956.txt\x00\x00\x00\x00DESC/desc/3608.txt\x00\x00DESC/reason/1972.txtDESC/manner/756.txt\x00DESC/desc/1087.txt\x00\x00DESC/desc/3025.txt\x00\x00DESC/reason/420.txt\x00DESC/reason/2254.txtDESC/reason/5340.txtDESC/manner/4670.txtDESC/manner/5193.txtDESC/def/3852.txt\x00\x00\x00DESC/def/5011.txt\x00\x00\x00DESC/def/119.txt\x00\x00\x00\x00DESC/manner/3479.txtDESC/def/4885.txt\x00\x00\x00DESC/reason/2123.txtDESC/reason/2000.txtDESC/reason/1488.txtDESC/def/3531.txt\x00\x00\x00DESC/def/2889.txt\x00\x00\x00DESC/def/2113.txt\x00\x00\x00DESC/desc/2559.txt\x00\x00DESC/def/1250.txt\x00\x00\x00DESC/def/5166.txt\x00\x00\x00DESC/manner/4370.txtDESC/reason/4293.txtDESC/desc/4254.txt\x00\x00DESC/manner/5120.txtDESC/def/5052.txt\x00\x00\x00DESC/desc/1142.txt\x00\x00DESC/reason/1187.txtDESC/def/3470.txt\x00\x00\x00DESC/def/3253.txt\x00\x00\x00DESC/manner/3548.txtDESC/def/2035.txt\x00\x00\x00DESC/reason/2992.txtDESC/def/1784.txt\x00\x00\x00DESC/manner/3377.txtDESC/def/4328.txt\x00\x00\x00DESC/manner/1037.txtDESC/def/1954.txt\x00\x00\x00DESC/desc/1156.txt\x00\x00DESC/manner/1955.txtDESC/def/264.txt\x00\x00\x00\x00DESC/def/1874.txt\x00\x00\x00DESC/reason/521.txt\x00DESC/desc/3718.txt\x00\x00DESC/desc/1348.txt\x00\x00DESC/manner/1096.txtDESC/def/3095.txt\x00\x00\x00DESC/def/4102.txt\x00\x00\x00DESC/def/3636.txt\x00\x00\x00DESC/desc/2110.txt\x00\x00DESC/reason/4985.txtDESC/desc/3226.txt\x00\x00DESC/def/2283.txt\x00\x00\x00DESC/reason/1340.txtDESC/reason/2863.txtDESC/desc/2508.txt\x00\x00DESC/desc/4675.txt\x00\x00DESC/manner/1774.txtDESC/manner/5422.txtDESC/manner/2682.txtDESC/def/2397.txt\x00\x00\x00DESC/def/2281.txt\x00\x00\x00DESC/desc/1903.txt\x00\x00DESC/manner/4859.txtDESC/def/1625.txt\x00\x00\x00DESC/desc/4113.txt\x00\x00DESC/manner/4484.txtDESC/desc/5115.txt\x00\x00DESC/manner/349.txt\x00DESC/reason/5363.txtDESC/def/216.txt\x00\x00\x00\x00DESC/desc/4733.txt\x00\x00DESC/def/5386.txt\x00\x00\x00DESC/def/4051.txt\x00\x00\x00DESC/desc/5105.txt\x00\x00DESC/def/1544.txt\x00\x00\x00DESC/def/5119.txt\x00\x00\x00DESC/def/3195.txt\x00\x00\x00DESC/def/2147.txt\x00\x00\x00DESC/def/1064.txt\x00\x00\x00DESC/desc/4497.txt\x00\x00DESC/manner/4779.txtDESC/reason/1261.txtDESC/def/396.txt\x00\x00\x00\x00DESC/reason/184.txt\x00DESC/desc/1313.txt\x00\x00DESC/manner/4492.txtDESC/manner/2807.txtDESC/reason/2084.txtDESC/def/4664.txt\x00\x00\x00DESC/def/5073.txt\x00\x00\x00DESC/manner/2858.txtDESC/def/4774.txt\x00\x00\x00DESC/def/2605.txt\x00\x00\x00DESC/def/2367.txt\x00\x00\x00DESC/reason/2547.txtDESC/desc/3557.txt\x00\x00DESC/manner/1049.txtDESC/desc/5253.txt\x00\x00DESC/def/159.txt\x00\x00\x00\x00DESC/manner/1655.txtDESC/def/5148.txt\x00\x00\x00DESC/reason/4810.txtDESC/def/2546.txt\x00\x00\x00DESC/desc/1860.txt\x00\x00DESC/desc/5045.txt\x00\x00DESC/def/791.txt\x00\x00\x00\x00DESC/manner/3427.txtDESC/def/4849.txt\x00\x00\x00DESC/def/1240.txt\x00\x00\x00DESC/desc/747.txt\x00\x00\x00DESC/def/1392.txt\x00\x00\x00DESC/desc/2445.txt\x00\x00DESC/reason/2715.txtDESC/def/855.txt\x00\x00\x00\x00DESC/desc/2883.txt\x00\x00DESC/manner/213.txt\x00DESC/reason/2661.txtDESC/reason/5032.txtDESC/def/1447.txt\x00\x00\x00DESC/def/2866.txt\x00\x00\x00DESC/def/3735.txt\x00\x00\x00DESC/reason/3136.txtDESC/manner/4400.txtDESC/manner/2573.txtDESC/reason/1916.txtDESC/desc/2173.txt\x00\x00DESC/def/2654.txt\x00\x00\x00DESC/desc/4768.txt\x00\x00DESC/desc/5196.txt\x00\x00DESC/def/4386.txt\x00\x00\x00DESC/desc/4555.txt\x00\x00DESC/reason/428.txt\x00DESC/desc/818.txt\x00\x00\x00DESC/manner/2912.txtDESC/desc/3431.txt\x00\x00DESC/reason/1573.txtDESC/manner/1863.txtDESC/manner/2693.txtDESC/def/1193.txt\x00\x00\x00DESC/def/2404.txt\x00\x00\x00DESC/def/4868.txt\x00\x00\x00DESC/def/3833.txt\x00\x00\x00DESC/manner/4189.txtDESC/reason/5431.txtDESC/def/3106.txt\x00\x00\x00DESC/def/2268.txt\x00\x00\x00DESC/reason/5215.txtDESC/manner/3257.txtDESC/desc/4219.txt\x00\x00DESC/def/2901.txt\x00\x00\x00DESC/def/4623.txt\x00\x00\x00DESC/reason/2029.txtDESC/reason/1757.txtDESC/manner/821.txt\x00DESC/manner/4682.txtDESC/manner/2.txt\x00\x00\x00DESC/manner/4302.txtDESC/desc/2518.txt\x00\x00DESC/def/5417.txt\x00\x00\x00DESC/def/1538.txt\x00\x00\x00DESC/desc/1921.txt\x00\x00DESC/def/267.txt\x00\x00\x00\x00DESC/reason/1595.txtDESC/def/2850.txt\x00\x00\x00DESC/def/1191.txt\x00\x00\x00DESC/desc/2507.txt\x00\x00DESC/def/1586.txt\x00\x00\x00DESC/def/3124.txt\x00\x00\x00DESC/desc/3040.txt\x00\x00DESC/desc/2513.txt\x00\x00DESC/manner/763.txt\x00DESC/reason/3258.txtDESC/manner/3342.txtDESC/manner/4686.txtDESC/desc/1961.txt\x00\x00DESC/def/4325.txt\x00\x00\x00DESC/reason/924.txt\x00DESC/manner/2787.txtDESC/manner/5110.txtDESC/def/3570.txt\x00\x00\x00DESC/def/1297.txt\x00\x00\x00DESC/def/4323.txt\x00\x00\x00DESC/reason/4729.txtDESC/desc/1224.txt\x00\x00DESC/reason/5147.txtDESC/def/5299.txt\x00\x00\x00DESC/def/3602.txt\x00\x00\x00DESC/def/1441.txt\x00\x00\x00DESC/desc/5358.txt\x00\x00DESC/manner/2072.txtDESC/reason/582.txt\x00DESC/def/55.txt\x00\x00\x00\x00\x00DESC/desc/1854.txt\x00\x00DESC/reason/626.txt\x00DESC/desc/842.txt\x00\x00\x00DESC/def/137.txt\x00\x00\x00\x00DESC/manner/5132.txtDESC/manner/981.txt\x00DESC/def/3137.txt\x00\x00\x00DESC/reason/3815.txtDESC/reason/4017.txtDESC/desc/24.txt\x00\x00\x00\x00DESC/manner/4616.txtDESC/reason/629.txt\x00DESC/reason/3291.txtDESC/manner/2812.txtDESC/desc/3715.txt\x00\x00DESC/def/2709.txt\x00\x00\x00DESC/desc/693.txt\x00\x00\x00DESC/reason/4329.txtDESC/def/276.txt\x00\x00\x00\x00DESC/manner/3239.txtDESC/manner/1166.txtDESC/manner/5117.txtDESC/manner/4212.txtDESC/reason/932.txt\x00DESC/def/2631.txt\x00\x00\x00DESC/manner/4637.txtDESC/reason/3741.txtDESC/reason/1925.txtDESC/def/2238.txt\x00\x00\x00DESC/def/3579.txt\x00\x00\x00DESC/manner/4694.txtDESC/manner/3714.txtDESC/def/2154.txt\x00\x00\x00DESC/desc/1007.txt\x00\x00DESC/def/97.txt\x00\x00\x00\x00\x00DESC/reason/177.txt\x00DESC/desc/3856.txt\x00\x00DESC/reason/3728.txtDESC/desc/5395.txt\x00\x00DESC/def/2328.txt\x00\x00\x00DESC/def/1605.txt\x00\x00\x00DESC/def/2624.txt\x00\x00\x00DESC/def/809.txt\x00\x00\x00\x00DESC/reason/770.txt\x00DESC/def/3333.txt\x00\x00\x00DESC/reason/4433.txtDESC/desc/515.txt\x00\x00\x00DESC/reason/3618.txtDESC/reason/2089.txtDESC/def/1100.txt\x00\x00\x00DESC/def/2707.txt\x00\x00\x00DESC/def/1427.txt\x00\x00\x00DESC/desc/1466.txt\x00\x00DESC/desc/4997.txt\x00\x00DESC/def/3819.txt\x00\x00\x00DESC/def/4641.txt\x00\x00\x00DESC/manner/4449.txtDESC/reason/1638.txtDESC/manner/4276.txtDESC/desc/3473.txt\x00\x00DESC/desc/4530.txt\x00\x00DESC/manner/5350.txtDESC/manner/75.txt\x00\x00DESC/manner/5423.txtDESC/def/3945.txt\x00\x00\x00DESC/desc/4244.txt\x00\x00DESC/def/4580.txt\x00\x00\x00DESC/def/949.txt\x00\x00\x00\x00DESC/def/2610.txt\x00\x00\x00DESC/desc/1902.txt\x00\x00DESC/manner/2465.txtDESC/desc/480.txt\x00\x00\x00DESC/reason/777.txt\x00DESC/reason/4300.txtDESC/desc/3102.txt\x00\x00DESC/desc/4790.txt\x00\x00DESC/manner/5122.txtDESC/manner/5027.txtDESC/desc/2145.txt\x00\x00DESC/manner/3193.txtDESC/manner/124.txt\x00DESC/reason/3005.txtDESC/def/2593.txt\x00\x00\x00DESC/def/2582.txt\x00\x00\x00DESC/reason/3542.txtDESC/def/5103.txt\x00\x00\x00DESC/reason/1341.txtDESC/manner/5078.txtDESC/reason/4260.txtDESC/desc/5164.txt\x00\x00DESC/manner/2346.txtDESC/def/5109.txt\x00\x00\x00DESC/desc/1727.txt\x00\x00DESC/def/4908.txt\x00\x00\x00DESC/def/3055.txt\x00\x00\x00DESC/def/2365.txt\x00\x00\x00DESC/reason/3767.txtDESC/desc/424.txt\x00\x00\x00DESC/def/2549.txt\x00\x00\x00DESC/manner/2096.txtDESC/reason/5233.txtDESC/manner/4634.txtDESC/def/3200.txt\x00\x00\x00DESC/desc/4240.txt\x00\x00DESC/manner/4290.txtDESC/manner/3455.txtDESC/def/4221.txt\x00\x00\x00DESC/def/4495.txt\x00\x00\x00DESC/reason/3339.txtDESC/def/793.txt\x00\x00\x00\x00DESC/def/2344.txt\x00\x00\x00DESC/def/2977.txt\x00\x00\x00DESC/def/3236.txt\x00\x00\x00DESC/desc/1236.txt\x00\x00DESC/manner/3446.txtDESC/def/3762.txt\x00\x00\x00DESC/def/95.txt\x00\x00\x00\x00\x00DESC/reason/2446.txtDESC/reason/214.txt\x00DESC/reason/453.txt\x00DESC/reason/2256.txtDESC/def/1599.txt\x00\x00\x00DESC/def/243.txt\x00\x00\x00\x00DESC/desc/4758.txt\x00\x00DESC/def/803.txt\x00\x00\x00\x00DESC/def/615.txt\x00\x00\x00\x00DESC/reason/2313.txtDESC/manner/1880.txtDESC/manner/3782.txtDESC/reason/459.txt\x00DESC/def/3486.txt\x00\x00\x00DESC/desc/4852.txt\x00\x00DESC/def/1028.txt\x00\x00\x00DESC/reason/1852.txtDESC/manner/1054.txtDESC/def/1904.txt\x00\x00\x00DESC/manner/619.txt\x00DESC/desc/4546.txt\x00\x00DESC/reason/3534.txtDESC/reason/208.txt\x00DESC/def/63.txt\x00\x00\x00\x00\x00DESC/reason/67.txt\x00\x00DESC/manner/2891.txtDESC/desc/248.txt\x00\x00\x00DESC/def/4025.txt\x00\x00\x00DESC/reason/908.txt\x00DESC/desc/1282.txt\x00\x00DESC/desc/2236.txt\x00\x00DESC/manner/3346.txtDESC/def/2239.txt\x00\x00\x00DESC/desc/939.txt\x00\x00\x00DESC/def/3614.txt\x00\x00\x00DESC/desc/1883.txt\x00\x00DESC/desc/422.txt\x00\x00\x00DESC/desc/5379.txt\x00\x00DESC/def/5442.txt\x00\x00\x00DESC/manner/329.txt\x00DESC/reason/11.txt\x00\x00DESC/desc/5197.txt\x00\x00DESC/reason/3601.txtDESC/def/3615.txt\x00\x00\x00DESC/manner/3175.txtDESC/def/3564.txt\x00\x00\x00DESC/desc/640.txt\x00\x00\x00DESC/def/4827.txt\x00\x00\x00DESC/desc/4929.txt\x00\x00DESC/manner/1225.txtDESC/reason/1011.txtDESC/desc/4581.txt\x00\x00DESC/desc/4673.txt\x00\x00DESC/reason/5192.txtDESC/manner/2729.txtDESC/desc/4890.txt\x00\x00DESC/reason/2114.txtDESC/desc/3205.txt\x00\x00DESC/desc/717.txt\x00\x00\x00DESC/desc/3673.txt\x00\x00DESC/desc/2710.txt\x00\x00DESC/desc/2935.txt\x00\x00DESC/manner/2039.txtDESC/reason/3951.txtDESC/desc/2027.txt\x00\x00DESC/def/2063.txt\x00\x00\x00DESC/reason/2287.txtDESC/desc/3328.txt\x00\x00DESC/manner/1956.txtDESC/manner/3968.txtDESC/manner/44.txt\x00\x00DESC/reason/2757.txtDESC/def/3294.txt\x00\x00\x00DESC/def/697.txt\x00\x00\x00\x00DESC/manner/2726.txtDESC/manner/4146.txtDESC/def/776.txt\x00\x00\x00\x00DESC/manner/227.txt\x00DESC/reason/3663.txtDESC/reason/2503.txtDESC/desc/4865.txt\x00\x00DESC/desc/4269.txt\x00\x00DESC/manner/762.txt\x00DESC/manner/1654.txtDESC/desc/736.txt\x00\x00\x00DESC/def/2105.txt\x00\x00\x00DESC/manner/2885.txtDESC/def/838.txt\x00\x00\x00\x00DESC/desc/2394.txt\x00\x00DESC/reason/3508.txtDESC/manner/5053.txtDESC/manner/2477.txtDESC/def/3224.txt\x00\x00\x00DESC/def/247.txt\x00\x00\x00\x00DESC/reason/3215.txtDESC/def/1459.txt\x00\x00\x00DESC/reason/2166.txtDESC/def/361.txt\x00\x00\x00\x00DESC/def/574.txt\x00\x00\x00\x00DESC/def/4410.txt\x00\x00\x00DESC/def/963.txt\x00\x00\x00\x00DESC/def/66.txt\x00\x00\x00\x00\x00DESC/desc/3902.txt\x00\x00DESC/desc/4909.txt\x00\x00DESC/desc/2556.txt\x00\x00DESC/def/1717.txt\x00\x00\x00DESC/def/1188.txt\x00\x00\x00DESC/reason/3660.txtDESC/desc/2200.txt\x00\x00DESC/def/59.txt\x00\x00\x00\x00\x00DESC/def/3084.txt\x00\x00\x00DESC/manner/2182.txtDESC/def/3461.txt\x00\x00\x00DESC/manner/2686.txtDESC/reason/3986.txtDESC/manner/4227.txtDESC/def/5018.txt\x00\x00\x00DESC/manner/1471.txtDESC/def/4560.txt\x00\x00\x00DESC/reason/2164.txtDESC/desc/1543.txt\x00\x00DESC/manner/3051.txtDESC/def/4057.txt\x00\x00\x00DESC/reason/1712.txtDESC/def/3225.txt\x00\x00\x00DESC/def/2749.txt\x00\x00\x00DESC/manner/1752.txtDESC/def/8.txt\x00\x00\x00\x00\x00\x00DESC/manner/1081.txtDESC/desc/3411.txt\x00\x00DESC/reason/2290.txtDESC/reason/2412.txtDESC/reason/4554.txtDESC/def/3280.txt\x00\x00\x00DESC/def/1391.txt\x00\x00\x00DESC/manner/2414.txtDESC/desc/2474.txt\x00\x00DESC/reason/632.txt\x00DESC/def/2013.txt\x00\x00\x00DESC/manner/4463.txtDESC/desc/3387.txt\x00\x00DESC/manner/2428.txtDESC/def/3679.txt\x00\x00\x00DESC/def/1185.txt\x00\x00\x00DESC/def/4816.txt\x00\x00\x00DESC/desc/4072.txt\x00\x00DESC/def/635.txt\x00\x00\x00\x00DESC/def/2798.txt\x00\x00\x00DESC/manner/3495.txtDESC/def/1243.txt\x00\x00\x00DESC/desc/4906.txt\x00\x00DESC/manner/3378.txtDESC/desc/3320.txt\x00\x00DESC/reason/5186.txtDESC/desc/82.txt\x00\x00\x00\x00DESC/manner/738.txt\x00DESC/def/3100.txt\x00\x00\x00DESC/reason/1114.txtDESC/manner/106.txt\x00DESC/desc/2483.txt\x00\x00DESC/reason/4120.txtDESC/desc/1913.txt\x00\x00DESC/manner/3792.txtDESC/manner/202.txt\x00DESC/def/3801.txt\x00\x00\x00DESC/def/1244.txt\x00\x00\x00DESC/desc/1642.txt\x00\x00DESC/def/4173.txt\x00\x00\x00DESC/manner/677.txt\x00DESC/def/622.txt\x00\x00\x00\x00DESC/manner/289.txt\x00DESC/def/5099.txt\x00\x00\x00DESC/manner/2320.txtDESC/def/2430.txt\x00\x00\x00DESC/manner/4157.txtDESC/reason/4996.txtDESC/def/1969.txt\x00\x00\x00DESC/def/497.txt\x00\x00\x00\x00DESC/desc/1765.txt\x00\x00DESC/def/2341.txt\x00\x00\x00DESC/reason/2903.txtDESC/reason/439.txt\x00DESC/reason/5155.txtDESC/manner/3862.txtDESC/reason/5095.txt'
+p1201
+tp1202
+bstp1203
+Rp1204
+g1204
+b.
