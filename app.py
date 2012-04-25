@@ -31,12 +31,12 @@ class KnowetryHandler(tornado.web.RequestHandler):
             'city' : 'She was back from the farmer\'s market.\n"%s"\nshe muttered, and nonchalantly flicked\nthe last of her cigarette to the ground.\n"I bet you would like me to tell you\nthe name of that city, and whether it has\nany independent book stores," I said.' % question[0],
             'country' : '"%s"\nhe asked, as he crushed the solo cup.\n"Brosef, you know you\'re my best bud.\nI really wish I could tell you\nthe name of that country," I said.' % question[0], 
             'mount' : '"%s"\nhe wondered aloud.\n"It would be such an achievement\nto climb that mountain.\nI\'ll start training as soon as I finish\nplaying Angry Birds.' % question[0], 
-            'other' : 'I have not written an other poem template yet', 
-            'state' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what state that is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0], 
+            'other' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know where that place is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0],
+            'state' : '"%s"\n"I\'m not sure what state it\'s in,\nto be honest.\nDon\'t get me wrong--\nI\'m sure it\'s a great state.\nI\'m sure the local people there\nhave a great tradition\nof doing the customs and activites they enjoy,"\nsaid Romney, as he demonstrated\nhis new Relate-to-Humans algorithm.' % question[0],
         }
         d['NUM'] = {
             'code' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what the number is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0],  
-            'count' : 'I have not written a poem template for this yet',
+            'count' : 'b',
             'date' : '"%s"\nshe asked.\nShe was missing the point,\nand it killed me.\n"I know this is not\nthe date you asked about, but\nit is more important.\nMy birthday is May 26th."' % question[0],
             'dist' : '"%s"\nwas all that was written\non the ransom note.\n"Nobody knows that distance!\nIt is unknowable!" he cried,\nripping the document into pieces.' % question[0], 
             'money' : '"%s"\nasked Kevin.\n"Now that I\'ve sold Instagram\nI can buy... at least four."' % question[0],
