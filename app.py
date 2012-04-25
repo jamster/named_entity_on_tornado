@@ -31,7 +31,7 @@ class KnowetryHandler(tornado.web.RequestHandler):
             'city' : 'She was back from the farmer\'s market.\n"%s"\nshe muttered, and nonchalantly flicked\nthe last of her cigarette to the ground.\n"I bet you would like me to tell you\nthe name of that city, and whether it has\nany independent book stores," I said.' % question[0],
             'country' : '"%s"\nhe asked, as he crushed the solo cup.\n"Brosef, you know you\'re my best bud.\nI really wish I could tell you\nthe name of that country," I said.' % question[0], 
             'mount' : '"%s"\nhe wondered aloud.\n"It would be such an achievement\nto climb that mountain.\nI\'ll start training as soon as I finish\nplaying Angry Birds.' % question[0], 
-            'other' : ' ', 
+            'other' : 'I have not written an other poem template yet', 
             'state' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what state that is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0], 
         }
         d['NUM'] = {
@@ -50,32 +50,32 @@ class KnowetryHandler(tornado.web.RequestHandler):
             'weight' : '"%s"\nshe asked, her eyes smoldering\n"I bet you would like me to tell you\nthat weight," I said.\nBut I don\'t know. If I had to guess, about...\n...14?' % question[0],  
         }
         d['ABBR'] = {
-            'abb' : 'a', 
+            'abb' : 'I have not written an abbr poem template yet', 
             'exp' : '"%s"\nhe screamed down from the rafters.\n"Calm down! You can find the meanings\nof abbreviations and acronyms\non Wikipedia!" said the bowling alley\'s patrons.' % question[0], 
         }
         d['ENTY'] = {
             'animal' : '"%s"\nshe asked, her eyes ablaze\n"I bet you would like me to tell you\nthe name of that animal, and whether\nit is edible," I said.\n"But like many of nature\'s secrets,\nit is unknowable to man."' % question[0], 
-            'body' : 'b',
-            'color' : 'a', 
+            'body' : 'I have not written a body poem template yet',
+            'color' : 'I have not written a color poem template yet', 
             'cremat' : '"%s"\nIt sounds like you\'re interested\nin some sort of creative or cultural material.\nLet me recommend Michael Bay\'s seminal 2011 piece\n"Transformers: Dark of the Moon."' % question[0],
             'currency' : '"\'%s\'\nDamnit Daniel, you know this.\nYou\'ve been preparing for years for this.\nJust say the right currency,\nand maybe people will forgive you, finally,\nfor what happened that day at the go-cart track."' % question[0],
             'dismed' : '"%s"\naOne need not worry\nabout diseases and medicines\nThrough poetry\nthe soul is immutable.' % question[0],
             'event' : '"%s"\n"Uh dude, I don\'t know what you are\nreferring to. But let me tell you\nabout one historical event\nthat I do know about:\nLAST NIGHT!!!!!\nBro, it was sick.\nWe played pong at Goodfellow\'s\nIt was Will\'s birthday.\nWe made Dave do all these shots\nand he threw up on this one girl."' % question[0],
-            'food' : ' ', 
-            'instru' : ' ', 
-            'lang' : ' ', 
-            'letter' : ' ', 
-            'other' : ' ', 
+            'food' : 'I have not written a food poem template yet', 
+            'instru' : 'I have not written an isntru poem template yet', 
+            'lang' : 'I have not written a lang poem template yet', 
+            'letter' : 'I have not written a letter poem template yet', 
+            'other' : 'I have not written an other poem template yet', 
             'plant' : 'Plants\nand trees\nand shrubberies\nand salad\nand such',
             'product' : '"%s"\nI do not know what that product is\nbecause it is not\nin my copy of SkyMall.' % question[0],
-            'religion' : ' ', 
+            'religion' : 'I have not written a religion poem template yet', 
             'sport' : '"%s"\n"Uh, I\'m not sure which one that is,\nbut I like sports too.\nI\'ll grab my Dale Earnhardt Sr. tank top\nand we can get some Bud Light with Lime\nand watch the race."' % question[0],
-            'substance' : ' ', 
-            'symbol' : ' ', 
+            'substance' : 'I have not written a substance poem template yet', 
+            'symbol' : 'I have not written a symbol poem template yet', 
             'techmeth' : "This is the technology, methods and procedures class. Frankly, it is so overfit that it is unlikely anyone will encounter it.",
             'termeq' : '"%s"\nAre you looking for a synonym\nor a coordinate term?\n"These distinctions are important!"\nthe linguist screams.' % question[0],
             'veh' : '"%s"\nI don\'t know, but\nvehicles make me think about how\nEvery night in my dreams\nI see you, I feel you\nThat is how I know you, go on\nNear, far, wherever you are\nI believe that the heart does go on\nOnce more you open the door\nAnd you\'re here in my heart\nAnd my heart will go on and on.' % question[0],
-            'word' : ' ', 
+            'word' : 'I have not written a word poem template yet', 
         }
         d['DESC'] = {
             'def' : '"%s"\n"How can I tell you what that means\nwhen I can\'t even tell you\nwhat it means\nTO BE."\nreplied young, angsty Gavin.' % question[0], 
