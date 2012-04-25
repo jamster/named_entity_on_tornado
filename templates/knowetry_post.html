@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block header %}
+{% end %}
+
+{% block content %}
+<div class="">
+	<div class="">
+		<h2>Your question:</h2>
+		{{ question }}
+		<br />
+		<br />
+	</div>
+	<div class="">
+		<h2>Your kNOem:</h2>
+		<h3><pre>{{ poem }}</pre></h3>
+		<br />
+	</div>
+	<div class="">
+		<h2>Answer-type:</h2>
+		{{ answer_type_coarse + ', specifically: ' + answer_type_fine }}
+		<br />
+	</div>
+</div>
+{% end %}
+
+{% block footer %}
+
+{% end %}

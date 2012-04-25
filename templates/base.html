@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <head>
-  <title>gavinmhackeling.com</title>
-  <link rel="stylesheet" href="/static/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/static/css/styles.css">  
+	<title>gavinmhackeling.com</title>
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/static/css/styles.css">
+<link href='http://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<div class="container" style="text-align:center;">
-<div id="header" class="" style="text-align:center;">
-  {% block header %}{% end %}
-</div>
+	<div class="container" class="" style="text-align:center;">
+		<div id="header" class="">
+			<h1 class="logo">k<span id="no" style="color:#08C;"><u>no</u></span>wetry!</h1>
+			<br/>
+			<small>It's a portmanteau of "know" and "poetry" with emphasis on "no," as in "No, this is not actually helpful or poetry."</small>
+			{% block header %}{% end %}
+		</div>
 
-<div id="content" class="">
-  {% block content %}{% end %}
-</div>
-<div id="footer" class="">
-  {% block footer %}{% end %}
-</div>
-</div>
+		<div id="content" class="">
+			{% block content %}{% end %}
+		</div>
+		<div id="footer" class="">
+			{% block footer %}{% end %}
+		</div>
+	</div>
 </body>
 </html>

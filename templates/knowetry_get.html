@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block header %}
+{% end %}
+
+{% block content %}
+<h3>Enter a question, kNOwetry will respond with a poem.</h3>
+<br/>
+<form method="POST" action="/knowetry">
+	<div>
+		<input type="text" class="span4" name="pastequestion" placeholder="Enter a Question" id="pastequestion" ></input>
+	</div>
+	<div>
+		<input type="submit" class="span4" value="Meticulously craft a kNOem" />
+	</div>
+</form>
+{% end %}
+
+{% block footer %}
+<br/>
+<a href='/howdoesitwork'>How does kNOwetry work?</a>
+{% end %}
