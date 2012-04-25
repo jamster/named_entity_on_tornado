@@ -36,7 +36,7 @@ class KnowetryHandler(tornado.web.RequestHandler):
         }
         d['NUM'] = {
             'code' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what the number is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0],  
-            'count' : 'b',
+            'count' : 'I have not written a poem template for this yet',
             'date' : '"%s"\nshe asked.\nShe was missing the point,\nand it killed me.\n"I know this is not\nthe date you asked about, but\nit is more important.\nMy birthday is May 26th."' % question[0],
             'dist' : '"%s"\nwas all that was written\non the ransom note.\n"Nobody knows that distance!\nIt is unknowable!" he cried,\nripping the document into pieces.' % question[0], 
             'money' : '"%s"\nasked Kevin.\n"Now that I\'ve sold Instagram\nI can buy... at least four."' % question[0],
