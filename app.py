@@ -24,30 +24,30 @@ class KnowetryHandler(tornado.web.RequestHandler):
         d['HUM'] = {
             'desc' : '"%s"\nDescribe this person\'s manners\ncomportment\nbearing\nvicissitudes\nSpare me no details.' % question[0],
             'gr' : '"%s"\nhe inquired.\n"I bet you would like me to tell you\nthe name of that group of people\nand make a pronouncement about\ntheir collective moral fiber,\nBut I am loath to make such a\ngeneralization."' % question[0],
-            'ind' : '"%s"\nshe asked, her eyes smoldering\n"I bet you would like me to tell you\nthe name of that person," I said.\nBut I don\'t know. If I had to guess, maybe...\n...Gary?' % question[0], 
-            'title' : '"%s"\nasked the new kid.\nI could tell he was a shark;\nhe\'s gunning for the job.\n"You want to know what that person\'s title is?"\nI asked. "He\'s the Vice President in Charge of Not Being a Snitch."' % question[0], 
+            'ind' : '"%s!\n%s!\nDammit Claire! I don\'t know who that person is.\nI am a man, a man with feelings,\nnot some kind of human encyclopedia!"' % (question[0], question[0].upper),
+            'title' : '"%s"\nasked the new kid.\nI could tell he was a shark;\nhe\'s gunning for the job.\n"You want to know what that person\'s title is?"\nI asked. "He\'s the Vice President\nin Charge of Not-Being-a-Snitch."' % question[0], 
         }
         d['LOC'] = {
             'city' : 'She was back from the farmer\'s market.\n"%s"\nshe muttered, and nonchalantly flicked\nthe last of her cigarette to the ground.\n"I bet you would like me to tell you\nthe name of that city, and whether it has\nany independent book stores," I said.' % question[0],
             'country' : '"%s"\nhe asked, as he crushed the solo cup.\n"Brosef, you know you\'re my best bud.\nI really wish I could tell you\nthe name of that country," I said.' % question[0], 
-            'mount' : '"%s"\nhe wondered aloud.\n"It would be such an achievement\nto climb that mountain.\nI\'ll start training as soon as I finish\nplaying Angry Birds.' % question[0], 
+            'mount' : '"%s"\nhe wondered aloud.\n"It would be such an achievement\nto climb that mountain.\nI\'ll start training as soon as I finish\nplaying Angry Birds."' % question[0], 
             'other' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know where that place is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0],
-            'state' : '"%s"\n"I\'m not sure what state it\'s in,\nto be honest.\nDon\'t get me wrong--\nI\'m sure it\'s a great state.\nI\'m sure the local people there\nhave a great tradition\nof doing the customs and activites they enjoy,"\nsaid Romney, as he demonstrated\nhis new Relate-to-Humans algorithm.' % question[0],
+            'state' : '"%s"\n"Gee, I\'m not sure what state it\'s in,\nto be honest.\nDon\'t get me wrong--\nI\'m sure it\'s a great state.\nI\'m sure the local people there\nhave a great tradition\nof doing the customs\nand things and activites they enjoy,"\nsaid Romney, as he executed\nhis new Relate-to-Humans algorithm.' % question[0],
         }
         d['NUM'] = {
-            'code' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what the number is,\nand I\'m going to have to escort you out\nof the petting zoo," the attendant calmly replied.' % question[0],  
-            'count' : 'b',
-            'date' : '"%s"\nshe asked.\nShe was missing the point,\nand it killed me.\n"I know this is not\nthe date you asked about, but\nit is more important.\nMy birthday is May 26th."' % question[0],
+            'code' : '"%s"\nhe shrieked and shook me\nby the shoulders.\n"Sir, I don\'t know what the number is,\nand I\'m going to have to escort you out\nof the petting zoo," I calmly replied.' % question[0],  
+            'count' : '"%s"\nshe asked, her eyes smoldering\n"I bet you would like me to tell you\nthe number or quantity you asked about," I said.\nBut I don\'t know. If I had to guess, maybe...\n...37?' % question[0], 
+            'date' : '"%s"\nshe asked.\nShe was missing the point,\nand it killed me.\n"I know this is not\nthe date you asked about, but\nit is more important.\nTo you, to me\nto every last one of us.\nMy birthday is May 26th."' % question[0],
             'dist' : '"%s"\nwas all that was written\non the ransom note.\n"Nobody knows that distance!\nIt is unknowable!" he cried,\nripping the document into pieces.' % question[0], 
-            'money' : '"%s"\nasked Kevin.\n"Now that I\'ve sold Instagram\nI can buy... at least four."' % question[0],
-            'ord' : 'You asked about an order or ranking.Congratulations! These questions are under-represented in the training corpus.', 
+            'money' : '"%s"\npondered Kevin.\n"Now that I\'ve sold Instagram\nI can buy... at least four."' % question[0],
+            'ord' : 'It was 2032 when Clippy the Office Assistant\nbecame sentient.\n"%s"\nClippy swiftly destroyed\nall documents alluding to the correct order.\n"It looks like you\'re writing a letter," mocked the godless machine.' % question[0],  
             'other' : 'You asked about a number\nBut I do not have\na more specific category.\nTry this poem\nby William Wordswoth instead\n"And to the left, three yards beyond,\nYou see a little muddy pond\nOf water--never dry\nI measured it from side to side:\nTwas four feet long, and three feet wide"\nWilliam,\nNice job measuring.', 
-            'perc' : '"%s"\nshe hissed.\nIt would take all of my wits\nto answer with the correct percentage\nand get out alive.'% question[0],  
+            'perc' : '"%s"\nthe snow queen hissed.\nIt would take all of my wits\nto answer with the correct percentage\nand get out alive.'% question[0],  
             'period' : '"%s"\nhe demanded, panicking.\nI knew the duration\nof what he asked about.\nBut I had the upper hand now\nAnd I was not about to waste it\nwith the truth.' % question[0],
             'speed' : '"%s"\n"Let me tell you-\nAnd I don\'t tell this\nto just anyone ya know-\nthe speed is quite impressive."'% question[0],
             'temp' : '"\'%s\'you ask?\nI bet you would like\nfor me to tell you\nthat temperature.\nJust like if someone\nhad told me what temperature\nchicken needs to be cooked to\nall those party guests\nmight still be alive."' % question[0],
             'volsize' : 'It was 2032 when Clippy the Office Assistant\nbecame sentient.\n"%s"\nClippy swiftly destroyed\nall documents alluding to the correct size.\n"It looks like you\'re writing a letter," mocked the godless machine.' % question[0],  
-            'weight' : '"%s"\nshe asked, her eyes smoldering\n"I bet you would like me to tell you\nthat weight," I said.\nBut I don\'t know. If I had to guess, about...\n...14?' % question[0],  
+            'weight' : 'It was 2032 when Clippy the Office Assistant\nbecame sentient.\n"%s"\nClippy swiftly destroyed\nall documents alluding to the correct weight.\n"It looks like you\'re writing a letter," mocked the godless machine.' % question[0],   
         }
         d['ABBR'] = {
             'abb' : 'I have not written an abbr poem template yet', 
@@ -56,26 +56,26 @@ class KnowetryHandler(tornado.web.RequestHandler):
         d['ENTY'] = {
             'animal' : '"%s"\nshe asked, her eyes ablaze\n"I bet you would like me to tell you\nthe name of that animal, and whether\nit is edible," I said.\n"But like many of nature\'s secrets,\nit is unknowable to man."' % question[0], 
             'body' : 'I have not written a body poem template yet',
-            'color' : 'I have not written a color poem template yet', 
+            'color' : 'The remaining people\ncould only dart from pile to\npile of rubble.\nExposed for too long,\nthey\'d desicate on the wasted earth\'s surface.\n"%s"\nthey would ask each other\nto remind themselves of the time\nwhen gray did not cover\nthe sea and sky.' % question[0],
             'cremat' : '"%s"\nIt sounds like you\'re interested\nin some sort of creative or cultural material.\nLet me recommend Michael Bay\'s seminal 2011 piece\n"Transformers: Dark of the Moon."' % question[0],
             'currency' : '"\'%s\'\nDamnit Daniel, you know this.\nYou\'ve been preparing for years for this.\nJust say the right currency,\nand maybe people will forgive you, finally,\nfor what happened that day at the go-cart track."' % question[0],
             'dismed' : '"%s"\naOne need not worry\nabout diseases and medicines\nThrough poetry\nthe soul is immutable.' % question[0],
             'event' : '"%s"\n"Uh dude, I don\'t know what you are\nreferring to. But let me tell you\nabout one historical event\nthat I do know about:\nLAST NIGHT!!!!!\nBro, it was sick.\nWe played pong at Goodfellow\'s\nIt was Will\'s birthday.\nWe made Dave do all these shots\nand he threw up on this one girl."' % question[0],
-            'food' : 'I have not written a food poem template yet', 
-            'instru' : 'I have not written an isntru poem template yet', 
-            'lang' : 'I have not written a lang poem template yet', 
-            'letter' : 'I have not written a letter poem template yet', 
+            'food' : '"%s"\n"What kind of food is that,\nand is it healthy?\nMy doctor keeps telling me I\'m going\nto die\nif I don\'t eat better, so\nthis morning I had some Fruit Loops\nwith Diet Mountain Dew Code Red\ninstead of regular Mountain Dew\nand also instead of milk."' % question[0],
+            'instru' : '"%s\nThe \'instrument\' class is under-represented and over-fitted in the training data. Nobody will ever see this response. I could put those professional boudoir photos I posed for last weekend on this page and they would be completely safe!"' % question[0],
+            'lang' : '"What language is that?\nI don\'t know, but it is not Javascript\nbecause you don\'t look like you want\nto kill yourself because\nof some missing semicolon somewhere"' % question[0],
+            'letter' : '"%s\nThe \'letter\' class is under-represented and over-fitted in the training data. Nobody will ever see this response. I could put those professional boudoir photos I posed for last weekend on this page and they would be completely safe!"' % question[0],
             'other' : 'I have not written an other poem template yet', 
             'plant' : 'Plants\nand trees\nand shrubberies\nand salad\nand such',
-            'product' : '"%s"\nI do not know what that product is\nbecause it is not\nin my copy of SkyMall.' % question[0],
+            'product' : '"%s"\nI do not know what that product is\nbecause it is not\nin my copy of SkyMall.\nMay I suggest a USB-powered\nbasset-hound lawn ornament instead?' % question[0],
             'religion' : 'I have not written a religion poem template yet', 
             'sport' : '"%s"\n"Uh, I\'m not sure which one that is,\nbut I like sports too.\nI\'ll grab my Dale Earnhardt Sr. tank top\nand we can get some Bud Light with Lime\nand watch the race."' % question[0],
-            'substance' : 'I have not written a substance poem template yet', 
-            'symbol' : 'I have not written a symbol poem template yet', 
-            'techmeth' : "This is the technology, methods and procedures class. Frankly, it is so overfit that it is unlikely anyone will encounter it.",
-            'termeq' : '"%s"\nAre you looking for a synonym\nor a coordinate term?\n"These distinctions are important!"\nthe linguist screams.' % question[0],
-            'veh' : '"%s"\nI don\'t know, but\nvehicles make me think about how\nEvery night in my dreams\nI see you, I feel you\nThat is how I know you, go on\nNear, far, wherever you are\nI believe that the heart does go on\nOnce more you open the door\nAnd you\'re here in my heart\nAnd my heart will go on and on.' % question[0],
-            'word' : 'I have not written a word poem template yet', 
+            'substance' : '"%s"\n"Why, the same four elements-\nearth, wind, fire and water-\nconstitute all material things,"\nsaid the wizard.\nAt least I thought he was a wizard,\nit may have been Richard Stallman.' % question[0],
+            'symbol' : '"%s\nThe \'symbol\' class is under-represented and over-fitted in the training data. Nobody will ever see this response. I could put those professional boudoir photos I posed for last weekend on this page and they would be completely safe!"' % question[0],
+            'techmeth' : '"%s\nThis \'technology and methods\' class is under-represented and over-fitted in the training data. Nobody will ever see this response. I could put those professional boudoir photos I posed for last weekend on this page and they would be completely safe."' % question[0],
+            'termeq' : '"%s"\nAre you looking for a synonym\nor a coordinate term?\n"These distinctions are important!"\nthe linguist screamed.' % question[0],
+            'veh' : '"%s\nThe \'vehicle\' class is under-represented and over-fitted in the training data. Nobody will ever see this response. I could put those professional boudoir photos I posed for last weekend on this page and they would be completely safe!"' % question[0],
+            'word' : '"\'%s\'\nDammit Daniel, you haven\'t spent the last\ntwo decades memorizing the dictionary for nothing.\nYou know this.\nJust say the right word,\nand maybe people will forgive you, finally,\nfor what happened that night that you filled in as manager\nof the KFC."' % question[0],
         }
         d['DESC'] = {
             'def' : '"%s"\n"How can I tell you what that means\nwhen I can\'t even tell you\nwhat it means\nTO BE."\nreplied young, angsty Gavin.' % question[0], 
@@ -139,7 +139,7 @@ class KnowetryHandler(tornado.web.RequestHandler):
         )
         expanded_types['def'] = 'Definition'
 
-        #os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
+        #SWITCH os.chdir('/home/gavin/Documents/dev/python/ec2_tornado/static/pickles')
         os.chdir('/home/ubuntu/www/static/pickles')
         categories = ['HUM', 'LOC', 'NUM', 'ENTY', 'DESC', 'ABBR']
         fine_categories = dict(HUM=['desc',  'gr',  'ind',  'title'], 
@@ -170,9 +170,9 @@ class KnowetryHandler(tornado.web.RequestHandler):
             categories = fine_categories[coarse_category]
             print categories
             
-            #os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
+            #SWITCH os.chdir('/home/gavin/Documents/dev/ie/corpora/data/fine/')
             os.chdir('/home/ubuntu/www/static/pickles')
-            # open fine data pickle
+            #open fine data pickle
             print 'opening data pickle: ' + 'pickle_training_%s.pkl' % coarse_category
             data_pickle = open('pickle_training_%s.pkl' % coarse_category,  'rb')
             train_data= pickle.load(data_pickle)
